@@ -1,0 +1,33 @@
+﻿※ ∅ x
+
+p t   k    q
+b d   g
+
+f s c      h
+v z j
+m n
+  l
+  r
+    y w       ※ 20 consonants
+        
+    i u
+    e o
+     a        ※ 5 vowels
+
+−−−−−−−−
+
+q → ʔ
+c → ʃ
+j → ʒ
+y → j
+
+−−−−−−−−
+
+※ Awkword grammar:
+
+C: 20  |  p/t/k/q/b/d/g/f/s/c/h/v/z/j/m/n/l/r/y/w
+V: 5   |  a/e/o/i/u
+
+※ Syllable: CV
+※ Number of possible syllables: 20×5 = 100
+
