@@ -2,7 +2,7 @@
 
 # SPDX-License-Identifier: ISC
 
-import os, io, csv, json
+import os, io, csv, json, yaml
 import requests
 from collections import OrderedDict
 
@@ -34,6 +34,10 @@ def edit_json_from_path(input_path, function, output_path = None):
 def dicts_from_json_path(path):
   with open(path, "r", encoding = "utf-8") as f:
     return json.loads(f.read(), object_pairs_hook = OrderedDict)
+
+def dicts_from_yaml_path(path):
+  with open(path, "r", encoding = "utf-8") as f:
+    return yaml.full_load(f.read())
 
 def table_from_csv_path(path, delim = ','):
   with open(path, "r", encoding = "utf-8") as f:
@@ -107,6 +111,14 @@ def save_as_json_file(dicts, path, indent = 2):
     o.truncate()
     o.write(bytes(
       json.dumps(dicts, indent = indent, ensure_ascii = False),
+      encoding = "utf8"
+    ))
+
+def save_as_yaml_file(dicts, path, indent = 2):
+  with open(path, "wb") as o:
+    o.truncate()
+    o.write(bytes(
+      yaml.dump(dicts, indent = indent),
       encoding = "utf8"
     ))
 
