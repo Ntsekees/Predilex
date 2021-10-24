@@ -1,5 +1,5 @@
 ﻿
-=== WHAT IS PREDILEX ===
+# WHAT IS PREDILEX
 
 Predilex is a database of predicates, with definitions in English or other languages, along with cross-referencing with lexical units from several logical languages, semantic categorization and tagging, listing of hypernyms and hyponyms, and a variety of other data.
 
