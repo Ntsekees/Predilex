@@ -9,3 +9,8 @@ If you open the CSV file in a software such as Libroffice, you may want to selec
 The Predilex data may also be viewed in readonly in Google Sheets at the following address:
 https://docs.google.com/spreadsheets/d/1z_k_gHH67rBpQTgBOP6diBU-X163jowd-gWxC1CUfEI/edit?usp=sharing
 
+# License
+
+See the file [`LICENSE.md`](LICENSE.md).
+
+∎
