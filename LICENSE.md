@@ -21,6 +21,8 @@ is provided under the Creative Commons Public Domain Dedication (“CC Zero”) 
 The following files:
 
 * `tools/common.py`
+* `tools/transfer_data/transfer_data.py`
+* `tools/transfer_data/element_from_address.py`
 * `tools/remove_toaq_duplicates.py`
 * `tools/update_arities.py`
 * `tools/update_ids.py`

@@ -1,0 +1,270 @@
+[
+  {
+    "predilex_id": "",
+    "translations": [
+      {
+        "language": "eng",
+        "definition_type": "informal",
+        "definition": "▯ is red.",
+        "notes": [],
+        "keywords": [],
+        "gloss": "red",
+        "fork_of": [],
+        "author": "official",
+        "date": "",
+        "score": 0
+      },
+      {
+        "language": "toa",
+        "definition_type": "informal",
+        "definition": "jủı rẻo ja baq sỉaı ỏcha",
+        "notes": [],
+        "keywords": [],
+        "gloss": "",
+        "fork_of": [],
+        "author": "uakci",
+        "date": "2022-02-11T20:15:14.570Z",
+        "score": 0
+      },
+      {
+        "language": "tok",
+        "definition_type": "informal",
+        "definition": "▯ li loje",
+        "notes": [],
+        "keywords": [],
+        "gloss": "",
+        "fork_of": [],
+        "author": "el",
+        "date": "2022-07-10T01:54:06.188Z",
+        "score": 0
+      }
+    ],
+    "toaq_forms": [
+      {
+        "id": "official:kıa",
+        "is_official": true,
+        "author": "official",
+        "date": "",
+        "toaq": "kıa",
+        "is_a_lemma": true,
+        "audio": [],
+        "class": "predicate",
+        "is_namesake": null,
+        "frame": "a",
+        "generics": "",
+        "noun_classes": "",
+        "examples": [],
+        "segmentations": [],
+        "etymology": [],
+        "toadua_etymologies": [],
+        "comments": [],
+        "score": 0
+      }
+    ],
+    "distribution": "d",
+    "slot_tags": [],
+    "tags": [],
+    "related": [],
+    "derived": [],
+    "similar": [],
+    "synonyms": [],
+    "antonyms": [],
+    "hypernyms": [],
+    "hyponyms": []
+  },
+  {
+    "predilex_id": "",
+    "translations": [
+      {
+        "language": "eng",
+        "definition_type": "informal",
+        "definition": "▯ is green.",
+        "notes": [],
+        "keywords": [],
+        "gloss": "green",
+        "fork_of": [],
+        "author": "official",
+        "date": "",
+        "score": 0
+      },
+      {
+        "language": "toa",
+        "definition_type": "informal",
+        "definition": "rẻo sa báq nỉu dóshı da",
+        "notes": [],
+        "keywords": [],
+        "gloss": "",
+        "fork_of": [],
+        "author": "uakci",
+        "date": "2019-04-15T09:14:47.000Z",
+        "score": 0
+      },
+      {
+        "language": "tok",
+        "definition_type": "informal",
+        "definition": "▯ li laso kasi",
+        "notes": [],
+        "keywords": [],
+        "gloss": "",
+        "fork_of": [],
+        "author": "el",
+        "date": "2022-07-10T01:57:55.349Z",
+        "score": 0
+      }
+    ],
+    "toaq_forms": [
+      {
+        "id": "official:rıq",
+        "is_official": true,
+        "author": "official",
+        "date": "",
+        "toaq": "rıq",
+        "is_a_lemma": true,
+        "audio": [],
+        "class": "predicate",
+        "is_namesake": null,
+        "frame": "a",
+        "generics": "",
+        "noun_classes": "",
+        "examples": [],
+        "segmentations": [],
+        "etymology": [],
+        "toadua_etymologies": [],
+        "comments": [],
+        "score": 0
+      }
+    ],
+    "distribution": "d",
+    "slot_tags": [],
+    "tags": [],
+    "related": [],
+    "derived": [],
+    "similar": [],
+    "synonyms": [],
+    "antonyms": [],
+    "hypernyms": [],
+    "hyponyms": []
+  },
+  {
+    "predilex_id": "",
+    "translations": [
+      {
+        "language": "eng",
+        "definition_type": "informal",
+        "definition": "▯ is blue.",
+        "notes": [],
+        "keywords": [],
+        "gloss": "blue",
+        "fork_of": [],
+        "author": "official",
+        "date": "",
+        "score": 0
+      },
+      {
+        "language": "toa",
+        "definition_type": "informal",
+        "definition": "rẻo sa báq sẻoq rào sa báq dỉo dóshı da",
+        "notes": [],
+        "keywords": [],
+        "gloss": "",
+        "fork_of": [],
+        "author": "uakci",
+        "date": "2019-04-15T09:14:25.000Z",
+        "score": 0
+      },
+      {
+        "language": "tok",
+        "definition_type": "informal",
+        "definition": "▯ li laso telo",
+        "notes": [],
+        "keywords": [],
+        "gloss": "",
+        "fork_of": [],
+        "author": "el",
+        "date": "2022-07-10T01:57:49.606Z",
+        "score": 0
+      }
+    ],
+    "toaq_forms": [
+      {
+        "id": "official:mıo",
+        "is_official": true,
+        "author": "official",
+        "date": "",
+        "toaq": "mıo",
+        "is_a_lemma": true,
+        "audio": [],
+        "class": "predicate",
+        "is_namesake": null,
+        "frame": "a",
+        "generics": "",
+        "noun_classes": "",
+        "examples": [],
+        "segmentations": [],
+        "etymology": [],
+        "toadua_etymologies": [],
+        "comments": [],
+        "score": 0
+      }
+    ],
+    "distribution": "d",
+    "slot_tags": [],
+    "tags": [],
+    "related": [],
+    "derived": [],
+    "similar": [],
+    "synonyms": [],
+    "antonyms": [],
+    "hypernyms": [],
+    "hyponyms": []
+  },
+  {
+    "predilex_id": "",
+    "translations": [
+      {
+        "language": "eng",
+        "definition_type": "informal",
+        "definition": "▯ is a Saturday.",
+        "notes": [],
+        "keywords": [],
+        "gloss": "saturday",
+        "fork_of": [],
+        "author": "official",
+        "date": "",
+        "score": 0
+      }
+    ],
+    "toaq_forms": [
+      {
+        "id": "official:mıochaq",
+        "is_official": true,
+        "author": "official",
+        "date": "",
+        "toaq": "mıochaq",
+        "is_a_lemma": true,
+        "audio": [],
+        "class": "predicate",
+        "is_namesake": null,
+        "frame": "a",
+        "generics": "",
+        "noun_classes": "",
+        "examples": [],
+        "segmentations": [],
+        "etymology": [],
+        "toadua_etymologies": [],
+        "comments": [],
+        "score": 0
+      }
+    ],
+    "distribution": "d",
+    "slot_tags": [],
+    "tags": [],
+    "related": [],
+    "derived": [],
+    "similar": [],
+    "synonyms": [],
+    "antonyms": [],
+    "hypernyms": [],
+    "hyponyms": []
+  }
+]

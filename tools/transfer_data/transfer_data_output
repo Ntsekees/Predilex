@@ -1,0 +1,66 @@
+zen:
+  family: R
+  long: (E-Xd) is white/light [color adjective].
+  short: white
+  tags:
+  - color
+  predilex_tags: has_color trichromatic
+  predilex_id: qokaza
+gon:
+  family: R
+  long: (E-Xd) is black/dark [color adjective].
+  short: black
+  tags:
+  - color
+  predilex_tags: has_color trichromatic
+  predilex_id: nosune
+  eng_kw: AN:black
+bor:
+  family: R
+  long: (E-Xd) is red [color adjective].
+  short: red
+  tags:
+  - color
+  predilex_tags: has_color trichromatic
+  predilex_id: minequ
+der:
+  family: R
+  long: (E-Xd) is green [color adjective].
+  short: green
+  tags:
+  - color
+  predilex_tags: has_color trichromatic
+  predilex_id: ralija
+mir:
+  family: R
+  long: (E-Xd) is blue [color adjective].
+  short: blue
+  tags:
+  - color
+  predilex_tags: has_color trichromatic
+  predilex_id: jayina
+  eng_kw: AN:blue
+zne:
+  family: R
+  long: (E-Xd) is cyan [color adjective].
+  short: cyan
+  tags:
+  - color
+  predilex_tags: has_color trichromatic
+  predilex_id: fefaze
+dzu:
+  family: R
+  long: (E-Xd) is magenta [color adjective].
+  short: magenta
+  tags:
+  - color
+  predilex_tags: has_color trichromatic
+  predilex_id: dapeno
+jgu:
+  family: R
+  long: (E-Xd) is yellow [color adjective].
+  short: yellow
+  tags:
+  - color
+  predilex_tags: has_color trichromatic
+  predilex_id: putovo

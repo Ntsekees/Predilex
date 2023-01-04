@@ -1,0 +1,50 @@
+
+// LIST OF EXAMPLE INPUT JSON
+
+// ========================================================== //
+
+{
+  "path": "./toakao.py",
+  "shall_be_from_predilex": true,
+  "shall_be_by_keywords": true,
+  "map": {
+    "tags": "tags",
+    "eng_kw": "translations → #@ language = eng → eng_kw"
+  }
+}
+
+// ========================================================== //
+
+{
+  "path": "./toaq_off.py",
+  "shall_be_from_predilex": true,
+  "shall_be_by_keywords": true,
+  "map": {
+    "tags": "tags",
+    "eng_kw": "eng_kw"
+  }
+}
+
+// ========================================================== //
+
+{
+  "path": "./eberban.py",
+  "shall_be_from_predilex": true,
+  "shall_be_by_keywords": true,
+  "map": {
+    "eng_kw": "eng_kw"
+  }
+}
+
+// ========================================================== //
+
+{
+  "path": "./eberban.py",
+  "shall_be_from_predilex": false,
+  "shall_be_by_keywords": false,
+  "map": {
+    "family": "ber_family",
+    "": "ber_lemma"
+  }
+}
+

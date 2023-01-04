@@ -1,0 +1,41 @@
+[
+  {
+    "toaq": "kıa",
+    "type": "predicate",
+    "english": "▯ is red.",
+    "gloss": "red",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "rıq",
+    "type": "predicate",
+    "english": "▯ is green.",
+    "gloss": "green",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "mıo",
+    "type": "predicate",
+    "english": "▯ is blue.",
+    "gloss": "blue",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  }
+]
