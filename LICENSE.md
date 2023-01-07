@@ -23,6 +23,7 @@ The following files:
 * `tools/common.py`
 * `tools/transfer_data/transfer_data.py`
 * `tools/transfer_data/element_from_address.py`
+* `tools/sort.py`
 * `tools/remove_toaq_duplicates.py`
 * `tools/update_arities.py`
 * `tools/update_ids.py`
