@@ -61,8 +61,8 @@ from dataclasses import dataclass
 
 # ============================================================ #
 
-PREDILEX_URL = "https://raw.githubusercontent.com/Ntsekees/Predilex/master/predilex.csv"
-TEST_PREDILEX_PATH = "./tests/test_predilex.csv"
+
+TEST_PREDILEX_PATH = "tests/test_predilex.csv"
 PREDILEX_PATH = "../../predilex.csv"
 
 PREDILEX_ADDRESS = PREDILEX_PATH
@@ -81,11 +81,13 @@ def entrypoint():
   shall_be_from_predilex = idata["shall_be_from_predilex"]
   shall_be_by_keywords = idata["shall_be_by_keywords"]
   map = idata["map"]
-  module = import_from_path("module", idata["path"])
+  module = import_from_path(
+    "module", SELF_PATH + "/" + idata["path"])
   assert all([hasattr(module, varname) for varname in (
     'LANGUAGE_CODE', 'FORMAT'
   )])
-  predilex = from_csv_address(PREDILEX_ADDRESS)
+  predilex = from_csv_address(
+    SELF_PATH + "/" + PREDILEX_ADDRESS)
   def f(s):
     if s not in predilex[0]:
       raise Exception(f"⚠ ⟪{s}⟫ is not a Predilex column identifier!")

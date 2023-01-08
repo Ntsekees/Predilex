@@ -1,8 +1,8 @@
 {
-  "path": "./eberban.py",
+  "path": "eberban.py",
   "shall_be_from_predilex": true,
   "shall_be_by_keywords": true,
   "map": {
-    "eng_kw": "eng_kw"
+    "id": "predilex_id"
   }
 }
