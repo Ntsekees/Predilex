@@ -1,5 +1,7 @@
 ﻿# -*- coding: utf-8 -*-
 
+import re
+
 from common import edit_csv_from_path
 
 def entrypoint():
@@ -15,10 +17,13 @@ def predilex_with_arities_updated(predilex):
     eng_def = predilex[i][eng_def_i]
     if eng_def != "":
       α = predilex[i][arity_i]
-      β = str(arity_from_eng_def(eng_def))
+      if None != re.search(r"➍,? \(…\)", predilex[i][eng_def_i]):
+        β = "∞"
+      else:
+        β = str(arity_from_eng_def(eng_def))
       predilex[i][arity_i] = β
       if α != β:
-        print(f"  @{i+1}: {α} → {β}.")
+        print(f"  @{i + 1}: {α if α != '' else '∅'} → {β}.")
     i = i + 1
   return predilex
 
