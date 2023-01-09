@@ -54,6 +54,8 @@ assert sys.version_info >= (3, 10)
 
 SELF_PATH = os.path.dirname(os.path.realpath(__file__))
 common = import_from_path("common", SELF_PATH + "/../common.py")
+predilex_handling = import_from_path(
+  "predilex_handling", SELF_PATH + "/../predilex_handling.py")
 
 import json, re, time
 from typing import Any, Callable
@@ -199,25 +201,8 @@ def reversed_if_not(prop, α):
   return α if prop else reversed(α)
 
 def lexemes_from_predilex_keywords(pkwl):
-  α = parsed_predilex_keywords(pkwl)
-  return {β[1] for β in α}
-
-KW_MARKERS = "*?~⁓<>"
-
-def parsed_predilex_keywords(pkwl):
-  def f(𝕃):
-    assert isinstance(𝕃, list)
-    if len(𝕃) > 0:
-      𝕃[0] = re.sub(
-        f"^[{KW_MARKERS}]*?=[^{KW_MARKERS}]", "", 𝕃[0])
-    return 𝕃
-  α = [f(x.split(",")) for x in pkwl.split(";")]
-  for i in range(0, len(α)):
-    j = index_of_first(lambda c: c not in KW_MARKERS, α[i][0])
-    m = α[i][0][:j]
-    α[i][0] =  α[i][0][j:]
-    α[i] = [m] + α[i]
-  return α
+  α = predilex_handling.parsed_predilex_keywords(pkwl)
+  return {β["keyword"] for β in α}
 
 def index_of_first(ℙ, 𝕃):
   l = len(𝕃)

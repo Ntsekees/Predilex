@@ -2074,6 +2074,7 @@ fule:
   family: R
   gloss: knows
   short: '[E:tce* pan] knows fact [A:()] from source [O:tce man].'
+  predilex_id: qipifi
 dona:
   id: iffa5o0qnw
   family: R
@@ -2182,6 +2183,7 @@ sna:
   gloss: welcomes
   short: '[E:tce* pan] (default: speaker) welcomes [A:tce* pan] (default: listener)
     to place [O:tce* pan].'
+  predilex_id: kuzewa
 spi:
   id: wlkwneqcyu
   family: R
@@ -2800,7 +2802,6 @@ valo:
   gloss: infers from multiple sources
   short: '[E:tce* pan] infers (from several sources of information) that [A:()] is
     the case.'
-  predilex_id: miqequ
 bale:
   id: ktg311prdc
   family: R
@@ -3261,6 +3262,7 @@ padgo:
   gloss: arm
   short: '[E:tce* pan] is an arm of [A:tce pan].'
   tags: [body]
+  predilex_id: copika
 vauno:
   id: ypph5jwrme
   family: R
@@ -3304,12 +3306,14 @@ plaro:
   gloss: eye
   short: '[E:tce* pan] is an eye of [A:tce pan].'
   tags: [body]
+  predilex_id: jovonu
 tcila:
   id: mqmszfhjbp
   family: R
   gloss: breast
   short: '[E:tce* pan] is a breast of [A:tce pan].'
   tags: [body]
+  predilex_id: vuniri
 seriu:
   id: fpbl9tm4ul
   family: R
@@ -3328,6 +3332,7 @@ snane:
   gloss: ear
   short: '[E:tce* pan] is an ear of [A:tce pan].'
   tags: [body]
+  predilex_id: qiceva
 dogmu:
   id: aiczmufvcq
   family: R
