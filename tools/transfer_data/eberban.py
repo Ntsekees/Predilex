@@ -22,7 +22,7 @@ common = import_from_path("common", SELF_PATH + "/../common.py")
 # ============================================================ #
 
 LANGUAGE_CODE = "ber"
-#DICT_ADDRESS = "./tests/test_eberban.yaml"
+#DICT_ADDRESS = "tests/test_eberban.yaml"
 DICT_ADDRESS = "https://raw.githubusercontent.com/eberban/eberban/master/dictionary/en.yaml"
 FORMAT = "YAML"
 PREDILEX_ID_ADDRESS = "predilex_id"
@@ -33,7 +33,8 @@ def load():
   if DICT_ADDRESS.startswith("http"):
     return common.object_from_yaml_url(DICT_ADDRESS)
   else:
-    return common.object_from_yaml_path(DICT_ADDRESS)
+    return common.object_from_yaml_path(
+      SELF_PATH + '/' + DICT_ADDRESS)
 
 def save(data, path):
   common.save_as_yaml_file(data, path)

@@ -68,7 +68,7 @@ TEST_PREDILEX_PATH = "tests/test_predilex.csv"
 PREDILEX_PATH = "../../predilex.csv"
 
 PREDILEX_ADDRESS = PREDILEX_PATH
-PREDILEX_MAXLEN = 4500
+PREDILEX_MAXLEN = 5000
 
 # ============================================================ #
 
@@ -139,8 +139,18 @@ def proceed(
   outer_iter = indexes_of(outer)
   inner_iter = indexes_of(inner)
   for i in outer_iter:
+    if predilex_is_outer:
+      keywords = predilex[i][lcci]
+      if keywords == "":
+        continue
+      kw_data = filtered_kw_data(
+        predilex_handling.parsed_predilex_keywords(
+          keywords))
+      if len(kw_data) == 0:
+        continue
+      p_lemmas = lexemes_from_predilex_kw_data(kw_data)
     if (
-      (predilex_is_outer and "" != predilex[i][lcci]) or (
+      predilex_is_outer or (
         not predilex_is_outer and "" != module.predilex_id_of(
           lexicon, i)
       )
@@ -149,10 +159,12 @@ def proceed(
         src.idx, dst.idx = reversed_if_not(src_is_outer, (i, j))
         pi, li = reversed_if_not(predilex_is_outer, (i, j))
         if predilex_is_outer:
-          p_lemmas = lexemes_from_predilex_keywords(
-            predilex[pi][lcci])
           l_lemmas = module.lemmas_of(lexicon, li)
-          if p_lemmas == l_lemmas:
+          if (
+            p_lemmas == l_lemmas or (
+            len(l_lemmas) == 1
+            and l_lemmas.intersection(p_lemmas) != set())
+          ):
             move_data(src, dst, map)
             predilex_id = predilex[pi][0]
             lexicon_id = module.predilex_id_of(lexicon, li)
@@ -200,9 +212,22 @@ def move_data(src, dst, map):
 def reversed_if_not(prop, α):
   return α if prop else reversed(α)
 
+def lexemes_from_predilex_kw_data(kwd):
+  return {e["keyword"] for e in kwd}
+
 def lexemes_from_predilex_keywords(pkwl):
   α = predilex_handling.parsed_predilex_keywords(pkwl)
-  return {β["keyword"] for β in α}
+  return lexemes_from_predilex_kw_data(α)
+
+def filtered_kw_data(kw_data):
+  def f(𝕄):
+    return all([
+      𝕄["is_certain"] == True,
+      𝕄["is_approximative"] == False,
+      𝕄["lexical_status"] != "unpublished",
+      𝕄["arity_mismatch"] == None
+    ])
+  return list(filter(f, kw_data))
 
 def index_of_first(ℙ, 𝕃):
   l = len(𝕃)

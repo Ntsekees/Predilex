@@ -823,7 +823,6 @@ mie:
     Every member of [E:tco* man] is either I/a speaker/author; or something that
     is neither a speaker or listener; and contains at least one of each.
   gloss: exclusive-we
-  predilex_id: qumuse
 me:
   id: ahgbyzu6xy
   family: MI
@@ -1358,6 +1357,7 @@ tca:
   definition: |
     po tca ke gia be
     ke se tcai gia
+  predilex_id: yovilu
 tcu:
   id: pvhoor5xeb
   family: R
@@ -1369,6 +1369,7 @@ tcu:
     po tcu ke gia be
     ke tcui
       via be ba tcie tca gia
+  predilex_id: hapawe
 tce:
   id: tqlnlqxzsn
   family: R
@@ -1391,6 +1392,7 @@ tco:
     po tco ke gia be
     ke tcoi
       via be ba tcie tca gia
+  predilex_id: voqoqe
 tci:
   id: fnw0vvx5ii
   family: R
@@ -1413,6 +1415,7 @@ dji:
       va ki be vare
         ve ki tci ka
         fa ki tci ko
+  predilex_id: dahira
 dje:
   id: 2yen5k9sgq
   family: R
@@ -1425,6 +1428,7 @@ dje:
       va ki be vari
         ve ki tci ka
         fa ki tci ko
+  predilex_id: bahege
 dja:
   id: fna9x09it8
   family: R
@@ -1439,6 +1443,7 @@ dja:
       va ki be vari
         ve ki tci ka
         fa bi ki tci ko
+  predilex_id: ''
 djo:
   id: zkzu7uyhit
   family: R
@@ -1663,6 +1668,7 @@ din:
   tags: [time]
   short: |
     [E:ma] is an instant (digraph node).
+  predilex_id: gataka
 dini:
   id: 3qex7khuq6
   family: R
@@ -1698,6 +1704,7 @@ del:
   tags: [time]
   short: |
     [E:dinu] is the present time span.
+  predilex_id: kikipa
 zvi:
   id: uulyqjxb0p
   family: R
@@ -1869,6 +1876,7 @@ dan:
   tags: [time]
   short: |
     [E:()] presently occurs.
+  predilex_id: forini
 don:
   id: 0c5t0lkflg
   family: R
@@ -1876,7 +1884,6 @@ don:
   tags: [time]
   short: |
     [E:()] occurs at some time (no constraint).
-  predilex_id: payito
 doni:
   id: qfxuso4eij
   family: R
@@ -1889,6 +1896,7 @@ doni:
 # Other vocabulary, not yet defined in eberban
 # -----
 
+  predilex_id: tumeci
 pen:
   id: rjami7df3u
   family: R
@@ -2069,18 +2077,19 @@ mole:
   notes: |
     Operate on sets of numbers. True only if all members of [E] are less than all
     members of [A].
+  predilex_id: zovahi
 fule:
   id: 86guwrqjob
   family: R
   gloss: knows
   short: '[E:tce* pan] knows fact [A:()] from source [O:tce man].'
-  predilex_id: qipifi
 dona:
   id: iffa5o0qnw
   family: R
   gloss: likes
   tags: [emotion]
   short: '[E:tce* pan] likes [A:tce* man].'
+  predilex_id: payito
 jveo:
   id: 4lhxmspat4
   family: R
@@ -2164,6 +2173,7 @@ skal:
   family: R
   gloss: computer
   short: '[E:tce* pan] is a computer.'
+  predilex_id: futeyu
 sni:
   id: nj03wvtsbv
   family: R
@@ -2183,7 +2193,6 @@ sna:
   gloss: welcomes
   short: '[E:tce* pan] (default: speaker) welcomes [A:tce* pan] (default: listener)
     to place [O:tce* pan].'
-  predilex_id: kuzewa
 spi:
   id: wlkwneqcyu
   family: R
@@ -2212,7 +2221,6 @@ gza:
   family: R
   gloss: agentive cause
   short: '[E:tce* pan] is an agentive cause of [A:()] being true.'
-  predilex_id: titira
 kini:
   id: macaegnams
   family: R
@@ -2225,6 +2233,7 @@ seru:
   short: '[E:()] is about subject [A:tce* man].'
   notes: |
     Predicates inside [E] can register subjects using {serun}.
+  predilex_id: ruguhu
 serun:
   id: dxlam79kma
   family: R
@@ -2377,7 +2386,6 @@ vli:
   family: R
   short: '[E:tce* skar] is written/inscribed on display/storage medium [A:tce* pan].'
   gloss: written
-  predilex_id: cadapa
 soane:
   id: rmpkifsf0c
   family: R
@@ -2554,11 +2562,13 @@ sier:
   family: R
   gloss: internet
   short: '[E:tca man] is the Internet.'
+  predilex_id: jetoja
 stini:
   id: lf05kqsaiu
   family: R
   gloss: rigid
   short: '[E:tce* pan] is rigid/not bendable.'
+  predilex_id: viquha
 merue:
   id: c84admq4vz
   family: R
@@ -2575,6 +2585,7 @@ skien:
   family: R
   gloss: program
   short: '[E:tce* man] is a computer program.'
+  predilex_id: zakelo
 zari:
   id: y9cpaqtwg7
   family: R
@@ -2617,6 +2628,7 @@ saul:
   family: R
   gloss: light
   short: '[E:tce* pan] is light [energy].'
+  predilex_id: ziporu
 cmiri:
   id: a0ngc6glp1
   family: R
@@ -2690,6 +2702,7 @@ dzana:
   gloss: married
   tags: [kinship, family]
   short: '[E:tce* pan] is married to [A:tce* pan].'
+  predilex_id: nelaqa
 kineo:
   id: 96lvpzzkom
   family: R
@@ -2714,11 +2727,13 @@ teran:
   family: R
   gloss: planet
   short: '[E:tce* pan] is a planet.'
+  predilex_id: pokahi
 soran:
   id: h9j1gg2cwz
   family: R
   gloss: star
   short: '[E:tce* pan] is a star.'
+  predilex_id: gucuta
 zilan:
   id: yfcj6sjbss
   family: R
@@ -2749,6 +2764,7 @@ kcaor:
   family: R
   gloss: table
   short: '[E:tce* pan] is a table.'
+  predilex_id: yohaye
 stan:
   id: bc0e4pcz9h
   family: R
@@ -2760,6 +2776,7 @@ drair:
   family: R
   gloss: god
   short: '[E:tce* man] is a god.'
+  predilex_id: sibeye
 kroin:
   id: biiaxhdwtb
   family: R
@@ -2796,6 +2813,7 @@ sana:
   gloss: cultural knowledge
   short: '[E:tce* pan] has cultural knowledge, collective wisdom according to which
     [A:()] is the case.'
+  predilex_id: pupepe
 valo:
   id: w14bplmcqv
   family: R
@@ -2848,6 +2866,7 @@ sahar:
   family: R
   gloss: flower
   short: '[E:tce* pan] is a flower.'
+  predilex_id: pazuti
 kena:
   id: q9fyy1qn9d
   family: R
@@ -2952,7 +2971,6 @@ molai:
   short: |
     [E:tce pan] is made to satisfy [A:(tce pan)] as a reward/punishment.
     (E) is awarded/punished, with result that they satisfy [A].
-  predilex_id: dogure
 krehu:
   id: giuwxgdlvl
   family: R
@@ -2994,6 +3012,7 @@ suier:
   family: R
   gloss: sea
   short: '[E:tce* pan] is a sea/ocean/lake (relatively large non-flowing body of water).'
+  predilex_id: mizohu
 gzeon:
   id: bvejlt10si
   family: R
@@ -3010,6 +3029,7 @@ soeon:
   family: R
   gloss: sky
   short: '[E:tce* pan] is is the sky (high troposphere and above).'
+  predilex_id: yigemo
 cnue:
   id: kx3walxiid
   family: R
@@ -3262,7 +3282,6 @@ padgo:
   gloss: arm
   short: '[E:tce* pan] is an arm of [A:tce pan].'
   tags: [body]
-  predilex_id: copika
 vauno:
   id: ypph5jwrme
   family: R
@@ -3275,7 +3294,6 @@ fairo:
   gloss: hand
   short: '[E:tce* pan] is a hand of [A:tce pan].'
   tags: [body]
-  predilex_id: tehihi
 glehul:
   id: uwmxjgjvh7
   family: R
@@ -3306,14 +3324,12 @@ plaro:
   gloss: eye
   short: '[E:tce* pan] is an eye of [A:tce pan].'
   tags: [body]
-  predilex_id: jovonu
 tcila:
   id: mqmszfhjbp
   family: R
   gloss: breast
   short: '[E:tce* pan] is a breast of [A:tce pan].'
   tags: [body]
-  predilex_id: vuniri
 seriu:
   id: fpbl9tm4ul
   family: R
@@ -3332,12 +3348,12 @@ snane:
   gloss: ear
   short: '[E:tce* pan] is an ear of [A:tce pan].'
   tags: [body]
-  predilex_id: qiceva
 dogmu:
   id: aiczmufvcq
   family: R
   gloss: governs
   short: '[E:tce pan] governs people [A:tce* pan].'
+  predilex_id: gunuba
 glogdu:
   id: iwjm1mv0ij
   family: R
@@ -3369,6 +3385,7 @@ zmino:
   notes: |
     [A] occurs at the instant the picture was taken, as is constrainted in space
     as the volume captured by the field of view of the camera.
+  predilex_id: tekibo
 jalo:
   id: 6naqo0pjy0
   family: R
@@ -3501,6 +3518,7 @@ tceu:
   short: '[E:tco a] is a group where every pair of members mutualy satisfy relation
     [A:(tca a, tca a)].'
 
+  predilex_id: josuma
 jene:
   id: gi4jvusxpm
   family: R
@@ -3560,6 +3578,7 @@ sifpa:
   notes: |
     {pa X} can be modeled as being syntaxic sugar for {poe ezepa po P be mi sifpa X pu P}.
     P is an unnamable predicate used solely for this purpose.
+  predilex_id: miqaze
 sifpoi:
   id: b0c73ecend
   family: R
@@ -3570,12 +3589,14 @@ sifpoi:
     {poi X (be) Y} can be modeled as being syntaxic sugar for
     {poe X be Y po P be mi sifpoi X pu P}. is an unnamable predicate used solely
     for this purpose.
+  predilex_id: neruji
 djie:
   id: 56lqin725a
   family: R
   gloss: set-overlaps
   tags: [set]
   short: '[E:tce a] and [A:tce a] overlap (they have a non-empty intersection).'
+  predilex_id: kuqeyi
 bzael:
   id: eczagf3v06
   family: R
@@ -3604,6 +3625,7 @@ djio:
 # -----
 # Compounds
 # -----
+  predilex_id: digama
 e tsae ban:
   id: wf13qtgrwk
   family: C2
