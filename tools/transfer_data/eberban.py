@@ -53,5 +53,14 @@ def predilex_id_of(lexicon, id):
     lexicon[id]["predilex_id"] if "predilex_id" in lexicon[id] else "")
 
 def lemmas_of(lexicon, id):
-  return {id} if id in lexicon else set()
+  return {_normalized_id(id)} if id in lexicon else set()
+
+def _normalized_id(id):
+  if not isinstance(id, str):
+    return id
+  assert len(id) != 0
+  if id[0] in "aeiou":
+    return id.replace(" ", "")
+  else:
+    return id
 

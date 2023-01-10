@@ -3637,6 +3637,7 @@ e ber ban:
   gloss: eberban
   tags: [cultural]
   short: '[E:tca ban] is the eberban language.'
+  predilex_id: berasa
 e uaotearoa stan:
   id: 0hmp09luqa
   familly: C2
@@ -3649,12 +3650,14 @@ e ujbo ban:
   gloss: lojban
   tags: [cultural]
   short: '[E:tca ban] is the lojban language.'
+  predilex_id: biwiwa
 e ufranse ban:
   id: prqgtxzvj7
   family: C2
   gloss: french language
   tags: [cultural]
   short: '[E:tca ban] is the french language.'
+  predilex_id: cireya
 e ufranse stan:
   id: ql0k4zdkcv
   family: C2
