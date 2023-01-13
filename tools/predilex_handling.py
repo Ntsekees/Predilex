@@ -35,6 +35,8 @@ def parsed_predilex_keywords(keywords):
           m["lexical_status"] = "proposed"
         case "⁑":
           m["lexical_status"] = "unpublished"
+        case "⎊":
+          m["lexical_status"] = "deprecated"
         case ">":
           m["arity_mismatch"] = '>'
         case "<":
