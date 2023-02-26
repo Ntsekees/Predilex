@@ -45,17 +45,17 @@ def object_from_yaml_path(path):
   with open(path, "r", encoding = "utf-8") as f:
     return yaml.load(f.read())
 
-def table_from_csv_path(path, delim = ','):
+def table_from_csv_path(path, delimiter = ','):
   with open(path, "r", encoding = "utf-8") as f:
-    r = csv.reader(f, delimiter = delim)
+    r = csv.reader(f, delimiter = delimiter)
     t = []
     for row in r:
       t.append(row)
     return t
 
-def table_gen_from_csv_path(path, delim = ','):
+def table_gen_from_csv_path(path, delimiter = ','):
   with open(path, "r", encoding = "utf-8") as f:
-    return csv.reader(f, delimiter = delim)
+    return csv.reader(f, delimiter = delimiter)
 
 def _content_from_url(url):
   response = requests.get(url)
@@ -73,10 +73,10 @@ def object_from_yaml_url(url):
   return yaml.load(_content_from_url(url))
 
 
-def table_from_csv_url(url):
+def table_from_csv_url(url, delimiter = ','):
   content = _content_from_url(url)
   content = io.StringIO(content.decode("UTF8"), newline = None)
-  csv_reader = csv.reader(content, delimiter=',')
+  csv_reader = csv.reader(content, delim)
   table = []
   for row in csv_reader:
     table.append(row)

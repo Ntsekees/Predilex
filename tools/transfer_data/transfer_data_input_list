@@ -28,11 +28,33 @@
 // ========================================================== //
 
 {
+  "path": "./nahaıwa.py",
+  "shall_be_from_predilex": true,
+  "shall_be_by_keywords": false,
+  "map": {
+    "tags": "tags"
+  }
+}
+
+// ========================================================== //
+
+{
   "path": "./eberban.py",
   "shall_be_from_predilex": true,
   "shall_be_by_keywords": true,
   "map": {
     "eng_kw": "eng_kw"
+  }
+}
+
+// ========================================================== //
+
+{
+  "path": "eberban.py",
+  "shall_be_from_predilex": true,
+  "shall_be_by_keywords": true,
+  "map": {
+    "id": "predilex_id"
   }
 }
 
