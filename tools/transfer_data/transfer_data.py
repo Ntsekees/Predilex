@@ -167,7 +167,9 @@ def proceed(
           ):
             move_data(src, dst, map)
             predilex_id = predilex[pi][0]
-            lexicon_id = module.predilex_id_of(lexicon, li)
+            lexicon_id = bare(module.predilex_id_of(
+              lexicon, li
+            ))
             if lexicon_id not in ("", predilex_id):
               print(f"⚠ PREDILEX ID MISMATCH: Predilex ⟪{predilex_id}⟫ ≠ Lexicon ⟪{lexicon_id}⟫!")
           elif p_lemmas.intersection(l_lemmas) != set():
@@ -175,9 +177,9 @@ def proceed(
             print(f"  • From Predilex: {str(p_lemmas)}")
             print(f"  • From Lexicon:  {str(l_lemmas)}")
         else:
-          if predilex[pi][0] == module.predilex_id_of(
+          if predilex[pi][0] == bare(module.predilex_id_of(
             lexicon, li
-          ):
+          )):
             move_data(src, dst, map)
 
 # ============================================================ #
@@ -190,6 +192,11 @@ def read_predilex(entry, key):
 def write_predilex(entry, key, value):
   entry[key] = value
   return entry
+
+def bare(predilex_id):
+	# Removing curly-bracketed reframing expressions from
+	# a Predilex ID:
+  return re.search("^[a-z]+", predilex_id).group()
 
 def indexes_of(d):
   if isinstance(d, (list, tuple)):
