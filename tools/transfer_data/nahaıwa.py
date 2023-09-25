@@ -44,7 +44,8 @@ def load():
 
 def save(data, path):
   global dictionary_header
-  common.save_as_csv_file([dictionary_header] + data, path)
+  common.save_as_csv_file(
+    [dictionary_header] + data, path, delimiter = '\t')
 
 def read(entry, key):
   global dictionary_header
