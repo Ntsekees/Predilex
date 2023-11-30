@@ -28,12 +28,15 @@ def predilex_with_arities_updated(predilex):
   return predilex
 
 def arity_from_eng_def(eng_def):
-  # Caveat: if the arity is actually above 6, this function will return 6 nevertheless.
-  slot_symbols = ["⓿", "➊", "➋", "➌", "➍", "➎", "➏"]
-  i = len(slot_symbols)
+  # Caveat: if the arity is actually above 9, this function will return 9 nevertheless.
+  slot_symbols = ["⓿", "➊", "➋", "➌", "➍", "➎", "➏", "➐", "➑", "➒"]
+  l = len(slot_symbols)
+  i = l
   while i > 0:
     i = i - 1
     if slot_symbols[i] in eng_def:
+      if i == l:
+        print(f"⚠ Arity ≥{l} found for definition ⟪{eng_def}⟫!")
       return i
   return 0
 
