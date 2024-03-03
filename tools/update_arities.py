@@ -28,8 +28,7 @@ def predilex_with_arities_updated(predilex):
   return predilex
 
 def arity_from_eng_def(eng_def):
-  slot_symbols =
-    ["⓿", "➊", "➋", "➌", "➍", "➎", "➏", "➐", "➑", "➒", "➓"]
+  slot_symbols = ["⓿", "➊", "➋", "➌", "➍", "➎", "➏", "➐", "➑", "➒", "➓"]
   l = len(slot_symbols)
   i = l
   while i > 0:
