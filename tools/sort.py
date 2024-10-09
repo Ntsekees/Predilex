@@ -19,7 +19,7 @@ def entrypoint():
   edit_csv_from_path(
     SELF_PATH + "/../predilex.csv",
     predilex_sorted_from,
-    output_path = SELF_PATH + "/../predilex-out.csv"
+    output_path = SELF_PATH + "/../predilex.csv"
   )
   print("Execution time: {:.3f}s.".format(
     time.time() - start_time))

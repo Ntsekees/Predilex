@@ -6,7 +6,7 @@ from common import edit_csv_from_path
 
 def entrypoint():
   edit_csv_from_path(
-    "./predilex.csv", predilex_with_arities_updated, output_path = "./predilex-out.csv")
+    "./predilex.csv", predilex_with_arities_updated, output_path = "./predilex.csv")
 
 def predilex_with_arities_updated(predilex):
   arity_i = predilex[0].index("arity")
