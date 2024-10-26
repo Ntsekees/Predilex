@@ -1,12 +1,21 @@
 ﻿# -*- coding: utf-8 -*-
 
-import re
+import os, time, re
 
 from common import edit_csv_from_path
 
+SELF_PATH = os.path.dirname(os.path.realpath(__file__))
+
+# ============================================================ #
+
+
 def entrypoint():
+  start_time = time.time()
+  path = SELF_PATH + "/../predilex.csv"
   edit_csv_from_path(
-    "./predilex.csv", predilex_with_arities_updated, output_path = "./predilex.csv")
+    path, predilex_with_arities_updated, output_path = path)
+  print("Execution time: {:.3f}s.".format(
+    time.time() - start_time))
 
 def predilex_with_arities_updated(predilex):
   arity_i = predilex[0].index("arity")
