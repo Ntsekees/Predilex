@@ -26,7 +26,9 @@ def predilex_with_arities_updated(predilex):
     eng_def = predilex[i][eng_def_i]
     if eng_def != "":
       α = predilex[i][arity_i]
-      if None != re.search(r"➍,? \(…\)", predilex[i][eng_def_i]):
+      if None != re.search(
+        r"➍,? \(…\)", predilex[i][eng_def_i]
+      ):
         β = "∞"
       else:
         β = str(arity_from_eng_def(eng_def))
@@ -37,7 +39,9 @@ def predilex_with_arities_updated(predilex):
   return predilex
 
 def arity_from_eng_def(eng_def):
-  slot_symbols = ["⓿", "➊", "➋", "➌", "➍", "➎", "➏", "➐", "➑", "➒", "➓"]
+  slot_symbols = [
+    "⓿", "➊", "➋", "➌", "➍", "➎", "➏", "➐", "➑", "➒", "➓"
+  ]
   l = len(slot_symbols)
   i = l
   while i > 0:
