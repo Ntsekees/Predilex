@@ -14,6 +14,10 @@ If you paste into a sheet that isn't blank (e.g. you already pasted Predilex dat
 The Predilex data may also be viewed in readonly in Google Sheets at the following address:
 https://docs.google.com/spreadsheets/d/1z_k_gHH67rBpQTgBOP6diBU-X163jowd-gWxC1CUfEI/edit?usp=sharing
 
+# Structure
+
+The structure of the Predilex data (purpose of each column and explanation of notations) is explained [**there**](./FORMAT.md).
+
 # License
 
 See the file [`LICENSE.md`](LICENSE.md).
