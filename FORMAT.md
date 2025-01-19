@@ -34,5 +34,7 @@ A list of letters or digits separated by whitespaces, each sign representing the
 
 ## tags
 
+The tags list what category a given predicate belongs to. For example: mathematics, modality, biology.
+
 ## possible etymologies
 
