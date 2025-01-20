@@ -28,6 +28,6 @@ y → j
 C: 20  |  p/t/k/q/b/d/g/f/s/c/h/v/z/j/m/n/l/r/y/w
 V: 5   |  a/e/o/i/u
 
-※ Syllable: CV
+※ Syllable: CVCVCV
 ※ Number of possible syllables: 20×5 = 100
-
+※ Number of possible ID's: 1 000 000
