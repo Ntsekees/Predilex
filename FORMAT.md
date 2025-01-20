@@ -96,6 +96,10 @@ Some prominent examples may be the following pairs:
 
 Formal, substitutional definition of the predicate, written in a custom logic notation, with argument slots expressed as lambda expressions. Predilex ID's are used as predicate identifiers in the logic notation, allowing defining the current predicate in terms of other predicates in the Predilex dataset.
 
+All predicates have zero or more argument slots, occurring in a fixed order. The order in which the lambda `𝜆` expressions appear define the order of the argument slots for the predicate.
+
+The hidden context variable is usually not shown explicitly in the logic notation, unless it behaves in an unexpected way (other than being passed down as-is to all the predicates used in the definition). When the context variable is mentioned explicitly, the symbol `🅲` is used.
+
 ## positive sample media
 
 A list of URLs separated by vertical pipes `|` surrounded by one whitespace on each side. Each URL points to a media, such as an image or a sound file, representing an instance of the predicate, a physical realization thereof. Such media may serve for example for teaching the meaning of the predicate.
@@ -108,5 +112,27 @@ For example, when dealing with a predicate describing a pigeon, positive media l
 ## symbols
 
 Glyphs, symbols, pictograms or ideograms representing the predicate at hand.
+
+## English ID
+
+An alternative to Predilex ID based on an English expression.
+
+## English definition
+
+Definition of the predicate in the English language.
+
+The argument slots of the predicates are represented by numbers in black circles, such as `➊`, `➋`, `➌`, `➍`; the number represents the index of the argument in the predicate's argument list. This allows for the argument slot marks to occur in any order, albeit it is tried inasmuch as possible as to keep the appearing in their natural order (➊ → ➋ → ➌ → ➍…). Like with definitions in logic notation, the hidden context variable is usually not mentioned explicitly, but when it is, the symbol `🅲` is used.
+
+## English notes
+
+Additional notes in the English languages.
+
+## English lemmas
+
+List of semicolon-separated lemmas of the English language which have the predicate at hand as one of their possible meanings. The lemmas may be followed by a subcript number disambiguating the target meaning of the lemma when the lemma is polysemous or has homonyms.
+
+Lemmas may be suffixed with a hash `#` expression introducing the part of speech and syntactic frame of the lemma. For example, ⟪give#VT_to⟫ means that the lemma ⟪give⟫ is a transitive verb with an additional oblique slot tagged with the adposition ⟪to⟫.
+
+The predicate's argument slots are by default mapped to the same slots in the same order as the English's lemma, and if they map in a different order, a sequence of digits such as `213` indicates how the arguments are reordered: ⟪give#VT_to 213⟫ would mean that the two first argument slots of the lemma are permuted (whereas the default order would have been `123`).
 
 
