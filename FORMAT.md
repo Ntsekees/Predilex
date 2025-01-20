@@ -1,7 +1,7 @@
 
 # FORMAT
 
-The Predilex data presents itself in the form of a grid with many named columns, and rows each representing a different entry, dedicated to one semantic predicate, or ‘sememe’.
+The Predilex data presents itself in the form of a grid with many named columns, and rows each representing a different entry, dedicated to one semantic predicate, or ‘*sememe*’.
 
 The two first rows constitute the header, giving out the names of each column: on the first row (hidden in the ODS template file) is a shortened code name, and on the second row a longer, ‘full’ name for the column.
 
@@ -11,7 +11,7 @@ Below is an explanation of the purpose of each column, in order:
 
 The Predilex ID of the entry. It uniquely identify the predicate in Predilex, and is also used in other columns of other entries for referring back to the current entry (for example, for indicating that the other entry's predicate is a hyponym of the one of the entry at hand).
 
-A Predilex ID has the shape `CVCVCV` where `C` represents one of 20 consonant letters (`bcdfghjklmnpqrstvwyz`), and `V` one of 5 vowel letters (`aeiou`), making for 100 possible `CV` syllables, and 1000000 possible `CVCVCV` ID's.
+A Predilex ID has the shape `CVCVCV` where `C` represents one of 20 consonant letters (`bcdfghjklmnpqrstvwyz`), and `V` one of 5 vowel letters (`aeiou`), making for 100 possible `CV` syllables, and 1000000 possible `CVCVCV` ID's. (Also explained [here](https://github.com/Ntsekees/Predilex/blob/master/misc/predilex_id_v2_phonology.txt))
 
 ## rank
 
@@ -149,7 +149,7 @@ Lemmas in the Toaq constructed logical language.
 
 ## Toaq slot class
 
-Deprecated field.
+**Deprecated field.**
 
 ## Toaq def
 
@@ -181,7 +181,7 @@ Lemmas in programming languages; the name of the programming language is shown i
 
 ## WordNet sense key
 
-Corresponding ID in the WordNet database.
+Corresponding ID in the [WordNet](https://wordnet.princeton.edu/) database.
 
 ## HowNet
 
@@ -189,9 +189,9 @@ Corresponding ID in the HowNet database.
 
 ## FrameNet
 
-Corresponding ID in the FrameNet database.
+Corresponding ID in the [FrameNet](https://framenet.icsi.berkeley.edu/) database.
 
 ## OpenCyc
 
-Corresponding ID in the OpenCyc database.
+Corresponding ID in the [OpenCyc](https://github.com/asanchez75/opencyc) database.
 
