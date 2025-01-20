@@ -125,7 +125,7 @@ The argument slots of the predicates are represented by numbers in black circles
 
 ## English notes
 
-Additional notes in the English languages.
+Additional notes in the English language.
 
 ## English lemmas
 
@@ -135,4 +135,63 @@ Lemmas may be suffixed with a hash `#` expression introducing the part of speech
 
 The predicate's argument slots are by default mapped to the same slots in the same order as the English's lemma, and if they map in a different order, a sequence of digits such as `213` indicates how the arguments are reordered: ⟪give#VT_to 213⟫ would mean that the two first argument slots of the lemma are permuted (whereas the default order would have been `123`).
 
+## Spanish lemmas, German lemmas, French lemmas……
+
+These fields have the same purpose as the ⟪English lemmas⟫ field but for languages other than English.
+
+## lemmas in other languages
+
+Like the previous fields, this one lists lemmas in natural other natural languages, except this time each lemma is preceded by a bracketed three-letter language code, such as `[tgl]` for the Tagalog language.
+
+## Toaq lemmas
+
+Lemmas in the Toaq constructed logical language.
+
+## Toaq slot class
+
+Deprecated field.
+
+## Toaq def
+
+Definition in the Toaq language.
+
+## Toaq notes
+
+Notes in the Toaq language.
+
+## Lojban lemmas
+
+Lemmas in the Lojban constructed logical language.
+
+## Lojban notes
+
+Notes in the Lojban language.
+
+## Loglan lemmas, Xextan lemmas, Nahaıwa lemmas…
+
+Lemmas in other constructed languages.
+
+## Eberban definition
+
+Definition in Eberban.
+
+## proglangs lemmas
+
+Lemmas in programming languages; the name of the programming language is shown in square brackets before the each lemma.
+
+## WordNet sense key
+
+Corresponding ID in the WordNet database.
+
+## HowNet
+
+Corresponding ID in the HowNet database.
+
+## FrameNet
+
+Corresponding ID in the FrameNet database.
+
+## OpenCyc
+
+Corresponding ID in the OpenCyc database.
 
