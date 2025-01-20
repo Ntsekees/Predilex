@@ -19,22 +19,58 @@ The Rank is a single lowercase letter that gives an estimation of the use freque
 
 ## compoundability
 
+An indicative estimation of the potential of the predicate's word to be used as an etymological component in compound words.
+
 ## arity
 
 The arity (or ‘valency’, or ‘adicity’) of the predicate, i.e. the number of argument slots it has (excluding the hidden context variable slot).
 
 ## types
+
 A list of letters or digits separated by whitespaces, each sign representing the type of the corresponding argument slot of the predicate, in the same order of appearance as in the predicate's definition.
 
 ## distributivity
 
+A list of letters separated by whitespaces; each letter corresponds to one of the predicate's argument slots, and each letter indicates its behavior with respect to distributivity: `d` for “distributive”, `c` for “collective”, `s` for exclusively singular references. When a property P is distributive, this means that `P(x)` entails `∀y. among(y, x) ⇒ P(y)`.
+
 ## kind handling
 
+This column is deprecated. It was intended to indicates the behavior of each argument slot with respect to Kind handling, between the following options: `s` for “stage-level”, `i` for “individual-level”, and `k` for “kind-level”.
+
 ## slot tags
+Lists of semantic categorization tags separated by whitespaces, in groups separated by semicolons `;`, each group being associated with one of the slots of the predicate, in order.
+
+Each group indicates the semantic categories associated with the targed argument slot.
 
 ## tags
 
-The tags list what category a given predicate belongs to. For example: mathematics, modality, biology.
+A single list of semantic categorization tags separated by whitespaces, describing the predicate as a whole, and not one of its argument slots in particular.
 
 ## possible etymologies
+
+Indicative list of cherry-picked potential etymologies for words representing this predicate. The potential etymologies are separated by semicolons `;`. Each potential etymology consists of a list of Predilex ID's, separated by whitespaces.
+
+## homoeventives
+
+List of Predilex ID's separated by whitespaces. Each such ID represents a predicate which describes the same event as the current predicate, but typically with a different argument structure, as exemplified by the following pair:
+* 𝜆x. eats(x)
+* 𝜆x. 𝜆y. eats(x, y)
+
+## similar
+
+List of Predilex ID's separated by whitespaces. Each such ID represents a predicate whose meaning is similar to that of that of the current predicate, i.e. a quasi-synonym thereof.
+
+## antonyms
+
+## hypernyms
+
+## hyponyms
+
+## holonyms
+
+## meronyms
+
+## related
+
+## alt
 
