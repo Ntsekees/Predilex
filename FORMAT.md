@@ -62,15 +62,51 @@ List of Predilex ID's separated by whitespaces. Each such ID represents a predic
 
 ## antonyms
 
+Same format as the above, but listing antonyms for the predicate.
+
 ## hypernyms
+
+Same format as the above, but listing hypernyms for the predicate.
 
 ## hyponyms
 
+Same format as the above, but listing hyponyms for the predicate.
+
 ## holonyms
+
+Same format as the above, but listing holonyms for the predicate.
 
 ## meronyms
 
+Same format as the above, but listing meronyms for the predicate.
+
 ## related
 
+Same format as the above, but listing related predicates, as a sort of ‘see also’.
+
 ## alt
+
+Same format as the above, but listing predicates that can function as alternatives to the current predicate, usually with a homologuous meaning but a different argument structure. Typically, a single language would need only one of the alternatives, and having several of them at once would be redundant.
+
+Some prominent examples may be the following pairs:  
+* ⟪➊ is a hand⟫ versus ⟪➊ is a hand part of ➋⟫;
+* ⟪➊ surpasses ➋ in the amount to which they satisfy the gradable property ➌⟫ versus ⟪➊ surpasses ➋ in the amount they are in relation ➌ with⟫.
+
+## definition
+
+Formal, substitutional definition of the predicate, written in a custom logic notation, with argument slots expressed as lambda expressions. Predilex ID's are used as predicate identifiers in the logic notation, allowing defining the current predicate in terms of other predicates in the Predilex dataset.
+
+## positive sample media
+
+A list of URLs separated by vertical pipes `|` surrounded by one whitespace on each side. Each URL points to a media, such as an image or a sound file, representing an instance of the predicate, a physical realization thereof. Such media may serve for example for teaching the meaning of the predicate.
+
+## negative sample media
+
+Same as the previous field, but this time with negative sample media: select medias that do not represent instances of the predicate, whereas it might have been expected that they could have been instances thereof.
+For example, when dealing with a predicate describing a pigeon, positive media like pictures of pigeons might still allow for the supposition that the predicate could have a broader meaning, allowing for other sorts of birds to quality; by adding non-pigeon birds as negative sample media, the boundaries of application of the predicate are made clearer.
+
+## symbols
+
+Glyphs, symbols, pictograms or ideograms representing the predicate at hand.
+
 
