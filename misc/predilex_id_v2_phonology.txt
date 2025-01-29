@@ -28,6 +28,8 @@ y → j
 C: 20  |  p/t/k/q/b/d/g/f/s/c/h/v/z/j/m/n/l/r/y/w
 V: 5   |  a/e/o/i/u
 
-※ Syllable: CVCVCV
+※ Syllable: CV
 ※ Number of possible syllables: 20×5 = 100
-※ Number of possible ID's: 1 000 000
+※ A Predilex ID is made of three consecutive syllables (CVCVCV), which makes for 1 000 000 possible ID's.
+
+
