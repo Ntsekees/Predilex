@@ -1,0 +1,101 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+.header {
+	height: 4em;
+	text-align: center;
+}
+h1 {
+	text-align: center;
+	color: #008844;
+}
+.main {
+	display: flex;
+	gap: 0.5em;
+	padding: 0.5em;
+	align-items: flex-start;
+}
+.theader {
+	display: flex;
+	height: 1.5em;
+	padding: 0px;
+	font-size: 1rem;
+	font-weight: bold;
+}
+.theader div {
+	padding-left: 4px;
+	padding-right: 4px;
+	background: hsl(200, 50%, 67%);
+}
+.eng-td {
+	width: 88%;
+}
+.id-td {
+	width: calc(12% - 4px);
+	margin-right: 4px;
+	font-family: "monospace";
+	font-size: 0.9em;
+}
+.field-td {
+	width: 10em;
+	margin-right: 4px;
+}
+.value-td {
+	width: calc(100% - 10em - 4px);
+}
+.eng2-td {
+	width: 40%;
+	margin-right: 4px;
+}
+.id2-td {
+	margin-right: 4px;
+	width: 20%;
+}
+.col3-td {
+	width: 40%;
+}
+.entries, .details {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	border: 2px solid hsl(220deg,50%,85%);
+	border-radius: 4px;
+	padding: 6px;
+	height: calc(100vh - 8.8em);
+}
+:is(.entries, .details) table {
+	flex: 1;
+	display: block;
+	overflow: auto;
+}
+:is(.entries, .details) table thead, tbody {
+	display: table;
+	width: 100%;
+}
+:is(.entries, .details) table th {
+	position: sticky;
+	top: 0;
+	z-index: 1;
+	background: #00aacccc;
+	height: 1.5em;
+}
+:is(.entries, .details) table td {
+	height: 1em;
+}
+:is(.entries, .details) table tr:nth-child(odd) {
+	background: hsl(200, 50%, 90%);
+}
+:is(.entries, .details) table tr:nth-child(even) {
+	background: hsl(200, 50%, 95%);
+}
+.entries tbody tr {
+	cursor: pointer;
+}
+.entries tbody tr:hover {
+	outline: 2px solid #0088ff88;
+}
+.entries tbody tr.selected {
+	outline: 2px solid #0088aa88;
+	background: #aaeecc;
+}

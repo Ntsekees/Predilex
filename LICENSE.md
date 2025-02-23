@@ -2,6 +2,9 @@
 The following files:
 * `predilex.csv`
 * `predilex-template.ods`
+* `viewer/index.html`
+* `viewer/style.css`
+* `viewer/script.js`
 
 are provided under the Creative Commons Public Domain Dedication (“CC Zero”) International license located at [`LICENSES/CC0 1.0 LICENSE.txt`](https://github.com/Ntsekees/Predilex/blob/master/LICENSES/CC0%201.0%20LICENSE.txt).
 
@@ -19,4 +22,7 @@ The following files:
 * `tools/update_ids.py`
 
 are provided under the Internet Systems Consortium license located at [`LICENSES/ISC LICENSE.md`](https://github.com/Ntsekees/Predilex/blob/master/LICENSES/ISC%20LICENSE.md) (see this file for the copyright notice and list of authors).
+
+The files in the directory `viewer/dep/` are provided by the OpenJS foundation under the MIT license, see the file `viewer/dep/LICENSE.txt`.
+
 

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Predilex viewer</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<script src="dep/jquery-3.7.1.min.js"></script>
+		<script src="dep/jquery.csv.min.js"></script>
+		<script src="script.js"></script>
+	</head> 
+	<body>
+		<div class="header">
+			<h1>­— Predilex viewer —</h1>
+		</div>
+		<div style="padding-left: 1em;">
+			<label for="show"><b>Show:</b></label>
+			<select name="show" id="fields-selector" onchange="run();">
+				<option value="All">All</option>
+			</select>
+			│ <b>Filter:</b>
+			<input type="text" value="" id="filter-text">
+			<button id="filter-button" onclick="run();">Go</button>
+		</div>
+		<div class="main">
+			<div class="entries">
+				<div class="theader">
+					<div class="id-td" id="id-div">
+						ID
+					</div>
+					<div class="eng-td" id="eng-div">
+						English
+					</div>
+					<div class="col3-td" id="col3-div" style="display: none;">
+					</div>
+				</div>
+				<table>
+					<tbody id="entries-body">
+					</tbody>
+				</table>
+			</div>
+			<div class="details" id="details-div">
+				<div class="theader">
+					<div class="field-td">Field</div>
+					<div class="value-td">Value</div>
+				</div>
+				<table>
+					<tbody id="details-body">
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</body>
+</html>
+
