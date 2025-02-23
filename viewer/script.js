@@ -196,6 +196,11 @@ function setup_2(data) {
 		s += `<option value='${k}'>${k}</option>`;
 	});
 	document.getElementById("fields-selector").innerHTML += s;
+	const filter_text_input = document.getElementById('filter-text');
+	filter_text_input.addEventListener('keydown', (event) => {
+		if (event.key === 'Enter')
+			run();
+	});
 	run();
 }
 
