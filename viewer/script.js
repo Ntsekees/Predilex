@@ -152,8 +152,10 @@ function run() {
 	}
 	var filter = document.getElementById("filter-text").value;
 	var content = "";
+	var count = 0;
 	for (const row of g_data) {
 		if (filter != "" && !validated_by_filter(row, filter)) continue;
+		count += 1;
 		var ext = "";
 		var t = "";
 		if (g_selection != "All") {
@@ -176,6 +178,7 @@ function run() {
 						</tr>
 		`;
 	}
+	document.getElementById("result-count").innerHTML = "(" + count + " results)";
 	document.getElementById("entries-body").innerHTML = content;
 	const rows = document.querySelectorAll('.entries tr');
 	for (let i = 0; i < rows.length; i++) {
