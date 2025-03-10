@@ -44,8 +44,10 @@ function handle_keydown(e) {
 
 function hget(row, col_id) {
 	var i = g_keys.indexOf(col_id);
-	if (i < 0) throw "⚠ ⟦hget⟧: column ⟪"+col_id+"⟫ does not exist!";
-	return row[i];
+	if (i < 0) {
+		console.log("⚠ ⟦hget⟧: column ⟪"+col_id+"⟫ does not exist!");
+		return "";
+	} else return row[i];
 }
 
 function parsed_filter(filter) {
@@ -56,7 +58,7 @@ function parsed_filter(filter) {
 	col_filters.forEach((f) => {
 		f = f + " ";
 		var i = f.indexOf(" ");
-		map[f.slice(0, i).trim()] = f.slice(i).trim();
+		map[f.slice(0, i).trim()] = new RegExp(f.slice(i).trim());
 	});
 	return map;
 }
@@ -70,7 +72,7 @@ function validated_by_filter(entry, filter) {
 			if (pf[k] === "") found = true;
 			else {
 				g_keys.forEach((gk) => {
-					if (hget(entry, gk).indexOf(pf[k]) >= 0) {
+					if (hget(entry, gk).search(pf[k]) >= 0) {
 						found = true;
 					}
 				});
@@ -80,7 +82,7 @@ function validated_by_filter(entry, filter) {
 				if (hget(entry, k) === "")
 					found = true;
 			} else {
-				if (hget(entry, k).indexOf(pf[k]) >= 0)
+				if (hget(entry, k).search(pf[k]) >= 0)
 					found = true;
 			}
 		}
