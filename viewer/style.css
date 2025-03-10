@@ -8,7 +8,16 @@ body {
 }
 h1 {
 	text-align: center;
-	color: #008844;
+	color: hsl(0.4turn, 70%, 33%);
+}
+.gh-div {
+	position: absolute;
+	top: 0.5em;
+	right: 0.5em;
+	border: solid 1px hsl(0.4turn, 70%, 33%);
+	border-radius: 4px;
+	background-color: hsl(0.4turn, 70%, 80%);
+	padding: 3px;
 }
 .main {
 	display: flex;
