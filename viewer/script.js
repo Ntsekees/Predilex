@@ -3,6 +3,7 @@ var g_keys = [];
 var g_cols = [];
 var g_data = [];
 var g_selection = "All";
+//var g_last_selected_row = null;
 
 function highlight_row(row) {
 	var t = row.constructor.name;
@@ -17,6 +18,7 @@ function highlight_row(row) {
 	}
 	// Highlight the clicked row
 	row.classList.add('selected');
+	//g_last_selected_row = row;
 }
 
 function shift_selected_row(n) {
@@ -129,17 +131,21 @@ function update_details(row) {
 		}
 		var entry = g_data.find((row) => hget(row, "id") == first_id);
 		g_keys.forEach((key) => {
-			if (key)
-				content += `
-						<tr>
-							<td class="field-td">
-								${hget(g_cols, key)}
-							</td>
-							<td class="value-td">
-								${fmt(hget(entry, key))}
-							</td>
-						</tr>
-				`;
+			if (key) {
+				var val = hget(entry, key);
+				if (g_selection != "AllNonempty" || val != "") {
+					content += `
+							<tr>
+								<td class="field-td">
+									${hget(g_cols, key)}
+								</td>
+								<td class="value-td">
+									${fmt(val)}
+								</td>
+							</tr>
+					`;
+				}
+			}
 		});
 	}
 	document.getElementById("details-body").innerHTML = content;
@@ -149,8 +155,10 @@ function run() {
 	var prev_selection = g_selection;
 	g_selection = document.getElementById("fields-selector").value;
 	if (g_selection != prev_selection) {
-		if (g_selection != "All") switch_display_to_single_field();
+		if (!["All", "AllNonempty"].includes(g_selection))
+			switch_display_to_single_field();
 		else switch_display_to_all_fields();
+		//if (g_last_selected_row) update_details(g_last_selected_row);
 	}
 	var filter = document.getElementById("filter-text").value;
 	var content = "";
@@ -160,7 +168,7 @@ function run() {
 		count += 1;
 		var ext = "";
 		var t = "";
-		if (g_selection != "All") {
+		if (!["All", "AllNonempty"].includes(g_selection)) {
 			t = "2";
 			var v = fmt(hget(row, g_selection));
 			ext = `
@@ -189,7 +197,6 @@ function run() {
 			update_details(this);
 		};
 	}
-	document.addEventListener('keydown', handle_keydown, true);
 }
 
 function setup_2(data) {
@@ -201,6 +208,7 @@ function setup_2(data) {
 		s += `<option value='${k}'>${k}</option>`;
 	});
 	document.getElementById("fields-selector").innerHTML += s;
+	document.addEventListener('keydown', handle_keydown, true);
 	const filter_text_input = document.getElementById('filter-text');
 	filter_text_input.addEventListener('keydown', (event) => {
 		if (event.key === 'Enter')
