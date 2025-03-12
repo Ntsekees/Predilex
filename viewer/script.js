@@ -178,7 +178,7 @@ function run() {
 			`
 		}
 		content += `
-						<tr>
+						<tr pred-id=${hget(row, "id")}>
 							<td class="id${t}-td">
 								${hget(row, "id")}
 							</td>
@@ -192,10 +192,17 @@ function run() {
 	document.getElementById("entries-body").innerHTML = content;
 	const rows = document.querySelectorAll('.entries tr');
 	for (let i = 0; i < rows.length; i++) {
-		rows[i].onclick = function() {
+		let row = rows[i];
+
+		row.onclick = function() {
 			highlight_row(this);
 			update_details(this);
 		};
+
+		if (window.location.hash.substring(1) === row.getAttribute("pred-id")) {
+			row.click();
+			row.scrollIntoView({ behavior: "smooth", block: "center" });
+		}
 	}
 }
 
