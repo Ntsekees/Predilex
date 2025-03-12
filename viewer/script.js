@@ -53,10 +53,14 @@ function hget(row, col_id) {
 }
 
 function parsed_filter(filter) {
-	var map = {};
-	var split_filter = filter.split("@");
+	var split_filter = filter
+		.replace("\\@", "\u0091")
+		.split("@")
+		.map((f) => f.replace("\u0091", "@"));
 	var col_filters = split_filter.slice(1);
+	var map = {};
 	map.any = split_filter[0].trim();
+	console.log(map.any);
 	col_filters.forEach((f) => {
 		f = f + " ";
 		var i = f.indexOf(" ");
