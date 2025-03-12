@@ -119,6 +119,10 @@ function switch_display_to_single_field() {
 	document.getElementById("id-div").className = "id2-td";
 }
 
+function entry_from_id(id) {
+	return g_data.find((row) => hget(row, "id") === id);
+}
+
 function go_to_id(id) {
 	document.getElementById("filter-text").value =
 		`@id ${id}`;
@@ -126,7 +130,14 @@ function go_to_id(id) {
 }
 
 function interactivized_id(id) {
-	return `<b style="color: #003333; cursor: pointer;" onclick="go_to_id('${id}');">${id}</b>`;
+	return `
+		<div class="details-popup">
+			<b style="color: #003333; cursor: pointer;" onclick="go_to_id('${id}');">${id}</b>
+			<span class="details-popup-text">
+				${hget(entry_from_id(id), "eng_def")}
+			</span>
+		</div>
+	`;
 }
 
 function with_interactive_ids(s) {
@@ -154,10 +165,10 @@ function update_details(row) {
 			first_id = child.innerText;
 			break;
 		}
-		var entry = g_data.find((row) => hget(row, "id") == first_id);
+		var entry = entry_from_id(first_id);
 		g_keys.forEach((key) => {
 			if (key) {
-				var val = hget(entry, key);
+				var val = fmt(hget(entry, key));
 				if (FIELDS_USING_IDS.includes(key))
 					val = with_interactive_ids(val);
 				if (g_selection != "AllNonempty" || val != "") {
@@ -167,7 +178,7 @@ function update_details(row) {
 									${hget(g_cols, key)}
 								</td>
 								<td class="value-td">
-									${fmt(val)}
+									${val}
 								</td>
 							</tr>
 					`;
@@ -197,12 +208,12 @@ function run() {
 		var t = "";
 		if (!["All", "AllNonempty"].includes(g_selection)) {
 			t = "2";
-			var val = hget(row, g_selection);
+			var val = fmt(hget(row, g_selection));
 			if (FIELDS_USING_IDS.includes(g_selection))
 				val = with_interactive_ids(val);
 			ext = `
 							<td class="col3-td">
-								${fmt(val)}
+								${val}
 							</td>
 			`
 		}

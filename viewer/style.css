@@ -108,3 +108,32 @@ h1 {
 	outline: 2px solid #0088aa88;
 	background: #aaeecc;
 }
+.details-popup {
+	position: relative;
+	display: inline;
+}
+.details-popup .details-popup-text {
+	visibility: hidden;
+	opacity: 0;
+	transition: opacity 0s;
+	position: absolute;
+	z-index: 1;
+	bottom: 125%;
+	left: 50%;
+	margin-left: -10em;
+	border: 2px solid hsl(0.4turn, 70%, 10%);
+	border-radius: 6px;
+	width: 20em;
+	padding: 8px 8px;
+	background-color: hsl(0.4turn, 70%, 85%);
+	color: hsl(0.4turn, 70%, 10%);
+	text-align: center;
+}
+.details-popup:hover .details-popup-text {
+	visibility: visible;
+	opacity: 1;
+}
+
+
+
+
