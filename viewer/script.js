@@ -60,7 +60,6 @@ function parsed_filter(filter) {
 	var col_filters = split_filter.slice(1);
 	var map = {};
 	map.any = split_filter[0].trim();
-	console.log(map.any);
 	col_filters.forEach((f) => {
 		f = f + " ";
 		var i = f.indexOf(" ");
