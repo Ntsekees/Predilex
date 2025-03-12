@@ -1,4 +1,10 @@
 
+const FIELDS_USING_IDS = [
+	"id", "possible etymologies", "homoeventives", "similar",
+	"antonyms", "hypernyms", "hyponyms", "holonyms", "meronyms",
+	"related", "alt", "definition"
+];
+
 var g_keys = [];
 var g_cols = [];
 var g_data = [];
@@ -113,6 +119,22 @@ function switch_display_to_single_field() {
 	document.getElementById("id-div").className = "id2-td";
 }
 
+function go_to_id(id) {
+	document.getElementById("filter-text").value =
+		`@id ${id}`;
+	run();
+}
+
+function interactivized_id(id) {
+	return `<b style="color: #003333; cursor: pointer;" onclick="go_to_id('${id}');">${id}</b>`;
+}
+
+function with_interactive_ids(s) {
+	return s.replace(
+		/(?<![a-z])([bcdfghjklmnpqrstvwyz][aeiou]){3}(?![a-z])/g,
+		(match) => interactivized_id(match));
+}
+
 function fmt(s) {
 	if (s.includes("\n")) {
 		var c = "";
@@ -136,6 +158,8 @@ function update_details(row) {
 		g_keys.forEach((key) => {
 			if (key) {
 				var val = hget(entry, key);
+				if (FIELDS_USING_IDS.includes(key))
+					val = with_interactive_ids(val);
 				if (g_selection != "AllNonempty" || val != "") {
 					content += `
 							<tr>
@@ -173,10 +197,12 @@ function run() {
 		var t = "";
 		if (!["All", "AllNonempty"].includes(g_selection)) {
 			t = "2";
-			var v = fmt(hget(row, g_selection));
+			var val = hget(row, g_selection);
+			if (FIELDS_USING_IDS.includes(g_selection))
+				val = with_interactive_ids(val);
 			ext = `
 							<td class="col3-td">
-								${v}
+								${fmt(val)}
 							</td>
 			`
 		}
