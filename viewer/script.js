@@ -197,9 +197,10 @@ function run() {
 		row.onclick = function() {
 			highlight_row(this);
 			update_details(this);
+			window.location.hash = `#${this.getAttribute('pred-id')}`;
 		};
 
-		if (window.location.hash.substring(1) === row.getAttribute("pred-id")) {
+		if (window.location.hash === `#${row.getAttribute("pred-id")}`) {
 			row.click();
 			row.scrollIntoView({ behavior: "smooth", block: "center" });
 		}
