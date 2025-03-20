@@ -1487,12 +1487,12 @@ jahuzi,,,3,,,,,,action,,,,,,,,,,,,,, ,,,➊ satisfies property ➋ in order to a
 bugise,,,2,,,,,,action,,,,,,,,,,,,,, ,,,➊ satisfies property ➋ instinctively.,,,,,,,,,,,,,,,,,,*roaruo,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 gakote,a,,3,,,,,,action,,,,,,,,,,,,,, ,,,➊ serves ➋ by satisfying property ➌.,,,,,,,,,,,,,,,,,,lueq,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 tayita,,,2,,,,,,action,,,,,,,,,,,,,, ,,,"➊ shouts, yells or screams ➋.",,,,,,,,,,,,,,,,,,">shoı, ➊",,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
-potubo,,,2,,,,,,action,,,,,,,,,,,,,, ,,,➊ sings ➋.,,,,,,,,,,,,,,,,,,">suaq, ➊",,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
+potubo,,,2,,,,,,action,,,,,,,,,,,,,, ,,,➊ sings ➋.,,sing#VT,,,,,,,,,,,,,,,,">suaq, ➊",,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 folavu,,,3,,,,,,action,,,,,,,,,,,,,, ,,,➊ steals from ➋ possession ➌:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 gunoqo,,,2,,,,,,action,,,,,,,,,,,,,, ,,,"➊ strokes, pets ➋.",,,,,,,caresser#V²,,,,,,,,,,,*paıgoaı,,,"pamsa'e, ➊, ➋, ●",,,,,,,,,, ,,,,,,,,,,,,,,, ,,,Questioning, Speaker: 1, Addressee: 2, Message: 3, Topic: ∅
 cegoca,a,,3,,,,,,action,,,,,ziceyi,,,,,,,,, ,,,➊ successfully satisfies property ➋ in order to achieve the further goal ➌.,,,,,,,,,,,,,,,,,,*shıutaı,,,,,,,,,,,,, ,,,,,,,,,,,,,,, ,,,Questioning, Speaker: 1, Addressee: 2, Message: 3, Topic: ∅
-dilere,,,2,,,,,,action,,,,,,,,,,,,,, ,,,➊ throws ➋.,,,,,,,,,,,,,,,,,,*hıeq,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
-fonigo,,,2,,,,,,action,,,,,,,,,,,,,, ,,,"➊ treats, doctors ➋.",,,,,,,,,,,,,,,,,,goı,,,"mikce, ➊, ➋, ●, ●",,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
+dilere,,,2,,,,,,action,,,,,,,,,,,,,, ,,,➊ throws ➋.,,throw#VT,,,,,,,,,,,,,,,,*hıeq,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
+fonigo,,,2,,,,,,action,,,,,,,,,,,,,, ,,,"➊ treats, doctors ➋.",,treat#VT; doctor#VT,,,,,,,,,,,,,,,,goı,,,"mikce, ➊, ➋, ●, ●",,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 dubanu,,,2,x 1,,,,,action,,,,,,,,,jomeli,jomeli,,,, ,,,"➊ tries, attempts to have property ➋",,,,,,,,,,,,,,,,,,leo,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 jomeli,,,2,x 0,,,,,action,,,,,,,,,dubanu,dubanu,,,, ,,,"➊ tries, attempts to make ➋ be the case.",,,,,,,,,,,,,,,,,,leo tua,,,"troci, ➊, ➋, ●, ⁑gaurtoi",,,,tari#VT_P0,,,,-ıkp,, ,,,,,,,,,,,,,,,, ,,,,,,
 sinata,,,3,,,,,,action,,,,,,,,,,,,,, ,,,➊ unhelps/interfers with/hinders ➋'s attempt to satisfy the property ➌.,,,,,,,,,,,,,,,,,,*soagıq,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
@@ -1501,15 +1501,15 @@ hofago,,,3,,,,,,action,,,,,,,,,,,,,, ,,,"➊ uses, manipulates, exercises influe
 tofubo,,,3,,,,,,action,,,,,,,,,,,,,, ,,,"➊ uses, manipulates, exercises influence upon ➋ in order to achieve the goal of satisfying property ➌, and successfully attains that goal.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 fuyayi,,,3,,,,,,action,,,,,,,,,,,,,, ,,,"➊ uses, manipulates, exercises influence upon ➋ in order to achieve the goal of satisfying property ➌.",,,,,,,,,,,,,,,,,,choq,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 pisodi,,,2,,,,,,action,,,,,zimulu,,,,,,,,, ,,,"➊ utters, emits vocalization ➋ (sounds).",,,,,,,,,,,,,,,,,,choa,,,bacru,,,,,,,,"aḑxul, -u, -a",, ,,,,,,,,,,,,,,,,,,,,,,
-wacuda,,,2,,,,,,action,,,,,,,,,,,,,, ,,,➊ visits ➋.,,,,,,,,,,,,,,,,,,,,,,,,,vire#VT,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
+wacuda,,,2,,,,,,action,,,,,,,,,,,,,, ,,,➊ visits ➋.,,visit#VT,,,,,,,,,,,,,,,,,,,,,,,vire#VT,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 papuyo,,,2,,,,,,action,,,,,,,,,,,,,, ,,,"➊ volitionally enters, goes inside ➋.",,,,,,,,,,,,,,,,,,nıefa,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 nevupo,a,,2,,,,,,action,,,,,,,,,,,,,, ,,,"➊ volitionally goes out of, exits ➋.",,,,,,,,,,,,,,,,,,buıfa,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 geyeqi,,,2,,,,,,action,,,,,,,,,,,,,, ,,,"➊ volitionally returns, goes back to place ➋.",,,,,,,,,,,,,,,,,,rıufa,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 lidaqe,,,2,,,,,,action,,,,,ziceyi,,,,,,,,, ,,,"➊ volitionally satisfies property ➋ without further thought, that action being an end in itself and not a step in a progressive effort to achieve another goal.",,,,,,,,,,,,,,,,,,*taoroa,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 tubano,,,2,x 1,,,,,action,,,,,,,,,,,,,, ,,,"➊ volitionally, intentionally has property ➋.",,,,,,,,,,,,,,,,,,tao,,,"zukte, ➊, ➋, ●",,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,, Topic: ∅
-ziceyi,,,2,c 1,,d d,,,action,,,,,,,,,,,,,, ,,,"➊ volitionally, intentionally satisfies property ➋.",,"V:do, 1, 2",,,,,,,,,,,,,,,,tao,,,"zukte, ➊, ➋, ●",,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,, Topic: ∅
+ziceyi,,,2,c 1,,d d,,,action,,,,,,,,,,,,,, ,,,"➊ volitionally, intentionally satisfies property ➋.",,do#VT,,,,,,,,,,,,,,,,tao,,,"zukte, ➊, ➋, ●",,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,, Topic: ∅
 qosucu,,,1,,,,,,action,,,,,,,,,,,,,, ,,,"➊ walks, treads on his/her/its toes.",,,,,,,,,,,,,,,,,,*cheıpueq,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,, Topic: ∅
-ciyote,,,2,,,,,,action,,,,,,,,,,,,,, ,,,➊ washes ➋.,,,,,,,,,,,,,,,,,,*naosıqtua,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,, Topic: ∅
+ciyote,,,2,,,,,,action,,,,,,,,,,,,,, ,,,➊ washes ➋.,,wash#VT,,,,,,,,,,,,,,,,*naosıqtua,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,, Topic: ∅
 cozeda,,,2,,,,,,action,,,,,,,,,,,,,, ,,,"➊ wears, erodes, abrades ➋.",,,,,,,,,,,,,,,,,,*nuagoaı,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 rifanu,,,2,,,,,,action,,,,,,,,,,,,,, ,,,➊ weaves ➋.,,,,,,,,,,,,,,,,,,*sune,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 nilupe,,,3,,,,,,action,,,,,,,,,,,,,,,,,➊ welcomes ➋ to place ➌.,,,,,,,,,,,,,,,,,,,,,,,,,suna#VI_va_fo,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1524,17 +1524,17 @@ derewi,,,2,,,,,,action,,,,,,,,,,,,,, ,,,"➊ writes, inscribes, draws physical m
 bubemi,,,3,,,,,,action,,,,,,,,,,,,,, ,,,"➊, with instrument ➋, combs ➌.",,,,,,,,,,,,,,,,,,"*garu, ➊, ➌",,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 yuliwe,,,0,,,,,,action avalent,,,,,,,,,,,,,,,,,Hello; I greet you.,,hi#INTJ; hello#INTJ,,,hola#INTJ,,salut#INTJ,,hallo#INTJ,,,,,,,[eus] kaixo#INTJ,,jadı#INTJ,,,coi#VOC,,,xoi#VOC,,,∅,,∅,∅,,,,,,,,,,,,,,,,,,,,,,,
 faniza,,,1,x,,,,,action body_action,,,,,,,,,,,,,, ,,,➊ ambulates backwards.,,,,,,,,,,,,,,,,,,*tıakoı,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
-sewufu,,,2,,,,,,action body_action,,,,,,,,,,,,,, ,,,"➊ bites, pinches ➋ with teeth.",,bite:V^pinch,,,,,,,,,,,,,,,,*buqhıao,,,,,,,,,,,,, ,,,,,,,,,,,,,,,, ,,,,,,
+sewufu,,,2,,,,,,action body_action,,,,,,,,,,,,,, ,,,"➊ bites, pinches ➋ with teeth.",,bite#VT^pinch,,,,,,,,,,,,,,,,*buqhıao,,,,,,,,,,,,, ,,,,,,,,,,,,,,,, ,,,,,,
 fegori,,,2,,,,,,action body_action,,,,,,,,,,,,,, ,,,➊ blinks eye ➋.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 bosuzu,,,1,,,,,,action body_action,,,,,,,,,,,,,, ,,,➊ breathes (in and out).,,,,,,,,,,,,,,,,,,*caha,,,,,,,,,,,,, ,,,breathe%2:29:00::,,,,,,,,,,,,,,,,,,,
 weleye,,,1,,,,,,action body_action,,,,,,,,,,,,,, ,,,➊ breathes in.,,,,,,,,,,,,,,,,,,*bagacaha; *nıecaha,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 jobose,,,1,,,,,,action body_action,,,,,,,,,,,,,, ,,,➊ breathes out.,,,,,,,,,,,,,,,,,,*hupacaha; *buıcaha,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 pifefa,,,2,,,,,,action body_action,,,,,,,,,,,,,, ,,,➊ chews ➋.,,chew#VT^masticate,,,,,mâcher#VT,,,,,,,,,,,*poaqchuq,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 bifasu,,,2,,,,,,action body_action,,,,,,,,,,,,,, ,,,➊ closes eye ➋.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
-pasoge,,,1,,,,,,action body_action,,,,,,,,,,,,,, ,,,➊ coughs.,,,,,,,,,,,,,,,,,,kaha,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
+pasoge,,,1,,,,,,action body_action,,,,,,,,,,,,,, ,,,➊ coughs.,,cough#VI,,,,,,,,,,,,,,,,kaha,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 zuzila,a,,2,,,,,,action body_action,,,heramo,,,,,,,,,,, ,,,➊ dances to accompaniment or music ➋.,,,,,,,,,,,,,,,,,,,,,dansu,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 heramo,a,,1,,,,,,action body_action,,,zuzila,,,,,,,,,,, ,,,➊ dances.,,,,,,,,,,,,,,,,,,*deduo,,,ansu,,,,jvin#VI,,,,"uçpus, -u",, ,,,,,,,,,,,,,,,,,,,,,,
-himaho,,,2,,,,,,action body_action,,,,,,,,,,,,,, ,,,➊ defecates ➋.,,defecate; shit:V,,,,,,,,,,,,,,,,"> keqcıu, ➊",,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
+himaho,,,2,,,,,,action body_action,,,,,,,,,,,,,, ,,,➊ defecates ➋.,,defecate#VT; shit#VT,,,,,,,,,,,,,,,,"> keqcıu, ➊",,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 cewide,,,2,x x,,,,,action body_action,,,,,,,,,,,,,, ,,,➊ drinks ➋.,,drink#VT,,,beber#VT,,boire#VT,,,,,,,,,,,pıe,,,"pinxe, ➊, ➋, ●",,,,[e kalan sa]#VT,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 qayiho,,,2,x x,,,,,action body_action,,,,,,,,,,,,,, ,,,➊ eats ➋.,,eat#VT,,,comer#VT,,manger#VT,,,,,,,,,,,chuq/2,,,citka,,,,[e tian sa]#VT,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 rabage,,,2,,,,,,action body_action,,,,,,,,,,,,,, ,,,➊ expectorates ➋.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
