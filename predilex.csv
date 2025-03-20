@@ -1432,7 +1432,7 @@ pahemo,,,2,,,,,,action,,,,,,,,,,,,,, ,,,➊ explores ➋.,,explore#VT,,,,,,,,,,,
 pajane,,,3,,,,,,action,,,,,,,,,,,,,, ,,,➊ feeds ➋ with food ➌.,,feed#VT_with; feed#VT_to 132,,,,,,,,,,,,,,,,haqdo,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 qifesi,,,2,,,,,,action,,,,,,,,,,,,,, ,,,➊ fights against ➋.,,fight#VT,,,,,,,,,,,,,,,,soı,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 bayari,,,2,,,,,,action,,,,,,,,,,,,,, ,,,➊ forges metal ➋.,,forge#VT,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
-jubaku,,,3,,,,,,action,,,,,,,,,,,,,,,,,➊ gives to ➋ control of ➌.,,give#VT_to,,,dar#VT_à 132,,donner#VT_à 132,,,,"➊は, ➋に, ➌を, 上げる#VT-C1",,,,,,,,,,,,"(kao) ➊, donsu#V³, (beu) ➋, (dio) ➌",,duna#VI_va_fo,,,,"wan-#V, ➊u, ➋ü, ➌a",,,,,,,,,,,,,,,,,,,,,,,,
+jubaku,,,3,,,,,,action,,,,,,,,,,,,,,,,,➊ gives to ➋ control of ➌.,,give#VT_to 132,,,dar#VT_à 132,,donner#VT_à 132,,,,"➊は, ➋に, ➌を, 上げる#VT-C1",,,,,,,,,,,,"(kao) ➊, donsu#V³, (beu) ➋, (dio) ➌",,duna#VI_va_fo,,,,"wan-#V, ➊u, ➋ü, ➌a",,,,,,,,,,,,,,,,,,,,,,,,
 jagavo,,,3,,,,,,action,,,,,,,,,,,,,, ,,,"➊ gives to ➋ ownership, possession of ➌.",,,,,,,,,,,,,,,,,,"bodo, ➊, ➌, ➋",,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 behucu,,,3,,,,,,action,,,,,,,,,,,,,, ,,,➊ gives to ➋ property ➌.,Does not imply that ➊ had property ➌.,give#VT_to 132; endow#VT_with,,,,,,,,,,,,,,,,"do#V³, ➊, ➋, ➌",,,"➊, dunda#V³, ➌, ➋",,,,,,,,,, ,,,,,,,,,,,,,,, ,,,Questioning, Speaker: 1, Addressee: 2, Message: 3, Topic: ∅
 zikose,,,3,,,,,,action,,,,,,,,,,,,,, ,,,"➊ gives, assigns to ➋ name ➌.",,name#VD,,,,,,,,,,,,,,,,? chuado,,,,,,,,,,,,, ,,,,,,,,,,,,,,, ,,,Questioning, Speaker: 1, Addressee: 2, Message: 3, Topic: ∅
@@ -1486,7 +1486,7 @@ zitale,,,3,,,,,,action,,,,,,,,,,,,,, ,,,➊ rewards ➋ by doing ➌ (property).
 jahuzi,,,3,,,,,,action,,,,,,,,,,,,,, ,,,➊ satisfies property ➋ in order to achieve the further goal ➌.,,,,,,,,,,,,,,,,,,*shıutao,,,"zukte, ➊, ➋, ➌",,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 bugise,,,2,,,,,,action,,,,,,,,,,,,,, ,,,➊ satisfies property ➋ instinctively.,,,,,,,,,,,,,,,,,,*roaruo,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 gakote,a,,3,,,,,,action,,,,,,,,,,,,,, ,,,➊ serves ➋ by satisfying property ➌.,,,,,,,,,,,,,,,,,,lueq,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
-tayita,,,2,,,,,,action,,,,,,,,,,,,,, ,,,"➊ shouts, yells or screams ➋.",,,,,,,,,,,,,,,,,,">shoı, ➊",,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
+tayita,,,2,,,,,,action,,,,,,,,,,,,,, ,,,"➊ shouts, yells or screams ➋.",,shout#VT,,,,,,,,,,,,,,,,">shoı, ➊",,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 potubo,,,2,,,,,,action,,,,,,,,,,,,,, ,,,➊ sings ➋.,,sing#VT,,,,,,,,,,,,,,,,">suaq, ➊",,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 folavu,,,3,,,,,,action,,,,,,,,,,,,,, ,,,➊ steals from ➋ possession ➌:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 gunoqo,,,2,,,,,,action,,,,,,,,,,,,,, ,,,"➊ strokes, pets ➋.",,,,,,,caresser#V²,,,,,,,,,,,*paıgoaı,,,"pamsa'e, ➊, ➋, ●",,,,,,,,,, ,,,,,,,,,,,,,,, ,,,Questioning, Speaker: 1, Addressee: 2, Message: 3, Topic: ∅
@@ -1512,8 +1512,8 @@ qosucu,,,1,,,,,,action,,,,,,,,,,,,,, ,,,"➊ walks, treads on his/her/its toes."
 ciyote,,,2,,,,,,action,,,,,,,,,,,,,, ,,,➊ washes ➋.,,wash#VT,,,,,,,,,,,,,,,,*naosıqtua,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,, Topic: ∅
 cozeda,,,2,,,,,,action,,,,,,,,,,,,,, ,,,"➊ wears, erodes, abrades ➋.",,,,,,,,,,,,,,,,,,*nuagoaı,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 rifanu,,,2,,,,,,action,,,,,,,,,,,,,, ,,,➊ weaves ➋.,,,,,,,,,,,,,,,,,,*sune,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
-nilupe,,,3,,,,,,action,,,,,,,,,,,,,,,,,➊ welcomes ➋ to place ➌.,,,,,,,,,,,,,,,,,,,,,,,,,suna#VI_va_fo,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-nizido,,,2,,,,,,action,,,,,,,,,,,,,, ,,,➊ welcomes ➋.,,,,,,,,,,,,,,,,,,,,,,,,,suna#VT,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
+nilupe,,,3,,,,,,action,,,,,,,,,,,,,,,,,➊ welcomes ➋ to place ➌.,,welcome#VT_to,,,,,,,,,,,,,,,,,,,,,,,suna#VI_va_fo,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+nizido,,,2,,,,,,action,,,,,,,,,,,,,, ,,,➊ welcomes ➋.,,welcome#VT,,,,,,,,,,,,,,,,,,,,,,,suna#VT,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 meruku,,,2,,,,,,action,,,,,,,,,,,,,, ,,,➊ whistles sound ➋.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 diwovo,,,2,,,,,,action,,,,,,,,,,,,,, ,,,➊ wipes ➋.,,,,,,,,,,,,,,,,,,*sıqgoaı,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 fikamo,,,3,,,,,,action,,,,,,,,,,,,,, ,,,➊ writes text ➋ on support ➌.,,,,,,,,,,,,,,,,,,*toaqkaı,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
