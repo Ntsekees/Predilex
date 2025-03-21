@@ -6,10 +6,10 @@
 {
   "path": "./toakao.py",
   "shall_be_from_predilex": true,
-  "shall_be_by_keywords": true,
+  "shall_be_by_lemmas": true,
   "map": {
     "tags": "tags",
-    "eng_kw": "translations → #@ language = eng → eng_kw"
+    "eng_lem": "translations → #@ language = eng → eng_lem"
   }
 }
 
@@ -18,10 +18,10 @@
 {
   "path": "./toaq_off.py",
   "shall_be_from_predilex": true,
-  "shall_be_by_keywords": true,
+  "shall_be_by_lemmas": true,
   "map": {
     "tags": "tags",
-    "eng_kw": "eng_kw"
+    "eng_lem": "eng_kw"
   }
 }
 
@@ -30,7 +30,7 @@
 {
   "path": "./nahaıwa.py",
   "shall_be_from_predilex": true,
-  "shall_be_by_keywords": false,
+  "shall_be_by_lemmas": false,
   "map": {
     "tags": "tags"
   }
@@ -41,9 +41,9 @@
 {
   "path": "./eberban.py",
   "shall_be_from_predilex": true,
-  "shall_be_by_keywords": true,
+  "shall_be_by_lemmas": true,
   "map": {
-    "eng_kw": "eng_kw"
+    "eng_lem": "eng_kw"
   }
 }
 
@@ -52,7 +52,7 @@
 {
   "path": "eberban.py",
   "shall_be_from_predilex": true,
-  "shall_be_by_keywords": true,
+  "shall_be_by_lemmas": true,
   "map": {
     "id": "predilex_id"
   }
@@ -63,10 +63,10 @@
 {
   "path": "./eberban.py",
   "shall_be_from_predilex": false,
-  "shall_be_by_keywords": false,
+  "shall_be_by_lemmas": false,
   "map": {
     "family": "ber_family",
-    "": "ber_lemma"
+    "": "ber_lem"
   }
 }
 

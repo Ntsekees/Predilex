@@ -17,8 +17,8 @@
             Filesystem path to a Python module serving as the interface between this program and the LL of arbitrary format, defining functions for loading, saving, reading and writing the LL data.
           • ⟦shall_be_from_predilex⟧ Boolean
             Indication of whether the data is to be transfered FROM Predilex (as opposed as TO it) to the LL.
-          • ⟦shall_be_by_keywords⟧ Boolean
-            Indication of whether the target entries are identified by language keywords, as opposed of by Predilex ID stored in the LL data.
+          • ⟦shall_be_by_lemmas⟧ Boolean
+            Indication of whether the target entries are identified by language lemmas, as opposed of by Predilex ID stored in the LL data.
           • ⟦map⟧ Map
             Map of data field names from the transfer source to the target data field names of the transfer destination (which of Predilex and the LL is the destination or the source is chosen with the ⟦shall_be_from_predilex⟧ switch, mentioned above).
             For example, a map of the form ⟪{"tags": "predilex_tags"}⟫, combined with ⟦shall_be_from_predilex⟧ being True, will trigger transfer of the content of the ⟦tags⟧ column of Predilex to data fields named ⟪predilex_tags⟫ in the LL data.
@@ -78,10 +78,10 @@ def entrypoint():
     SELF_PATH + "/transfer_data_input")
   assert all([k in idata for k in (
     "path", "map", "shall_be_from_predilex",
-    "shall_be_by_keywords"
+    "shall_be_by_lemmas"
   )])
   shall_be_from_predilex = idata["shall_be_from_predilex"]
-  shall_be_by_keywords = idata["shall_be_by_keywords"]
+  shall_be_by_lemmas = idata["shall_be_by_lemmas"]
   map = idata["map"]
   module = import_from_path(
     "module", SELF_PATH + "/" + idata["path"])
@@ -98,8 +98,8 @@ def entrypoint():
     map = {f(v): k for v, k in map.items()}
   else:
     map = {v: f(k) for v, k in map.items()}
-  if shall_be_by_keywords:
-    lcci = predilex[0].index(module.LANGUAGE_CODE + "_kw")
+  if shall_be_by_lemmas:
+    lcci = predilex[0].index(module.LANGUAGE_CODE + "_lem")
     # ↑ ⟪lcci⟫: “Language Code Column Index”
   else:
     lcci = None
@@ -140,12 +140,12 @@ def proceed(
   inner_iter = indexes_of(inner)
   for i in outer_iter:
     if predilex_is_outer:
-      keywords = predilex[i][lcci]
-      if keywords == "":
+      lemmas = predilex[i][lcci]
+      if lemmas == "":
         continue
       kw_data = filtered_kw_data(
-        predilex_handling.parsed_predilex_keywords(
-          keywords))
+        predilex_handling.parsed_predilex_lemmas(
+          lemmas))
       if len(kw_data) == 0:
         continue
       p_lemmas = lexemes_from_predilex_kw_data(kw_data)
@@ -219,12 +219,12 @@ def move_data(src, dst, map):
 def reversed_if_not(prop, α):
   return α if prop else reversed(α)
 
-def lexemes_from_predilex_kw_data(kwd):
-  return {e["keyword"] for e in kwd}
+def lexemes_from_predilex_lemma_data(kwd):
+  return {e["lemma"] for e in kwd}
 
-def lexemes_from_predilex_keywords(pkwl):
-  α = predilex_handling.parsed_predilex_keywords(pkwl)
-  return lexemes_from_predilex_kw_data(α)
+def lexemes_from_predilex_lemmas(pll):
+  α = predilex_handling.parsed_predilex_lemmas(pll)
+  return lexemes_from_predilex_lemma_data(α)
 
 def filtered_kw_data(kw_data):
   def f(𝕄):

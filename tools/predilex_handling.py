@@ -17,7 +17,7 @@ def parsed_predilex_keywords(keywords):
       "lexical_status": "official",
       "arity_mismatch": None,
       "syntactic_class": None,
-      "keyword": "",
+      "lemma": "",
       "slots": []
     }
     j = k = 0
@@ -51,9 +51,9 @@ def parsed_predilex_keywords(keywords):
     r = [e.strip() for e in s[j:].split(",")]
     assert len(r) > 0
     if ':' in r[0]:
-      m["syntactic_class"], m["keyword"] = r[0].split(':')
+      m["syntactic_class"], m["lemma"] = r[0].split(':')
     else:
-      m["keyword"] = r[0]
+      m["lemma"] = r[0]
     m["slots"] = r[1:]
     data.append(m)
   return data
