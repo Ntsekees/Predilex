@@ -18,7 +18,7 @@ def parsed_predilex_lemmas(lemmas):
       "arity_mismatch": None,
       "syntactic_class": None,
       "lemma": "",
-      "slots": []
+      "slot_reordering": []
     }
     j = k = 0
     for i, c in enumerate(s):
@@ -48,13 +48,25 @@ def parsed_predilex_lemmas(lemmas):
         case _:
           break
       j = max(i, min(k + 1, len(s)))
-    r = [e.strip() for e in s[j:].split(",")]
+    # r = [e.strip() for e in s[j:].split(",")]
+    r = s[j:].strip()
     assert len(r) > 0
-    if ':' in r[0]:
-      m["syntactic_class"], m["lemma"] = r[0].split(':')
+    if '#' in r:
+      m["lemma"], r2 = r.split('#')
+      if ' ' in r2:
+        m["syntactic_class"], m["slot_reordering"] = r2.split(' ')
+      else:
+        m["syntactic_class"] = r2
     else:
-      m["lemma"] = r[0]
-    m["slots"] = r[1:]
+      if ' ' in r:
+        m["lemma"], m["slot_reordering"] = r.split(' ')
+      else:
+        m["lemma"] = r
+    if len(m["lemma"]) > 0 and m["lemma"][0] == "[":
+      x = m["lemma"][1:]
+      if "]" in x:
+        x = x[x.index("]")]
+      m["lemma"] = x
     data.append(m)
   return data
 
