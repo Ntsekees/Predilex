@@ -8,9 +8,9 @@
 
 import re
 
-def parsed_predilex_keywords(keywords):
+def parsed_predilex_lemmas(lemmas):
   data = []
-  for s in keywords.split(";"):
+  for s in lemmas.split(";"):
     m = {
       "is_certain": True,
       "is_approximative": False,
