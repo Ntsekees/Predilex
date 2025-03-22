@@ -143,12 +143,12 @@ def proceed(
       lemmas = predilex[i][lcci]
       if lemmas == "":
         continue
-      kw_data = filtered_kw_data(
+      lemma_data = filtered_lemma_data(
         predilex_handling.parsed_predilex_lemmas(
           lemmas))
-      if len(kw_data) == 0:
+      if len(lemma_data) == 0:
         continue
-      p_lemmas = lexemes_from_predilex_kw_data(kw_data)
+      p_lemmas = lemmas_from_predilex_lemma_data(lemma_data)
     if (
       predilex_is_outer or (
         not predilex_is_outer and "" != module.predilex_id_of(
@@ -219,14 +219,14 @@ def move_data(src, dst, map):
 def reversed_if_not(prop, α):
   return α if prop else reversed(α)
 
-def lexemes_from_predilex_lemma_data(kwd):
-  return {e["lemma"] for e in kwd}
+def lemmas_from_predilex_lemma_data(ld):
+  return {e["lemma"] for e in ld}
 
-def lexemes_from_predilex_lemmas(pll):
+def lemmas_from_predilex_lemmas(pll):
   α = predilex_handling.parsed_predilex_lemmas(pll)
-  return lexemes_from_predilex_lemma_data(α)
+  return lemmas_from_predilex_lemma_data(α)
 
-def filtered_kw_data(kw_data):
+def filtered_lemma_data(lemma_data):
   def f(𝕄):
     return all([
       𝕄["is_certain"] == True,
@@ -234,7 +234,7 @@ def filtered_kw_data(kw_data):
       𝕄["lexical_status"] != "unpublished",
       𝕄["arity_mismatch"] == None
     ])
-  return list(filter(f, kw_data))
+  return list(filter(f, lemma_data))
 
 def index_of_first(ℙ, 𝕃):
   l = len(𝕃)
