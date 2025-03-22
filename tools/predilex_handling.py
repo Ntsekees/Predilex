@@ -18,7 +18,7 @@ def parsed_predilex_lemmas(lemmas):
       "arity_mismatch": None,
       "syntactic_class": None,
       "lemma": "",
-      "slot_reordering": []
+      "slot_reordering": ""
     }
     j = k = 0
     for i, c in enumerate(s):
@@ -51,15 +51,23 @@ def parsed_predilex_lemmas(lemmas):
     # r = [e.strip() for e in s[j:].split(",")]
     r = s[j:].strip()
     assert len(r) > 0
+    PU1 = "\u0091"
+    r = re.sub("\[([^]]*) +([^]]*)\]", f"\\1{PU1}\\2", r)
     if '#' in r:
       m["lemma"], r2 = r.split('#')
       if ' ' in r2:
-        m["syntactic_class"], m["slot_reordering"] = r2.split(' ')
+        try:
+          m["syntactic_class"], m["slot_reordering"] = r2.split(' ')
+        except:
+          raise Exception(f"⚠ Invalid lemma syntax: ⟪{s}⟫")
       else:
         m["syntactic_class"] = r2
     else:
       if ' ' in r:
-        m["lemma"], m["slot_reordering"] = r.split(' ')
+        try:
+          m["lemma"], m["slot_reordering"] = r.split(' ')
+        except:
+          raise Exception(f"⚠ Invalid lemma syntax: ⟪{s}⟫")
       else:
         m["lemma"] = r
     if len(m["lemma"]) > 0 and m["lemma"][0] == "[":
@@ -67,6 +75,7 @@ def parsed_predilex_lemmas(lemmas):
       if "]" in x:
         x = x[x.index("]")]
       m["lemma"] = x
+    m["lemma"] = m["lemma"].replace(PU1, " ")
     data.append(m)
   return data
 
