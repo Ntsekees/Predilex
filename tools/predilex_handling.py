@@ -50,11 +50,16 @@ def parsed_predilex_lemmas(lemmas):
       j = max(i, min(k + 1, len(s)))
     # r = [e.strip() for e in s[j:].split(",")]
     r = s[j:].strip()
-    assert len(r) > 0
+    if len(r) <= 0:
+      continue
+      # raise Exception(f"Invalid lemma data: ⟪{s}⟫")
     PU1 = "\u0091"
     r = re.sub("\[([^]]*) +([^]]*)\]", f"\\1{PU1}\\2", r)
     if '#' in r:
-      m["lemma"], r2 = r.split('#')
+      try:
+        m["lemma"], r2 = r.split('#')
+      except:
+        raise Exception(f"⚠ Invalid lemma syntax: ⟪{s}⟫")
       if ' ' in r2:
         try:
           m["syntactic_class"], m["slot_reordering"] = r2.split(' ')
