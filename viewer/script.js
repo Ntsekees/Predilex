@@ -24,7 +24,7 @@ function highlight_row(row) {
 	}
 	// Highlight the clicked row
 	row.classList.add('selected');
-	//g_last_selected_row = row;
+	// g_last_selected_row = row;
 }
 
 function shift_selected_row(n) {
@@ -51,6 +51,7 @@ function handle_keydown(e) {
 }
 
 function hget(row, col_id) {
+	if (row === null || row === undefined) return "";
 	var i = g_keys.indexOf(col_id);
 	if (i < 0) {
 		console.log("⚠ ⟦hget⟧: column ⟪"+col_id+"⟫ does not exist!");
