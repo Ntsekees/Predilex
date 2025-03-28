@@ -3,7 +3,7 @@
 
 Predilex is a thesaurus of sememes represented as predicates, each having a unique identifying ID, along with definitions in English or other languages, as well as cross-references with lemmas and lexical units in various natural and engineered languages, semantic categorization and tagging, listing of hypernyms and hyponyms, and a variety of other data.
 
-The data is in the public domain and can browsed using the [Predilex viewer](<https://ntsekees.github.io/Predilex/viewer/index.html>) interface.
+The data is in the public domain and can be browsed using the [Predilex viewer](<https://ntsekees.github.io/Predilex/viewer/index.html>) interface.
 
 ## Structure of the data
 
