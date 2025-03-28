@@ -111,7 +111,7 @@ def entrypoint():
   if shall_be_from_predilex:
     module.save(lexicon, out_path)
   else:
-    save_as_csv_file(predilex, out_path)
+    common.save_as_csv_file(predilex, out_path)
   print("Execution time: {:.3f}s.".format(
     time.time() - start_time))
 
