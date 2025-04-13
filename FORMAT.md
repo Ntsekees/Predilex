@@ -179,6 +179,14 @@ Definition in Eberban.
 
 Lemmas in programming languages; the name of the programming language is shown in square brackets before the each lemma.
 
+## Wiktionary SenseID
+
+Corresponding SenseID in Wiktionary.
+
+## WikiData ID
+
+Corresponding ID in WikiData.
+
 ## WordNet sense key
 
 Corresponding ID in the [WordNet](https://wordnet.princeton.edu/) database.
