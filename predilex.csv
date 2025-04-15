@@ -1146,7 +1146,7 @@ ziceri,,,3,,,,,,amount numeric space,,,,,,,,,,,,,, ,,,➊ and ➋ are separated 
 nalitu,,,3,,,,,,amount numeric space,,,,,,,,,,,,,, ,,,➊ and ➋ are separated by a spatiotemporal distance of ➌.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 pofapo,,,3,,,,,,amount numeric time,,,,,,,,,,,,,, ,,,➊ and ➋ are separated by an temporal distance of ➌.,,,,,,,,,,,,,,,,,,,,*daqjaone 231,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 lodara,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
-tehuwi,,,3,,,,,,amount numeric time,,,,,,,,,,,𝜆➊ 𝜆➋ 𝜆➌ kepipe ➊ ➋ ∧ ∃α ∃β pizada ➊ α ∧ zisime ➊ β ∧ zuyara β α ➌,,, ,,,➊ temporally precedes ➋ at time distance ➌.,,,,,,,,,,,,,,,,,,,,shıune#VD 231; bıene#VD 321,,,tempru#VD 231; tembalvi#VD 321,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
+tehuwi,,,3,,,,,,amount numeric time,,,,,,,,,,,𝜆➊ 𝜆➋ 𝜆➌ kepipe ➊ ➋ ∧ ∃α ∃β pizada ➊ α ∧ zisime ➋ β ∧ zuyara β α ➌,,, ,,,➊ temporally precedes ➋ at time distance ➌.,,,,,,,,,,,,,,,,,,,,shıune#VD 231; bıene#VD 321,,,tempru#VD 231; tembalvi#VD 321,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 jubuju,,,2,,,,,,amount numeric_amount_hop,,,,,,,,,,,,,, ,,,➊ is a property satisfied by a number great enough for ➋ to be the case.,,,,,,,,,,,,,,,,,,,,,,,banzuni,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 bivece,,,2,,,,,,amount numeric_amount_hop,,,,,,,,,,,,,, ,,,➊ is a property satisfied by too great a number for ➋ to be the case.,,,,,,,,,,,,,,,,,,,,,,,dukseni,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 gayoso,,,1,,,,,,amount relative pseudo_absolute,,,,,,,,,,,,,, ,,,➊ is deep.,,,,,,,,,,,,,,,,,,,,shoa,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
