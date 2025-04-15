@@ -483,7 +483,7 @@ talipe,,,2,,,,,,mathematics sets,,,,,,,,,,,𝜆➊ 𝜆➋ ∀α ➋ α ⇔ α �
 molodi,,,2,,,,,,mathematics sets,,,,,,,,,,,𝜆➊ 𝜆➋ vazuji ➊ ∧ vazuji ➋ ∧ ∀α α ∈ ➊ ⇔ ∃β β ≼ ➋ ∧ α ∈ β,,, ,,,➊ is the union of all the sets among ➋.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 vitaya,,,2,,,,,,mathematics sets,,,,,,,,,,,𝜆➊ 𝜆➋ vazuji ➊ ∧ vazuji ➋ ∧ ∀α α ∈ ➊ ⇔ ∃β β ∈ ➋ ∧ α ∈ β,,, ,,,➊ is the union of all the sets member of set ➋.,,,,,,,,,,,,,,,,,,,,,,,,,,,tcuhe#VT,,,,,,,,,,,,,,,,,,,,,,, ,,,,,
 vubeja,,,3,,,,,,mathematics sets,,,,,,,,,,,𝜆➊ 𝜆➋ 𝜆➌ ∀α [α ∈ ➊ ⇔ [α ∈ ➋ ∨ α ∈ ➌]],,, ,∪,,➊ is the union of set ➋ and set ➌.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,, ,,,,,
-wogopi,,,2,,,,,,mathematics sets plural_logic,,,,,,,,,,,𝜆➊ 𝜆➋ mujowa ➊ [𝜆α viqeyu α ➋],,, ,,,➊ are the members of set ➋.,,,,,,,,,,,,,,,,,,,,"*meame/2, ➋, ➊",,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
+wogopi,,,2,,,,,,mathematics sets plural_logic,,,,,,,,,,,𝜆➊ 𝜆➋ hapawe ➊ [𝜆α viqeyu α ➋],,, ,,,➊ are the members of set ➋.,,,,,,,,,,,,,,,,,,,,"*meame/2, ➋, ➊",,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 yilodi,,,2,,,,,,mathematics sets sequences,,,,,,,,,,,,,, ,,,➊ is a sequence whose elements are all in set ➋.,,,,,,,,,,,,,,,,,,,,,,,,,,,bleu#VT 21,,,,,, ,,,,,,,,,,,,,,,,, ,,,,,
 tefehu,,,2,,,,,,mathematics statistics,,,,hedoya,,,,,,,,,, ,,,➊ has commonplace property ➋.,,common,,,,,,,,,,,,,,,,,,faı,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
 yesuru,,,2,,,,,,mathematics statistics,,,,yesuru,,,,,,,,,, ,,,➊ has uncommon property ➋.,,uncommon,,,,,,,,,,,,,,,,,,leı,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,
