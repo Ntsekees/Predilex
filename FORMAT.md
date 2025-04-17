@@ -33,7 +33,7 @@ A list of letters or digits separated by whitespaces, each sign representing the
 
 A list of letters separated by whitespaces; each letter corresponds to one of the predicate's argument slots, and each letter indicates its behavior with respect to distributivity: `d` for “distributive”, `c` for “collective”, `s` for exclusively singular references. When a property P is distributive, this means that `P(x)` entails `∀y. among(y, x) ⇒ P(y)`.
 
-## kind handling
+## genericity
 
 This column is deprecated. It was intended to indicates the behavior of each argument slot with respect to Kind handling, between the following options: `s` for “stage-level”, `i` for “individual-level”, and `k` for “kind-level”.
 
@@ -46,7 +46,7 @@ Each group indicates the semantic categories associated with the targed argument
 
 A single list of semantic categorization tags separated by whitespaces, describing the predicate as a whole, and not one of its argument slots in particular.
 
-## possible etymologies
+## etymologies
 
 Indicative list of cherry-picked potential etymologies for words representing this predicate. The potential etymologies are separated by semicolons `;`. Each potential etymology consists of a list of Predilex ID's, separated by whitespaces.
 
