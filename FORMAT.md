@@ -131,7 +131,7 @@ Additional notes in the English language.
 
 List of semicolon-separated lemmas of the English language which have the predicate at hand as one of their possible meanings. The lemmas may be followed by a subcript number disambiguating the target meaning of the lemma when the lemma is polysemous or has homonyms.
 
-Lemmas may be suffixed with a hash `#` expression introducing the part of speech and syntactic frame of the lemma. For example, ⟪give#VT_to⟫ means that the lemma ⟪give⟫ is a transitive verb with an additional oblique slot tagged with the adposition ⟪to⟫.
+Lemmas may be suffixed with a hash `#` expression introducing the part of speech and syntactic frame of the lemma. For example, ⟪give#VT_to⟫ means that the lemma ⟪give⟫ is a transitive verb with an additional oblique slot tagged with the adposition ⟪to⟫. The additional slots are normally optional; in case a slot is mandatory, it can be tagged with a `!` mark, e.g. `VT!` for a transitive verb whose direct object cannot be dropped, or `VT_to` for a verb with an obligatory ⟪to⟫-tagged complement.
 
 The predicate's argument slots are by default mapped to the same slots in the same order as the English's lemma, and if they map in a different order, a sequence of digits such as `213` indicates how the arguments are reordered: ⟪give#VT_to 213⟫ would mean that the two first argument slots of the lemma are permuted (whereas the default order would have been `123`).
 
