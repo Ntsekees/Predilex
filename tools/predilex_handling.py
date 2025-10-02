@@ -16,7 +16,7 @@ def parsed_predilex_lemmas(lemmas):
       "is_approximative": False,
       "lexical_status": "official",
       "arity_mismatch": None,
-      "syntactic_class": None,
+      "syntactic_class": "",
       "lemma": "",
       "slot_reordering": ""
     }
@@ -54,7 +54,7 @@ def parsed_predilex_lemmas(lemmas):
       continue
       # raise Exception(f"Invalid lemma data: ⟪{s}⟫")
     PU1 = "\u0091"
-    r = re.sub("\[([^]]*) +([^]]*)\]", f"\\1{PU1}\\2", r)
+    r = re.sub("\\[([^]]*) +([^]]*)\]", f"\\1{PU1}\\2", r)
     if '#' in r:
       try:
         m["lemma"], r2 = r.split('#')
