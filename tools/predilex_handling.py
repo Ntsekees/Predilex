@@ -20,7 +20,8 @@ def parsed_predilex_lemmas(lemmas):
       "lemma": "",
       "slot_reordering": ""
     }
-    j = k = 0
+    j = 0
+    k = -1
     for i, c in enumerate(s):
       if i < k:
         continue
@@ -46,8 +47,8 @@ def parsed_predilex_lemmas(lemmas):
             id = s[i + 2 : k]
             m["arity_mismatch"] += id
         case _:
+          j = max(i, min(k + 1, len(s)))
           break
-      j = max(i, min(k + 1, len(s)))
     # r = [e.strip() for e in s[j:].split(",")]
     r = s[j:].strip()
     if len(r) <= 0:
