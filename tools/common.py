@@ -108,9 +108,12 @@ def edit_csv_from_path(
   inputf.close()
   outputf.close()
 
-def save_as_csv_file(table, path, delimiter = ','):
+def save_as_csv_file(table, path, delimiter = ',', eol = ''):
+  if eol == '':
+	  eol = os.linesep
   with open(path, "w", newline='', encoding='utf-8') as o:
-    csv.writer(o, delimiter = delimiter).writerows(table)
+    csv.writer(o, delimiter = delimiter, lineterminator = eol)
+		.writerows(table)
 
 def save_dicts_as_csv_file(dicts, path, delimiter = ','):
   with open(path, "w", newline='', encoding='utf-8') as o:
