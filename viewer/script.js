@@ -267,7 +267,7 @@ function setup_2(data) {
 }
 
 function setup() {
-	fetch('../predilex.csv')
+	fetch('../predilex_with_lemmas.csv')
     .then((response) => response.text())
     .then((csv) => {setup_2($.csv.toArrays(csv))});
 }
