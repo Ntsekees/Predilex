@@ -238,14 +238,25 @@ function run() {
 		row.onclick = function() {
 			highlight_row(this);
 			update_details(this);
-			window.location.hash = `#${this.getAttribute('pred-id')}`;
+			window.location.hash = `#id=${this.getAttribute('pred-id')}`;
 		};
 
-		if (window.location.hash === `#${row.getAttribute("pred-id")}`) {
+		if (window.location.hash === `#id=${row.getAttribute("pred-id")}`) {
 			row.click();
 			row.scrollIntoView({ behavior: "smooth", block: "center" });
 		}
 	}
+}
+
+function get_url_parameters() {
+	return window.location.hash.substr(1).split('&').reduce(
+		function (map, item) {
+			var parts = item.split('=');
+			map[parts[0]] = parts[1];
+			return map;
+		},
+		{}
+	);
 }
 
 function setup_2(data) {
@@ -263,6 +274,13 @@ function setup_2(data) {
 		if (event.key === 'Enter')
 			run();
 	});
+	params = get_url_parameters();
+	filter = "";
+	for (k in params) {
+		filter += "@" + k + " " + params[k];
+	}
+	console.log(`@@@ ${filter}`);
+	filter_text_input.value = filter;
 	run();
 }
 
