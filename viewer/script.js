@@ -234,14 +234,12 @@ function run() {
 	const rows = document.querySelectorAll('.entries tr');
 	for (let i = 0; i < rows.length; i++) {
 		let row = rows[i];
-
 		row.onclick = function() {
 			highlight_row(this);
 			update_details(this);
-			window.location.hash = `#id=${this.getAttribute('pred-id')}`;
+			window.location.hash = `#${this.getAttribute('pred-id')}`;
 		};
-
-		if (window.location.hash === `#id=${row.getAttribute("pred-id")}`) {
+		if (window.location.hash === `#${row.getAttribute("pred-id")}`) {
 			row.click();
 			row.scrollIntoView({ behavior: "smooth", block: "center" });
 		}
@@ -249,7 +247,7 @@ function run() {
 }
 
 function get_url_parameters() {
-	return window.location.hash.substr(1).split('&').reduce(
+	return window.location.search.substr(1).split('&').reduce(
 		function (map, item) {
 			var parts = item.split('=');
 			map[parts[0]] = parts[1];
@@ -276,8 +274,9 @@ function setup_2(data) {
 	});
 	params = get_url_parameters();
 	filter = "";
-	for (k in params) {
-		filter += "@" + k + " " + params[k];
+	for (key in params) {
+		if (key != "")
+			filter += "@" + key + " " + params[key];
 	}
 	filter_text_input.value = filter;
 	run();
