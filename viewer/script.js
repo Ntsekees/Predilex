@@ -279,7 +279,6 @@ function setup_2(data) {
 	for (k in params) {
 		filter += "@" + k + " " + params[k];
 	}
-	console.log(`@@@ ${filter}`);
 	filter_text_input.value = filter;
 	run();
 }
