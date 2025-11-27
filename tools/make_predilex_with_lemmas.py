@@ -128,7 +128,11 @@ def proceed(predilex_full, languages):
 			print(f"⚠ No Sememe in header for language ⟦{lang['code']}⟧!")
 			continue
 		for le in lang["lexicon"][1:]:
+			superframing_type = ""
 			sememe = le[sememe_i]
+			if sememe.startswith("ruruni-"):
+				i = sememe.index("-")
+				sememe, superframing_type = sememe[i + 1 :], sememe[: i]
 			r = re.match(r"([a-z]+)(.*)", sememe)
 			if r == None or r.groups() == ():
 				continue
@@ -149,7 +153,10 @@ def proceed(predilex_full, languages):
 					le[discr_i],
 					"0123456789AVNP",
 					"₀₁₂₃₄₅₆₇₈₉ₐᵥₙₚ")
-				lemval = le[lemma_i] + d
+				lemval = ""
+				if superframing_type != "":
+					lemval += "<{" + superframing_type + "} "
+				lemval += le[lemma_i] + d
 				if le[type_i] != "":
 					lemval += " ∈" + le[type_i]
 				if framing != "":
