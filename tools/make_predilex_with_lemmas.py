@@ -46,7 +46,7 @@ NATLANG_MAP = {
 	"eus": "Basque"
 }
 
-CONLANGS = ["Esperanto", "Klingon", "Lojban", "Loglan", "Toaq", "New Ithkuil", "Xextan", "Eberban", "Nahaıwa"]
+CONLANGS = ["Esperanto", "Klingon", "Lojban", "Loglan", "Nijbo", "Toaq", "New Ithkuil", "Xextan", "Eberban", "Nahaıwa"]
 
 
 # ============================================================ #
