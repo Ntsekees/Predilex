@@ -3566,13 +3566,13 @@ gebuyo,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,, ,,,➊ is a
 gewuma,,,2,,,,,,lifeform plant fruit,,,,,,,,,,,,,, ,,,➊ is a fruit of ➋.,,,,,,,,,,fruit ∈N_of; nut ∈N,,,,,,fruit ∈NM_de; noix ∈NF,,,,,,,,,,,,,,,,,,,,,kası₁,,,cpunu ∈VT,
 gufoja,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,, ,,,➊ is a fruit.,,, ,,,,,,,fruit ∈N,,,,,,fruit ∈NM,,,,,,,,,,,,,,meyve ∈N,,,,,,,zeo₁ ∈predicate,,,,qí
 gewuma,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,, ,,,➊ is a nut.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-loteyo,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,, ,,,➊ is a pear.,,, ,,,,,,,pear ∈N,,,,,,poire ∈NF,,,,,,,,,,,,,,,,,,,,,pıso₁ ∈predicate,,,,
+loteyo,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,, ,,,➊ is a pear.,,, ,,,,,,,pear ∈N,,,,,,poire ∈NF,,,,,,,,,,,,,,,,,,,,perli ∈V,pıso₁ ∈predicate,,,,
 zeguza,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,, ,,,"➊ is a squash, marrow, pumpkin or gourd, fruit of a plant of the Cucurbita genus.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,huku₁; hukushu₁,,,,
 seruwi,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,, ,🍅 ,,➊ is a tomato (fruit).,,, ,,,,,,,tomato₂ ∈N,,,,,,tomate ∈NF,,,,,,,,,,,,,,domates ∈N,,,,,,,tama₁ ∈predicate,,,,rópo
 walaji,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,,,,,➊ is a watermelon.,,,,,,,,,,watermelon ∈N,,,sandía ∈NF,,,pastèque ∈NF,,,,,,,,,,,,,,,,,,,,,,,,,
 nahala,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,, ,🍎 ,,➊ is an apple.,,, ,,,,,,,apple ∈N,苹果 ∈N,सेब ∈NM; सेव ∈NM,manzana ∈NF,تُفَّاح ∈NMU,আপেল ∈N; সেব ∈N,pomme ∈NF,apel ∈N,maçã ∈NF,я́блоко ∈NN,,,,tofaa ∈NC5,Apfel ∈NM,,,,リンゴ ∈N,,elma ∈N,sagar ∈N,pomo ∈N,,,,,shamu₁ ∈predicate,,,meon ∈VI,nóko
 dohaja,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,,,,,➊ is an avocado.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ceyawa,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,,,,,➊ is an orange (fruit).,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ceyawa,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,,,,,➊ is an orange (fruit).,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,najnimre ∈V,,,,,
 jarati,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,, ,,,"➊ is grain, cereal.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,guı₁ ∈predicate,,,,
 havuba,,,1,s,,d,,,lifeform plant seed,,,,,"zayuru, dayilu",,,,,,,,,,,,➊ is a kiwifruit.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 zunomo,,,1,s,,d,,,lifeform plant tree,,,,,"zayuru, dayilu",,,,,,,,, ,,,➊ is a cashew tree.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3589,10 +3589,10 @@ legena,,,1,s,,d,,,lifeform plant tree,,,,,"zayuru, dayilu",,,,,,,,, ,,,➊ is a 
 tiliva,,,1,s,,d,,,lifeform plant tree,,,,,"zayuru, dayilu, tiliva",,,,,,,,, ,🌳 ,,➊ is a woody tree (larger than a shrub).,,, ,,,,,,,tree₁ ∈N,樹 ∈N; 樹木 ∈N,पेड़ ∈NM; वृक्ष ∈NM,árbol ∈NM,,,arbre ∈NM,pohon ∈N,,,,,,mti ∈NC3,Baum ∈NM,,,,木 ∈N,puno,ağaç ∈N,arbola ∈N; zuhaitz ∈N,,,,,,muao₁ ∈predicate,,,tcuin ∈VI,ƛʰáı
 tepepi,,,1,s,,d,,,lifeform plant tree,,,,,"zayuru, dayilu, tiliva",,,,,,,,,,,,➊ is a woody tree or shrub.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 napuna,,,1,s,,d,,,lifeform plant tree,,,,,"zayuru, dayilu, tiliva",,,,,,,,, ,,,"➊ is an apartment, a flat.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,apartman ∈N,,,,,,,kuabue₁ ∈predicate,,,,
-qihugu,,,1,s,,d,,,lifeform plant tree,,,,,"zayuru, dayilu, tiliva",,,,,,,,, ,,,➊ is an apple tree (of the genus Malus).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,meloq₁,,,,
+qihugu,,,1,s,,d,,,lifeform plant tree,,,,,"zayuru, dayilu, tiliva",,,,,,,,, ,,,➊ is an apple tree (of the genus Malus).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,plisytricu ∈V,meloq₁,,,,
 limifa,,,1,s,,d,,,lifeform plant tree,,,,,"zayuru, dayilu, tiliva",,,,,,,,, ,,,➊ is an apricot tree.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,hajapurune₁; hajataqpurune₁,,,,
 tejaju,,,1,s,,d,,,lifeform plant tree,,,,,"zayuru, dayilu, tiliva",,,,,,,,, ,,,➊ is an elm.,,, ,,,,,,,elm ∈N,,,,,,,,,,,,,,,,,,,,,,,,,,,helemo₁,,,,
-wepuze,,,1,s,,d,,,lifeform plant tree,,,,,"zayuru, dayilu, tiliva",,,,,,,,, ,,,➊ is an oak.,,, ,,,,,,,oak ∈N,,,,,,chêne₁ ∈NM,,,,,,,,,,,,,,,,,,,,,heıga₁ ∈predicate,,,,
+wepuze,,,1,s,,d,,,lifeform plant tree,,,,,"zayuru, dayilu, tiliva",,,,,,,,, ,,,➊ is an oak.,,, ,,,,,,,oak ∈N,,,,,,chêne₁ ∈NM,,,,,,,,,,,,,,,,,,,,cindu ∈V,heıga₁ ∈predicate,,,,
 cajuqi,,,1,s,,d,,,lifeform plant tree,,,,,"zayuru, dayilu, tiliva",,,,,,,,, ,,,➊ is the common mango tree (Mangifera indica).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,hıqdıamaqkaıheaq₁,,,,
 bumere,,,1,s,,d,,,lifeform taxonomy,,,,,zayuru,,,,,,,,, ,,,➊ is a bacteria.,,, ,,,,,,,bacteria ∈N,,,,,,bactérie ∈NF,,,,,,,,,,,,,,bakteri ∈N,,,,,,,,,,,
 ginufi,,,1,s,,d,,,lifeform taxonomy,,,,,zayuru,,,,,,,,, ,,,➊ is an archaea (excluding eukaryotes).,,, ,,,,,,,archaea ∈N,,,,,,,,,,,,,,,,,,,,arke ∈N,,,,,,,,,,,
