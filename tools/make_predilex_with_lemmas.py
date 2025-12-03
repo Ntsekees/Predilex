@@ -43,7 +43,10 @@ NATLANG_MAP = {
 	"tur": "Turkish",
 #	"pes": "Persian",
 #	"kor": "Korean",
-	"eus": "Basque"
+	"eus": "Basque",
+#	"lat": "Latin",
+#  "grc": "Ancient Greek",
+#	"san": "Sanskrit"
 }
 
 CONLANGS = ["Esperanto", "Klingon", "Lojban", "Loglan", "Nijbo", "Toaq", "New Ithkuil", "Xextan", "Eberban", "Nahaıwa"]
@@ -122,6 +125,7 @@ def proceed(predilex_full, languages):
 		lemma_i = index_of_field(lfields, "lemma")
 		discr_i = index_of_field(lfields, "discriminator")
 		type_i = index_of_field(lfields, "supertype")
+		traits_i = index_of_field(lfields, "features") or index_of_field(lfields, "traits")
 		if type_i is None:
 			type_i = index_of_field(lfields, "type")
 		if sememe_i is None:
@@ -159,6 +163,9 @@ def proceed(predilex_full, languages):
 				lemval += le[lemma_i] + d
 				if le[type_i] != "":
 					lemval += " ∈" + le[type_i]
+					ts = le[traits_i].split(" ")
+					if len(ts) > 0:
+						lemval += "·".join(ts)
 				if framing != "":
 					lemval += " " + framing
 				if "" != predilex[target_pi][lcol]:
