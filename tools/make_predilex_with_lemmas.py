@@ -168,7 +168,7 @@ def proceed(predilex_full, languages):
 				if le[type_i] != "":
 					lemval += " ∈" + le[type_i]
 					if not traits_i is None:
-						ts = le[traits_i].split(" ")
+						ts = [s for s in le[traits_i].split(" ") if s != ""]
 						if len(ts) > 0:
 							lemval += "·" + "·".join(ts)
 				if framing != "":
