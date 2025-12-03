@@ -170,7 +170,7 @@ def proceed(predilex_full, languages):
 					if not traits_i is None:
 						ts = le[traits_i].split(" ")
 						if len(ts) > 0:
-							lemval += "·".join(ts)
+							lemval += " " + "·".join(ts)
 				if framing != "":
 					lemval += " " + framing
 				if "" != predilex[target_pi][lcol]:
