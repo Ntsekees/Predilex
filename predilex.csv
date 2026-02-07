@@ -182,7 +182,7 @@ tunije,,,4,x x ℕ 2,,,,,logic,,,,,,,,,,,,,, ,,,"➊ is in relation R with ➋ t
 fihofi,,,2,x 2,,,,,logic,,,,,,,,,,,𝜆➊ 𝜆➋ ∀α ➋ ➊ α,,, ,,,➊ is in relation ➋ with everything.,,, ,,,,,,
 jicipe,,,2,x 2,,,,,logic,,,,,,,,,,,𝜆➊ 𝜆➋ ∄α ➋ ➊ α,,, ,,,➊ is in relation ➋ with nothing.,,, ,,,,,,
 nuwube,,,2,x 2,,,,,logic,,,,,,,,,,,𝜆➊ 𝜆➋ ∃α ➋ ➊ α,,, ,,,➊ is in relation ➋ with something.,,, ,,,,,,
-tenaho,,,2,x ℙ,,,,,logic,,,,,,,,,,,𝜆➊ 𝜆➋ ∃α ∃β rikihe [bubeyi ➋ β α ➊],,, ,,,➊ is involved in predicate ➋; the latter being true of some argument structure entails something about the former.,,, ,,,,,,
+tenaho,,,2,x ℙ,,,,,logic,,,,,,,,,,,𝜆➊ 𝜆➋ rikihe [∃α bubeyi ➋ α] [gisiwu ➊],,, ,,,➊ is involved in predicate ➋; the latter being true of some argument structure entails something about the former.,,, ,,,,,,
 yeyepa,a,,2,x x,,,,,logic,,,,,,,,,,,𝜆➊ 𝜆➋ ¬[∀➌ pohuti ➊ ➌ ⇔ pohuti ➋ ➌],,, ,≠,,➊ is not the same thing as ➋.,,, ,,,,,,
 gisiwu,,,1,x,,c,,,logic,,,,,,,,,,,𝜆➊ ➊=➊ ║ 𝜆➊ ∃P P ➊,,, ,,,"➊ is something, anything, a thing.",,, ,,,,,,
 susiku,,,2,x 2,,,,,logic,,,,,,,,,,,𝜆➊ 𝜆r ∃➋ r ➊ ➋,,, ,,,➊ is such that something is in relation ➋ with the former.,,, ,,,,,,
