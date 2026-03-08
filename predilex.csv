@@ -193,7 +193,7 @@ zekoga,,,4,,,,,,logic,,,qoyawe,,,,,,,,𝜆➊ 𝜆➋ 𝜆➌ 𝜆➍ niyuna ➍
 fohuka,,,3,,,,,,logic,,,qoyawe,,,,,,,,𝜆➊ 𝜆➋ 𝜆➌ ∃α [qoyawe ➊ ➋ α ∧ dufedi α ➌],,, ,,,"➊ is the relation obtained by composing the relation ➋ with itself N times, i.e. the former is the N-th iterate or N-th relational power of the latter, with N being the cardinality of anything satisfying property ➌.",,, ,,,,,,
 duzevi,,,3,2 2 ℕ,,,,,logic,,,"duzevi, fohuka",,,,,,,,𝜆➊ 𝜆➋ 𝜆➌ niyuna ➌ ∧ ➌ ≥ 1 ∧ berogo [➌ = 1] [➊ = ➋] [➊ = [𝜆α 𝜆β ∃δ ➋ α δ ∧ [∃r r δ β ∧ duzevi r ➊ (➌ − 1)]]],,, ,,,"➊ is the relation obtained by composing the relation ➋ with itself N times, i.e. the former is the N-th iterate or N-th relational power of the latter, with N being the number ➌.",,, ,,,,,,
 qoyawe,,,3,x x 2,,,,,logic,,,,,,,,,,,𝜆➊ 𝜆➋ 𝜆➌ ∀α [➌ ➊ α ⇔ ➌ ➋ α],,, ,,,➊ is the same as ➋ in what it is in relation ➌ with.,,, ,,,,,,
-suyelu,,,2,x x,,,,,logic,,,,,,,,,,,𝜆➊ 𝜆➋ ∀➌ pohuti ➊ ➌ ⇔ pohuti ➋ ➌,,, ,=,,➊ is the same thing as ➋.,,, ,,,,,,
+suyelu,,,2,x x,,,,,logic,,,,,,,,,,,𝜆➊ 𝜆➋ ∀α pohuti ➊ α ⇔ pohuti ➋ α,,, ,=,,➊ is the same thing as ➋.,,, ,,,,,,
 socepo,,,2,0 0,,,,,logic,,,,,,,,,,,,,, ,,,➊ is true under model ➋.,,, ,,,,,,
 yohaze,,,2,x 1,,,,,logic,,,,,,,,,,,,,, ,,,➊ is true with a quantification domain restricted exhaustively to entities ➋.,,, ,,,,,,
 gigiya,,,2,0 1,,,,,logic,,,,,,,,,,,,,, ,,,➊ is true with a quantification domain restricted exhaustively to what has property ➋.,,, ,,,,,,
