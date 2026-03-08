@@ -1559,7 +1559,7 @@ mahove,,,1,,,,,,perception,,,,,,,,,,,,,, ,,,"➊ is tired, exhausted, needing to
 ziqadi,,,1,,,,,,perception,,,,,,,,,,,,,, ,,,"➊ is visual, pertaining to the sense of sight, to vision.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,görsel ∈AN,,,,,,,kaq₁ ∈predicate,,,,
 zajuhu,,,2,,,,,,perception,,,,,,,,,,,,,, ,,,➊ is visually similar to ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kaqsıu₁,,,,
 nenura,,,2,,,,,,perception,,,,,,,,,,,,,, ,,,➊ listens to ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,huosı₁ ∈predicate,,,e tari pure ∈VT,
-gebuze,,,2,,,,,,perception,,,,,,,,,,,,,, ,,,➊ looks at ➋.,,, ,,,,,,,look ∈V·at,,,mirar ∈V·DO,,,regarder ∈V·DO,,,,,,,,,,,,見る ∈VT,,bak ∈V·DO,,,,catlu ∈VT,,catlu ∈VT,kaqsı₁ ∈predicate,,,spenu ∈VT,ƛʼícal
+gebuze,,,2,,,,,,perception,,,,,,,,,,,,,, ,,,➊ looks at ➋.,,, ,,,,,,,look ∈V·at,,,mirar ∈V·DO,,,regarder ∈V·DO,,,,,,,,,,,,見- ∈V,,bak ∈V·DO,,,,catlu ∈VT,,catlu ∈VT,kaqsı₁ ∈predicate,,,spenu ∈VT,ƛʼícal
 bofelo,,,2,,,,,,perception,,,,,,,,,,,,,, ,,,➊ looks good to ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 nivero,,,2,,,,,,perception,,,,,,,,,,,,,, ,,,"➊ misses, fails to perceive or notice ➋.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 wipefo,,,3,,,,,,perception,,,,,,,,,,,,,, ,,,➊ pareidolically recognizes in visual perception of stimulus ➋ something satisfying property ➌.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1675,7 +1675,7 @@ vuwemu,,,1,,,,,,has_color trichromatic pseudo-absolute,,,,,,,,,,,,,, ,,,➊ is o
 riqevi,,,2,,,,,,has_color trichromatic pseudo-absolute,,,,,,,,,,,,,, ,,,➊ is of an unsaturated shade of trichromatic color ➋.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 punari,,,1,,,,,,has_color trichromatic pseudo-absolute,,,,,,,,,,,,,, ,,,➊ is of an unsaturated trichromatic color.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 roneda,b,,1,x,,d,i,o,has_color trichromatic pseudo-absolute,,,,,,,,,,,,,, ,,,➊ is of trichromatic azure color.,,, ,,,,,,,azure ∈AN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zmoaor ∈VI,lépı
-nosune,b,,1,x,,d,i,o,has_color trichromatic pseudo-absolute,,,,,,,,,,,,,, ,,,➊ is of trichromatic black color.,,, ,,,,,,,black ∈AN,,,negro ∈AN,,,noir ∈AN,hitam ∈AN,,,,,,eusi,schwarz ∈AN,,,,黒い ∈VI,,kara ∈AN; siyah ∈AN,beltz ∈AN,,,xekri,,xekri ∈V,kuo₁ ∈predicate,,,zmur ∈VI,qʰú
+nosune,b,,1,x,,d,i,o,has_color trichromatic pseudo-absolute,,,,,,,,,,,,,, ,,,➊ is of trichromatic black color.,,, ,,,,,,,black ∈AN,,,negro ∈AN,,,noir ∈AN,hitam ∈AN,,,,,,eusi,schwarz ∈AN,,,,黒- ∈V,,kara ∈AN; siyah ∈AN,beltz ∈AN,,,xekri,,xekri ∈V,kuo₁ ∈predicate,,,zmur ∈VI,qʰú
 jayina,a,,1,x,,d,i,o,has_color trichromatic pseudo-absolute,,,,,,,,,,,,,, ,,,➊ is of trichromatic blue color.,,, ,,,,,,,blue ∈AN,,,azul ∈AN,,,bleu ∈AN,,,,,,,bluu; buluu,blau ∈AN,,,,,,gökçe ∈AN; mavi ∈AN,urdin ∈AN,,,blanu,,blanu ∈V,mıo₁ ∈predicate,,,zmohor ∈VI,lé
 didizo,a,,1,x,,d,i,o,has_color trichromatic pseudo-absolute,,,,,,,,,,,,,, ,,,➊ is of trichromatic brown color.,,, ,,,,,,,brown ∈AN,,,,,,brun₁ ∈AN,,,,,,,,,,,,,,,,,,,,,tıaq₁ ∈predicate,,,,
 cefazi,a,,1,x,,d,i,o,has_color trichromatic pseudo-absolute,,,,,,,,,,,,,, ,,,➊ is of trichromatic chatreuse-green (yellow-green) color.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zmaear ∈VI,łı̋ya
@@ -1686,11 +1686,11 @@ dapeno,b,,1,x,,d,i,o,has_color trichromatic pseudo-absolute,,,,,,,,,,,,,, ,,,"�
 jigeho,a,,1,x,,d,i,o,has_color trichromatic pseudo-absolute,,,,,,,,,,,,,, ,,,➊ is of trichromatic orange color.,,, ,,,,,,,orange₂ ∈AN,,,anaranjado ∈AN,,,orange₂ ∈AN,,,,,,,,,,,,,,,,,,narju,,narju ∈V,naraq₁ ∈predicate,,,zmeaer ∈VI,
 wazuko,b,,1,x,,d,i,o,has_color trichromatic pseudo-absolute,,,,,,,,,,,,,, ,,,➊ is of trichromatic purple color or violet color.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zirpu,,zirpu ∈V,,,,,léyek
 murolo,b,,1,x,,d,i,o,has_color trichromatic pseudo-absolute,,,,,wazuko,,,,,,,,, ,,,➊ is of trichromatic purple color.,,, ,,,,,,,purple ∈AN,,,morado ∈AN; púrpura ∈AN,,,,,,,,,,,,,,,,,,,,,,,,loa₁ ∈predicate,,,,
-kukewo,a,,1,x,,d,i,o,has_color trichromatic pseudo-absolute,,,,,,,,,,,,,, ,,,➊ is of trichromatic red color.,,, ,,,,,,,red ∈AN,,,rojo ∈AN,,,rouge ∈AN,,,,,,,nyekundu,,,,,赤い ∈VI,,al; kırmızı,gorri ∈AN,,,xunre,,xunre ∈V,kıa₁ ∈predicate; kıage₁,,,zmeher ∈VI,tó
+kukewo,a,,1,x,,d,i,o,has_color trichromatic pseudo-absolute,,,,,,,,,,,,,, ,,,➊ is of trichromatic red color.,,, ,,,,,,,red ∈AN,,,rojo ∈AN,,,rouge ∈AN,,,,,,,nyekundu,,,,,赤- ∈V,,al; kırmızı,gorri ∈AN,,,xunre,,xunre ∈V,kıa₁ ∈predicate; kıage₁,,,zmeher ∈VI,tó
 minequ,a,,1,x,,d,i,o,has_color trichromatic pseudo-absolute,,,,,,,,,,,,,, ,,,"➊ is of trichromatic rose, pink color.",,, ,,,,,,,pink ∈AN; rose ∈AN,,,rosado ∈AN,,,,,,,,,,,,,,,,,,,,,labyxu'e ∈VI; penka ∈VI,,labyxu'e ∈VI; penka ∈VI,cuıkıa₁,,,zmeoer ∈VI,tóyek
 rubuho,a,,1,x,,d,i,o,has_color trichromatic pseudo-absolute,,,,,,,,,,,,,, ,,,"➊ is of trichromatic spring-green, turquoise color.",,, ,,,,,,,turquoise ∈AN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zmaoar ∈VI,łı̋pı
 togafa,,,1,x,,d,i,o,has_color trichromatic pseudo-absolute,,,,,wazuko,,,,,,,,, ,,,➊ is of trichromatic violet color.,,, ,,,,,,,violet ∈AN,,,,,,,,,,,,,,,,,,,,,,,,gusyzi'u ∈V,,gusyzi'u ∈V,,,,zmoeor ∈VI,
-qokaza,,,1,x,,d,i,o,has_color trichromatic pseudo-absolute,,,,,,,,,,,,,, ,,,➊ is of trichromatic white color.,,, ,,,,,,,white ∈AN,,,blanco ∈AN,,,blanc ∈AN,putih ∈AN,,,,,,-eupe,,,,,白い ∈VI,,ak ∈AN; beyaz ∈AN,zuri ∈AN,,,blabi,,blabi ∈V,bao₁ ∈predicate,,,zmir ∈VI,cʰáı
+qokaza,,,1,x,,d,i,o,has_color trichromatic pseudo-absolute,,,,,,,,,,,,,, ,,,➊ is of trichromatic white color.,,, ,,,,,,,white ∈AN,,,blanco ∈AN,,,blanc ∈AN,putih ∈AN,,,,,,-eupe,,,,,白- ∈VI,,ak ∈AN; beyaz ∈AN,zuri ∈AN,,,blabi,,blabi ∈V,bao₁ ∈predicate,,,zmir ∈VI,cʰáı
 putovo,,,1,x,,d,i,o,has_color trichromatic pseudo-absolute,,,,,,,,,,,,,, ,,,➊ is of trichromatic yellow color.,,, ,,,,,,,yellow ∈AN,,,amarillo ∈AN,,,jaune ∈AN,,,,,,,,,,,,,,,,,,pelxu,,pelxu ∈V,lue₁ ∈predicate,,,zmear ∈VI,ŋóya
 ziwuha,,,3,,,,,,mind,,,,,,,,,,,,,, ,,,➊ interprets quale ➋ as inducing proposition ➌.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kyá
 ceteco,,,2,,,,,,cognition,,,,,,,,,,,,,, ,,,"to cognizer ➊, ➋ seems to be the case.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,jetsmi ∈VT  21,,jetsmi ∈VT  21,,,,,
@@ -1860,7 +1860,7 @@ hejori,,,1,,,,,,emotion,,,,,,,,,,,,,, ,,,"➊ is furious, mad.",,, ,,,,,,,furiou
 tafaca,,,2,,,,,,emotion,,,,,,,,,,,,,, ,,,➊ is happy that ➋ is present.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tıjaı₁,,,,
 liweva,,,2,,,,,,emotion,,,,,,,,,,,,,, ,,,➊ is happy to know that ➋ is the case.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gleki,,.ui; gleki ∈V,,,,gali ∈VT_P0,
 zibaki,,,2,,,,,,emotion,,,,,,,,,,,,,, ,,,"➊ is happy to learn that ➋ is the case, which the former had hoped for.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-fiyezu,,,1,,,,,,emotion,,,,,,,,,,,,,, ,,,"➊ is happy, glad, joyful.",,, ,,,,,,,glad ∈AN; happy ∈AN; joyful ∈AN·gradable,,,,,,heureux ∈AN,,,,,,,,,,,,嬉しい ∈AN,,,pozik ∈AN,,,ui ∈INTJ,,,aja₁ ∈interjection; jaı₁ ∈predicate,,,,
+fiyezu,,,1,,,,,,emotion,,,,,,,,,,,,,, ,,,"➊ is happy, glad, joyful.",,, ,,,,,,,glad ∈AN; happy ∈AN; joyful ∈AN·gradable,,,,,,heureux ∈AN,,,,,,,,,,,,嬉し- ∈AN,,,pozik ∈AN,,,ui ∈INTJ,,,aja₁ ∈interjection; jaı₁ ∈predicate,,,,
 meyuwu,,,2,,,,,,emotion,,,,,,,,,,,,,, ,,,"➊ is interested in, is curious about ➋.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cinri ∈V  21,,cinri ∈V  21,"daosı₁ ∈predicate; sıgı₁ ∈predicate [DO,S]",,,,
 savaye,,,2,,,,,,emotion,,,,,,,,,,,,,, ,,,➊ is nostalgic knowing ➋ to be the case.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,vriai ∈VT_P0,
 caliqi,,,1,,,,,,emotion,,,,,,,,,,,,,, ,,,"➊ is proud, feels pride.",,, ,,,,,,,proud ∈AN,,,,,,,,,,,,,,,,,,,,gururlu ∈AN,,,,,,,hıoq₁ ∈predicate,,,,
@@ -2282,7 +2282,7 @@ qifesi,,,2,s s,,,,,action,,,,,,,,,,,,,, ,,,➊ fights against ➋.,,, ,,,,,,,fig
 pugafe,,,3,,,,,,action,,,,,,,,,,,,,,,,,➊ fills ➋ with ➌.,,,,,,,,,,fill ∈V·DO·with,,,,,,replir ∈V·DO·de,,,,,,,,,,,,,,,,,,,,,,,,,
 dafuka,,,3,,,,,,action,,,,,,,,,,,,,,,,,➊ forces ➋ to do property ➌.,,,,,,,,,,force ∈V·DO·to+INF,,,,,,forc- ∈V·DO·à+INF,,,,,,,,,,,,,,,,,,,,,,,,,
 bayari,,,2,s s,,,,,action,,,,,,,,,,,,,, ,,,➊ forges metal ➋.,,, ,,,,,,,forge ∈V·DO,,,,,,forg- ∈V·DO,,,,,,,,,,,,,,,,,,,,,,,,,
-jubaku,,,3,,,,,,action,,,,,,,,,,,,,, ,,,➊ gives to ➋ control of ➌.,,,,,,,,,,give ∈V·DO·to  132,,,dar ∈V·DO·à  132,,,donn- ∈V·DO·à  132,,,,,,,,,,,,上げる ∈VT_ni  132,,,,,,,donsu ∈V_kao_beu_dio  132,,,,,duna ∈VI_va_fo,
+jubaku,,,3,,,,,,action,,,,,,,,,,,,,, ,,,➊ gives to ➋ control of ➌.,,,,,,,,,,give ∈V·DO·to  132,,,dar ∈V·DO·à  132,,,donn- ∈V·DO·à  132,,,,,,,,,,,,上げ- ∈VT_ni,,,,,,,donsu ∈V_kao_beu_dio  132,,,,,duna ∈VI_va_fo,
 jagavo,,,3,,,,,,action,,,,,,,,,,,,,, ,,,"➊ gives to ➋ ownership, possession of ➌.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"bodo₁ [S,IO,DO]",,,,
 behucu,,,3,,,,,,action,,,,,,,,,,,,,, ,,,➊ gives to ➋ property ➌.,Does not imply that ➊ had property ➌.,, ,,,,,,,endow ∈V·DO·with; give ∈V·DO·to  132,,,,,,,,,,,,,,,,,,,,,,,,dunda ∈VD  132,,dunda ∈VD  132,"do₁ ∈predicate [S,DO,IO]",,,,tʰáwa
 zikose,,,3,,,,,,action,,,,,,,,,,,,,, ,,,"➊ gives, assigns to ➋ name ➌.",,, ,,,,,,,name ∈V·C·DO·IO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2343,7 +2343,7 @@ gakote,a,,3,,,,,,action,,,,,,,,,,,,,, ,,,➊ serves ➋ by satisfying property �
 tayita,,,2,,,,,,action,,,,,,,,,,,,,, ,,,"➊ shouts, yells or screams ➋.",,, ,,,,,,,shout ∈V·DO,,,,,,,,,,,,,,,,,,,,bağır ∈V·DO,,,,,,,,,,,
 potubo,,,2,,,,,,action,,,,,,,,,,,,,, ,,,➊ sings ➋.,,, ,,,,,,,sing ∈V·DO,,,,,,chant- ∈V·DO,,,,,,,,,,,,,,,,,,,,,,,,,
 folavu,,,3,,,,,,action,,,,,,,,,,,,,, ,,,➊ steals from ➋ possession ➌:,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-gunoqo,,,2,,,,,,action,,,,,,,,,,,,,, ,,,"➊ strokes, pets, caresses ➋.",,, ,,,,,,,caress ∈V·DO; pet ∈V·DO; stroke ∈V·DO,,,,,,caress- ∈V·DO,,,,,,,,,,,,撫でる ∈VT,,,,,,pamsa'e ∈VT,,pamsa'e ∈VT,paıgoaı₁,,,,
+gunoqo,,,2,,,,,,action,,,,,,,,,,,,,, ,,,"➊ strokes, pets, caresses ➋.",,, ,,,,,,,caress ∈V·DO; pet ∈V·DO; stroke ∈V·DO,,,,,,caress- ∈V·DO,,,,,,,,,,,,撫で- ∈VT,,,,,,pamsa'e ∈VT,,pamsa'e ∈VT,paıgoaı₁,,,,
 cegoca,a,,3,,,,,,action,,,,,ziceyi,,,,,,,,, ,,,➊ successfully satisfies property ➋ in order to achieve the further goal ➌.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,shıutaı₁,,,,
 vahati,,,2,s s,,,,,action,,,,,,,,,,,,,,,,,"➊ takes, seizes ➋.",,,,,,,,,,seize₁ ∈V·DO; take₁ ∈V·DO,,,,,,prendre₁ ∈V·DO; saisir₁ ∈V·DO,,,,,,,,,,,,,,,hartu₁ ∈PtcpT,,,,,,,,,,
 dilere,,,2,s s,,,,,action,,,,,,,,,,,,,, ,,,➊ throws ➋.,,, ,,,,,,,throw ∈V·DO,,,,,,jeter ∈V·DO,,,,,,,,,,,,,,,,,,,,,hıeq₁,,,,
@@ -2397,7 +2397,7 @@ galawe,,,2,,,,,,action body_action,,,,,,,,,,,,,, ,,,➊ gnaws ➋.,,, ,,,,,,,gna
 quwagi,,,2,x x,,,,,action body_action,,,,,,,,,,,,,, ,,,➊ ingests ➋.,,, ,,,,,,,ingest ∈V·DO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 yonubu,,,1,,,,,,action body_action,,,,,,,,,,,,,, ,,,➊ knuckle-walks.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,beapueq₁,,,,
 cijite,,,2,,,,,,action body_action,,,,,,,,,,,,,, ,,,➊ laughs in reaction to ➋ being the case.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,jnaha ∈VT_P0,
-zanoso,,,1,,,,,,action body_action,,,,,,,,,,,,,, ,,,➊ laughs.,,, ,,,,,,,laugh ∈V,,,,,,rire ∈V,,,,,,,,,,,,笑う ∈VI,,,,,,cmila,,cmila ∈V,hıaı₁ ∈predicate,,,,
+zanoso,,,1,,,,,,action body_action,,,,,,,,,,,,,, ,,,➊ laughs.,,, ,,,,,,,laugh ∈V,,,,,,rire ∈V,,,,,,,,,,,,笑- ∈V,,,,,,cmila,,cmila ∈V,hıaı₁ ∈predicate,,,,
 yunoli,,,2,,,,,,action body_action,,,,,,,,,,,,,, ,,,➊ opens eye ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 fuyagi,,,1,,,,,,action body_action,,,,,,,,,,,,,, ,,,➊ picks their nose.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,shıqhuahuaı₁,,,,
 cefeka,,,2,,,,,,action body_action,,,,,,,,,,,,,, ,,,"➊ ruminates, chews cud ➋.",,, ,,,,,,,ruminate ∈V·DO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2816,7 +2816,7 @@ dorawo,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is a seed.,,, ,,,,,,,seed₁ ∈N,,
 wuduvu,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is a spermatozoid.,,, ,,,,,,,spermatozoid ∈N,,,,,,,,,,,,,,,,,,,,,,,,,,,naqpoaı₁,,,,
 puqoqo,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is a viroid.,,, ,,,,,,,viroid ∈N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 vobuzu,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is a vitamin.,,, ,,,,,,,vitamin ∈N,,,,,,,,,,,,,,,,,,,,vitamin ∈N,,,,,,,,,,,
-yogije,,,1,,,,,lf,biology,,,,,,,,,,,,,, ,,,➊ is alive.,,, ,,,,,,,alive ∈AN; live₂ ∈V,活 ∈VI; 生 ∈VI; 生活 ∈VI,जीना ∈VI,viviente ∈AN; vivir ∈V; vivo ∈AN,حَيّ ∈AN,,vivant ∈AN; vivre ∈V,hidup ∈VI,,жить ∈VI,,,,ishi ∈VI,leben ∈VI,,,,暮らす ∈VI; 生きる ∈VI,,yaşamak ∈V,bizi izan ∈VI,viva ∈AN; vivi ∈VI,,jmive/1 ∈V,,jmive ∈V,,,,vain ∈VI,cáı
+yogije,,,1,,,,,lf,biology,,,,,,,,,,,,,, ,,,➊ is alive.,,, ,,,,,,,alive ∈AN; live₂ ∈V,活 ∈VI; 生 ∈VI; 生活 ∈VI,जीना ∈VI,viviente ∈AN; vivir ∈V; vivo ∈AN,حَيّ ∈AN,,vivant ∈AN; vivre ∈V,hidup ∈VI,,жить ∈VI,,,,ishi ∈VI,leben ∈VI,,,,暮ら- ∈VI; 生き- ∈VI,,yaşamak ∈V,bizi izan ∈VI,viva ∈AN; vivi ∈VI,,jmive/1 ∈V,,jmive ∈V,,,,vain ∈VI,cáı
 fuqilo,,,1,,,,,,biology,,,,,,,,,,,,,, ,🥚 蛋 卵,,➊ is an egg (possibly unfertilized).,,, ,,,,,,,egg ∈N,,,huevo ∈N·M,,,œuf ∈N·M,,,,,,,,Ei ∈NN,,,,卵 ∈N,,,,,,,,,nıaıbepoaı₁; nıaıpoaı₁,,,cahil ∈VI,yó
 libobu,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is an egg cell or a spore.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,betoaı₁,,,,
 bezabu,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is an egg or a seed (possibly unfertilized).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bepoaı₁,,,,
@@ -3632,7 +3632,7 @@ kilimi,,,1,,,,,,subjective,,,,,,,,,kefise,,,,, ,,,It is difficult to make ➊ be
 kokoja,,,1,,,,,,subjective,,,,,,,,,naluri,,,,, ,,,It is easy to make ➊ be the case (according to the subjective evaluator in 🅲).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 zezadi,,,1,,,,,,subjective,,,,,,,,,,,,,, ,,,"having property ➊ is enjoyable, pleasurable (according to the subjective evaluator in 🅲).",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 luyini,,,1,,,,,,subjective,,,,,,,,,,,,,, ,,,"➊ (physical entity) is likeable, pleasant, nice (according to the subjective evaluator in 🅲).",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,vune ∈VI,
-wivulu,,,1,,,,,,subjective,,,,,,,,,,,,,, ,,,"➊ is aesthetic, beautiful (according to the subjective evaluator in 🅲).",,,,,,,,,,beautiful ∈AN,,,bonito ∈AN,,,beau ∈AN,,,,,,,nzuri ∈AN,schön ∈AN,,,,美しい ∈V,,,eder ∈AN; polit ∈AN,,,,,,,,,blan ∈VI,
+wivulu,,,1,,,,,,subjective,,,,,,,,,,,,,, ,,,"➊ is aesthetic, beautiful (according to the subjective evaluator in 🅲).",,,,,,,,,,beautiful ∈AN,,,bonito ∈AN,,,beau ∈AN,,,,,,,nzuri ∈AN,schön ∈AN,,,,美し- ∈V,,,eder ∈AN; polit ∈AN,,,,,,,,,blan ∈VI,
 lewovi,,,1,,,,,,subjective,,,,,,,,,,,,,, ,,,➊ is amusing (according to the subjective evaluator in 🅲).,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 zoralo,,,1,,,,,,subjective,,,,,,,,,,,,,, ,,,➊ is convenient.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,foaqfuı₁ ∈predicate,,,,
 vuqugo,,,1,,,,,,subjective,,,,,,,,,,,,,, ,,,"➊ is cute, adorable (according to the subjective evaluator in 🅲).",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kırı₁; nıode₁ ∈predicate,,,,
@@ -4816,7 +4816,7 @@ gezifi,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ judges / sits in judgement / issues verdic
 wevela,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ judges / sits in judgement / issues verdict ➋ (quote).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,juaokakuq₁,,,,
 zodahe,,,2,,,,,,,,,,,,,,,,,,,, ,,,"➊ justifies, warrants ➋; ➊ is a good, acceptable reason for ➋.",,, ,,,,,,,,,,,,,justifi- ∈V·DO,,,,,,,,,,,,,,,,,,,,,lurıaı₁,,,,
 bitewu,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ keeps ➋ company so they will not be lonely.,,, ,,,,,,,,,,,,,tenir compagnie ∈V·à,,,,,,,,,,,,,,,,,,,,,,,,,
-zicede,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ kills ➋.,,, ,,,,,,,kill ∈V·DO,,,matar ∈V·DO,,,tuer ∈V·DO,,,,,,,,,,,,殺す ∈VT,,,,,,,,,muaqtua₁ ∈predicate,,,,
+zicede,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ kills ➋.,,, ,,,,,,,kill ∈V·DO,,,matar ∈V·DO,,,tuer ∈V·DO,,,,,,,,,,,,殺- ∈VT,,,,,,,,,muaqtua₁ ∈predicate,,,,
 zelipu,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ knits ➋.,,, ,,,,,,,,,,,,,tricoter ∈V·DO,,,,,,,,,,,,,,,,,,,,,nıgu₁,,,,
 dovora,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ lacks ➋; ➊ is ➋-less.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bocıa₁,,,,
 bejuya,,,2,,,,,,,,,,,,,,,,,,,, ,,,"➊ lacks, misses part ➋.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,paqcıa₁ ∈predicate,,,,
@@ -4967,6 +4967,7 @@ davage,,,1,,,,,,,,,,,,,,,,,,,, ,,,"➊ shakes, trembles, quivers or vibrates.",,
 litefo,,,2,,,,,,,,,,,,,,,,,,,, ,,,"➊ share secret information ➋, which they agreed not to divulgate.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,celio ∈VT,
 sipate,,,3,,,,,,,,,,,,,,,,,,,, ,,,➊ shields ➋ from ➌.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,leoq₁ ∈predicate,,,,
 tutiwu,,,1,,,,,,,,,,,,,,,,,,,, ,,,➊ sinks.,,, ,,,,,,,sink ∈V,,,,,,coul- ∈V,,,,,,,,,,,,,,,,,,,,,naoshua₁,,,,
+rorowu,,,,,,,,,,,,,,,,,,,,,,,,,,"➊ sits, broods on eggs or chicks ➋, as or like a bird in a nest.",,,,,,,,,,,,,,,,couv- ∈V·DO,,,,,,,,,,,,抱-₃ ∈V·DO,,,,,,,,,,,,,
 sevudo,,,1,,,,,,,,,,,,,,,,,,,, ,,,"➊ sleeps, is asleep.",,, ,,,,,,,asleep ∈AN; sleep ∈V,,,,,,dormi- ∈V,,,,,,,,,,,,,,,,,,sipna,sonli ∈V_kao,sipna ∈V,nuo₁ ∈predicate,,,miun ∈VI,lı̋
 bigujo,,,2,,,,,,,,,,,,,,,,,,,, ,,,"➊ slips, slides, glides on ➋.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sakli ∈V,,sakli ∈V,goaısıaduo₁; lusha₁,,,,
 goteho,,,1,,,,,,,,,,,,,,,,,,,, ,,,➊ smolders.,,, ,,,,,,,smolder ∈V,,,,,,,,,,,,,,,,,,,,,,,,,,,hoaqluq₁,,,,
@@ -5037,7 +5038,6 @@ zupahe,,,2,,,,,,,,,,,,,,,,,𝜆➊ 𝜆➋ ∃α gataka α ∧ dibere α 🆆 �
 metayi,,,3,,,,,,,,,,,,,,,,,,,, ,,,➊’s occupation or job is to serve ➋ by having property ➌.,,, ,,,,,,,servant,,,,,,,,,,,,,,,,,,,,,,,,,,,lueqche₁ ∈predicate,,,,
 lecafu,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊’s ➋ has been stolen.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,soane ∈VT  21,
 tawuho,,,2,,,,,,,,,,,,,,,,,,,, ,,,➋ is the star(s) of the home stellar system of species ➋ (property).,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,e spua ckuel ∈VT,
-,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8587,7 +8587,6 @@ roqoco,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 rorema,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 rorona,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 rorowi,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-rorowu,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 rorutu,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 rosuze,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 rotefu,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
