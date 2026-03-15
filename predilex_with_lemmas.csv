@@ -121,7 +121,7 @@ ribizi,,,2,,,,,,logic,,,,,,,,,,,,,, ,,,"The proposition ""what satisfies the pro
 mozako,,,2,0 0,,,,,logic,,,,,,,,,,,,,, ,,,What satisfies the property ➊ depends on what satisfies the property ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 jecudi,,,1,,,,,,logic,,,,,,,,,,,,,, ,,,all propositions among ➊ are true.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,van ∈VI,
 kowasu,,,2,,,,,,logic,,,,,,,,,,,,,, ,,,all twosomes among ➊ have property ➋.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tconi ∈VT_P1,
-nawulu,,,3,,,,,,logic,,,,,,,,,,,𝜆➊ 𝜆➋ 𝜆➌ ∀α α ≼ ➊ ⇒ [α ≼ ➋ ∨ α ≼ ➌],,, ,,,among ➊ there's ➋ and ➌ and nothing else.,,,,,,,,,,and₁ ∈NCOO; together with ∈NCOO,,,y ∈NCOO,,,et₁ ∈NCOO,,,,,,,,,,,,,,,eta₁ ∈NCOO,,,jo’u ∈NCOO,,jo'u ∈FCOO,róı₁ ∈plural coordinator,,,,
+nawulu,,,3,,,,,,logic,,,,,,,,,,,𝜆➊ 𝜆➋ 𝜆➌ ∀α α ≼ ➊ ⇒ [α ≼ ➋ ∨ α ≼ ➌],,, ,,,among ➊ there's ➋ and ➌ and nothing else.,,,,,,,,,,and₁ ∈NCOO; together with ∈NCOO,,,y ∈NCOO,,,et₁ ∈NCOO,,,,,,,,und₁ ∈NCOO,,,,,,,eta₁ ∈NCOO,,,jo’u ∈NCOO,,jo'u ∈FCOO,róı₁ ∈plural coordinator,,,,
 tacono,,,2,,,,,,logic,,,,,,,,,,,,,, ,,,"among ➊, exactly ➋ (number) propositions are true.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,von ∈VT,
 yimavi,,,1,,,,,,logic,,,,,,,,,,,,,, ,,,exactly one proposition among ➊ is true.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,von ∈VUA,
 jubowa,,,2,x x,,,,,logic,,,,,,,,,,,𝜆➊ 𝜆➋ ∄α α ≼ ➊ ∧ α ≼ ➋,,, ,,,nothing is both among ➊ and among ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -216,7 +216,7 @@ merohi,a,,1,,,,,,logic arity,,,,,,,,,,,𝜆➊ bajise ➊ 3,,, ,,,"➊ is a tern
 sitawe,,,1,i,,,,,logic basic,,,,,,,,,,,,,, ,,,"➊ is an individual, a concrete, fully detailed entity (as opposed to an abstract class or kind; not necessarily a physical entity, as long as there can’t exist a more concrete instance of it).",,, ,,,,,,,individual₃ ∈N; particular ∈N,,,,,,,,,,,,,,,,,,,,,,,,,,,shıraı₁ ∈predicate,,,,
 poleku,,,2,1,,,,,logic cardinality property_cardinality,,,,,,,,,,,,,, ,,,There is exactly one thing and no more which satisfies property ➊ (among the things satisfying property ➋).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,shılı₂,,,,
 cubala,,,2,0 0,,d d,,,logic conjunction,,,,,,,,,,,𝜆➊ 𝜆➋ ➊ ⇒ ➋,,, ,⇒,,"if ➊ is the case then ➋ is the case (non-causal, coincidental, material condition).",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-talage,a,,2,0 0,,d d,,,logic conjunction,,,,,,,,,,,𝜆➊ 𝜆➋ ¬[¬➊ ∨ ¬➋],,, ,∧,,➊ and ➋ are both the case.,,, ,,,,,,,and₂ ∈COO,,,y ∈COO,,,et ∈COO,,,,,,,,und ∈COO,,,,,,ve ∈COO,eta₂ ∈COO,kaj ∈COO,,.e ∈COO; gi’e ∈COO; je ∈COO; zilkanxe ∈VT,,.e ∈COO; gi'e ∈COO; je ∈COO; zilkanxe ∈VT,rú₁ ∈conjunction; toru₁,,,,ʼáı
+talage,a,,2,0 0,,d d,,,logic conjunction,,,,,,,,,,,𝜆➊ 𝜆➋ ¬[¬➊ ∨ ¬➋],,, ,∧,,➊ and ➋ are both the case.,,, ,,,,,,,and₂ ∈COO,,,y ∈COO,,,et ∈COO,,,,,,,,und₂ ∈COO,,,,,,ve ∈COO,eta₂ ∈COO,kaj ∈COO,,.e ∈COO; gi’e ∈COO; je ∈COO; zilkanxe ∈VT,,.e ∈COO; gi'e ∈COO; je ∈COO; zilkanxe ∈VT,rú₁ ∈conjunction; toru₁,,,,ʼáı
 qolevo,,,2,0 0,,d d,,,logic conjunction,,,,,,,,,,,𝜆➊ 𝜆➋ ➊ ⤄ ➋,,, ,↮ ⤄ ⊻ ⩛,,➊ and ➋ have different truth values; ➊ xor ➋ is the case.,,, ,,,,,,,xor ∈COO,,,,,,,,,,,,,,,,,,,,yada ∈COO,,,,jetfrica ∈VT,,jetfrica ∈VT,maheo₁,,,,
 tuyafu,a,,2,0 0,,d d,,,logic conjunction,,,,,,,,,,,𝜆➊ 𝜆➋ ➊ ⇔ ➋,,, ,↔ ⇔,,➊ and ➋ have the same truth value; ➊ iff ➋ is the case.,,, ,,,,,,,if and only if ∈SUBR; iff ∈COO,,,,,,,,,,,,,,,,,,,,ancak ve ancak ∈COO,,,,jetydu’i ∈VT,,jetydu'i ∈VT,majeq₁,,,,
 buvune,a,,2,0 0,,d d,,,logic conjunction,,,,,,,,,,,,,, ,,,"➊ is true, but ➋ is true as well.",,, ,,,,,,,but₂ ∈COO; however ∈AV,,,pero ∈COO,,,mais ∈COO,,,,,,,,,,,,,,ama,baina ∈COO,,,,,,joıkeo₁; tokeo₁,,,,
@@ -4799,7 +4799,7 @@ labuli,,,2,,,,,,,,,,,,,,,,,,,, ,,,"➊ is worth esteem, has dignity in the eyes 
 cadapa,,,2,,,,,,,,,,,,,,,,,,,, ,,,"➊ is written, inscribed or displayed on ➋.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 nonesu,,,1,,,,,,,,,,,,,,,,,,,, ,,,"➊ is young, having recently begun to exist.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nıo₁ ∈predicate,,,,
 quvibu,,,1,,,,,,,,,,,,,,,,,,,, ,,,➊ is zen.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,jeqmoe₁,,,,
-gezogi,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ is ➋ and co.; ➊ is ➋ together with associated things or people.,Associative plural.,, ,,,,,,,and co. ∈Idiom,,,,,রা ∈Suff,et cie. ∈Expr; et compagnie ∈Expr,cees ∈Prt,,,,,,akina ∈Prt; kina ∈Prt,,,,,たち ∈Suff,,,eta₃ ∈Prt,,,,,,poroı₂,,,,
+gezogi,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ is ➋ and co.; ➊ is ➋ together with associated things or people.,Associative plural.,, ,,,,,,,and co. ∈Idiom,,,,,রা ∈Suff,et cie. ∈Expr; et compagnie ∈Expr,cees ∈Prt,,,,,,akina ∈Prt; kina ∈Prt,und die ∈Expr,,,,たち ∈Suff,,,eta₃ ∈Prt,,,,,,poroı₂,,,,
 mesoku,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ is ➋'s Achilles' heel.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 logowe,,,1,,,,,,,,,,,,,,,,,,,, ,,,➊ is/are the following / subsequently mentioned animate(s).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sıeho₁,,,,
 kupico,,,1,,,,,,,,,,,,,,,,,,,, ,,,➊ is/are the following / subsequently mentioned inanimate thing(s).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sıemaq₁,,,,
