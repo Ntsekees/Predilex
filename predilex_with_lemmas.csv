@@ -823,10 +823,10 @@ pelawe,a,,2,x 1,,,,,aspect,,,,,,,,,,,,,, ,,,➊ habitually has property ➋.,,, 
 guhaye,,,1,0,,,,,aspect,,,,,,,,,,,,,, ,,,"➊ happens, is wholly contained in 🅲’s contextual timespan.",perfective aspect,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cai'i ∈ASP,,,,,
 towili,a,,1,0,,,,,aspect,,,,,,,,,,,,,, ,,,"➊ has been, has happened, the aftermath or result of which is currently happening.","perfect aspect, retrospective aspect, resultative aspect",, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ba’o ∈ASP,,ba'o ∈ASP,luı₁ ∈aspect,,,,
 qehuyi,,,1,,,,,,aspect,,,,,,,,,,,,,, ,,,➊ has taken place a short time ago.,⚠ short relatively to what?,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ba’ozi ∈ASP,,,hıq₁ ∈aspect,,,,
-pucoyu,,,1,0,,,,,aspect,,,,,,,,,,,,,, ,,,➊ is about (soon) to be the case.,near prospective aspect,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pu’ozi ∈ASP,,,,,,,
+joveyo,,,1,0,,,,,aspect,,,,,,,,,,,,,, ,,,"➊ is about to be the case, is on the verge of being the case.",near prospective aspect,, ,,,,,,,,將₂,,,,,,,,,,,,,,,,,,,,,,,pu’ozi ∈ASP,,,luıgıqjuı₁,,,,
 covadi,,,1,,,,,,aspect,,,,,,,,,,,,,, ,,,➊ is already the case.,,, ,,,,,,,,已₁,,,,,,,,,,,,,,,,,,,,,,,,,,haı₁ ∈aspect,,,,
 kuyoni,,,1,0,,,,,aspect,,,,,,,,,,,,,, ,,,"➊ is going to happen, the current situation will unfold into it happening of no external force prevents it.",prospective aspect,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pu’o ∈ASP,,pu'o ∈ASP,,,,,
-zuyufa,,,1,c,,,,,aspect,,,,,,,,,,,,,, ,,,"➊ is ongoing, in the middle of taking place; it is a process a nonfinal stage of which is taking place (without implying that the process will actually complete).",progressive aspect,, ,,,,,,,,着 ∈ASP,,,,,,,,,,,,,,,,,,,,,,,ca’o ∈ASP,,ca'o ∈ASP,chum₁ ∈aspect,,,,
+zuyufa,,,1,c,,,,,aspect,,,,,,,,,,,,,, ,,,"➊ is ongoing, in the middle of taking place; it is a process a nonfinal stage of which is taking place (without implying that the process will actually complete).",progressive aspect,, ,,,,,,,,着₁ ∈ASP,,,,,,,,,,,,,,,,,,,,,,,ca’o ∈ASP,,ca'o ∈ASP,chum₁ ∈aspect,,,,
 citiku,,,1,0,,c,,,aspect,,,,,,,,,,,,,, ,,,➊ is repeatedly the case.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 tojiha,a,,1,,,,,,aspect,,,,,,,,,,,,,, ,,,➊ is still the case.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,za’o ∈ASP,,za'o ∈ASP,hoaı₁ ∈aspect,,,,
 rakupo,,,1,,,,,,aspect,,,,,,,,,,,,,, ,,,➊ is the case only then (later than expected).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,haıgıq₁,,,,
@@ -2652,7 +2652,7 @@ zipadi,,,1,,,,,,body_part,,,,,rupiwa,,,,,,,,,,,,➊ is a skin plus any hair or f
 kubogu,,,1,,,,,,body_part,,,,,rupiwa,,,,,,,,, ,🐚,,➊ is a spiral shell.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 yuboye,,,1,,,,,,body_part,,,,,rupiwa,,,,,,,,, ,,,➊ is a sucker (body part).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 fajesa,,,1,,,,,,body_part,,,,,rupiwa,,,,,,,,, ,,,➊ is a supraorbital ridge.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-fuvika,,,1,,,,,,body_part,,,,,rupiwa,,,,,,,,, ,,,➊ is a tail (body part).,,, ,,,,,,,tail ∈N,,,,,,queue ∈N·F·C,,,,,,,,,,,,,,,,,,,,<{ruruni} rebla ∈V,huoı₁ ∈predicate; kahu₁,,,,ʎúq
+fuvika,,,1,,,,,,body_part,,,,,rupiwa,,,,,,,,, ,,,➊ is a tail (body part).,,, ,,,,,,,tail ∈N,尾₁,,,,,queue ∈N·F·C,,,,,,,,,,,,,,,,,,,,<{ruruni} rebla ∈V,huoı₁ ∈predicate; kahu₁,,,,ʎúq
 regara,,,1,,,,,,body_part,,,,,rupiwa,,,,,,,,, ,,,➊ is a tentacle.,,, ,,,,,,,tentacle ∈N,,,,,,tentacule ∈N·F,,,,,,,,,,,,,,,,,,,,,hunagıe₁,,,gogdul ∈VI,
 qewapi,,,1,,,,,,body_part,,,,,rupiwa,,,,,,,,, ,,,➊ is a thorn.,,, ,,,,,,,thorn ∈N,,,,,,épine ∈N·F,,,,,,,,,,,,,,,,,,,,<{ruruni} jesystani ∈V; <{ruruni} kilpunli ∈V; <{ruruni} kinjipu ∈V,choıbeq₁ ∈predicate; choıhua₁ ∈predicate,,,,
 tabuze,,,1,,,,,,body_part,,,,,rupiwa,,,,,,,,, ,,,➊ is a toe.,,, ,,,,,,,toe ∈N,,,dedo del pie ∈N·M,,,doigt de pied ∈N·M,,,,,,,,,,,,,,,,,,,,,puecheı₁ ∈predicate,,,,
@@ -2815,7 +2815,7 @@ dorawo,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is a seed.,,, ,,,,,,,seed₁ ∈N,,
 wuduvu,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is a spermatozoid.,,, ,,,,,,,spermatozoid ∈N,,,,,,,,,,,,,,,,,,,,,,,,,,,naqpoaı₁,,,,
 puqoqo,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is a viroid.,,, ,,,,,,,viroid ∈N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 vobuzu,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is a vitamin.,,, ,,,,,,,vitamin ∈N,,,,,,,,,,,,,,,,,,,,vitamin ∈N,,,,,,,,,,,
-yogije,,,1,,,,,lf,biology,,,,,,,,,,,,,, ,,,➊ is alive.,,, ,,,,,,,alive ∈AN; live₂ ∈V,活 ∈VI; 生 ∈VI; 生活 ∈VI,जीना ∈VI,viviente ∈AN; vivir ∈V; vivo ∈AN,حَيّ ∈AN,,vivant ∈AN; vivre ∈V,hidup ∈VI,,жить ∈VI,,,,ishi ∈V,leben ∈VI,,,,暮ら- ∈VI; 生き- ∈VI,,yaşamak ∈V,bizi izan ∈VI,viva ∈AN; vivi ∈VI,,jmive/1 ∈V,,jmive ∈V,,,,vain ∈VI,cáı
+yogije,,,1,,,,,lf,biology,,,,,,,,,,,,,, ,,,➊ is alive.,,, ,,,,,,,alive ∈AN; live₂ ∈V,活 ∈VI; 生 ∈V·I; 生活 ∈V·I,जीना ∈VI,viviente ∈AN; vivir ∈V; vivo ∈AN,حَيّ ∈AN,,vivant ∈AN; vivre ∈V,hidup ∈VI,,жить ∈VI,,,,ishi ∈V,leben ∈VI,,,,暮ら- ∈VI; 生き- ∈VI,,yaşamak ∈V,bizi izan ∈VI,viva ∈AN; vivi ∈VI,,jmive/1 ∈V,,jmive ∈V,,,,vain ∈VI,cáı
 fuqilo,,,1,,,,,,biology,,,,,,,,,,,,,, ,🥚 蛋 卵,,➊ is an egg (possibly unfertilized).,,, ,,,,,,,egg ∈N,,,huevo ∈N·M,,,œuf ∈N·M,,,,,,,,Ei ∈N·N,,,,卵 ∈N,,,,,,,,,nıaıbepoaı₁; nıaıpoaı₁,,,cahil ∈VI,yó
 libobu,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is an egg cell or a spore.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,betoaı₁,,,,
 bezabu,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is an egg or a seed (possibly unfertilized).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bepoaı₁,,,,
@@ -3364,7 +3364,7 @@ vatupu,,,1,s,,d,,,lifeform animal vertebrate bird,,,,,"zayuru, ziwayu, lakana, d
 ruwuma,,,1,s,,d,,,lifeform animal vertebrate bird,,,,,"zayuru, ziwayu, lakana, daliwe",,,,,,,,, ,,,➊ is an owl.,,, ,,,,,,,owl ∈N,,,,,,,,,,,,,,,,,,,,,,,,,,,tırıgeteı₁,,,,
 loyiwo,,,1,s,,d,,,lifeform animal vertebrate fish,,,,,"zayuru, ziwayu, lakana, buzote",,,,,,,,, ,,,➊ is a Sarcopterygii.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nueqshoaı₁,,,,
 viqise,,,1,s,,d,,,lifeform animal vertebrate fish,,,,,"zayuru, ziwayu, lakana, buzote",,,,,,,,, ,,,➊ is a cartilaginous fish (Chondrichthyes).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kuoqhunacıe₁,,,,
-buzote,,,1,s,,d,,,lifeform animal vertebrate fish,,,,,"zayuru, ziwayu, lakana, buzote",,,,,,,,, ,🐟,,➊ is a fish.,,, ,,,,,,,fish ∈N·C,,,,,,,,,,,,,,,,,,,,,,,,,,,cıe₁ ∈predicate,,,,lúc
+buzote,,,1,s,,d,,,lifeform animal vertebrate fish,,,,,"zayuru, ziwayu, lakana, buzote",,,,,,,,, ,🐟,,➊ is a fish.,,, ,,,,,,,fish ∈N·C,魚,,,,,,,,,,,,,,,,,,,,,,,,,,cıe₁ ∈predicate,,,,lúc
 bamosu,,,1,s,,d,,,lifeform animal vertebrate fish,,,,,"zayuru, ziwayu, lakana, buzote",,,,,,,,,,,,➊ is a lamprey.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tromizona ∈V,,,,,
 zoriju,,,1,s,,d,,,lifeform animal vertebrate fish,,,,,"zayuru, ziwayu, lakana, buzote",,,,,,,,,,,,➊ is a shark.,,,,,,,,,,shark ∈N,,,tiburón ∈N·M,,,requin₁ ∈N·M,,,,,,,,,,,,,,,,,,,,,,,,,
 coseku,,,1,s,,d,,,lifeform animal vertebrate fish,,,,,"zayuru, ziwayu, lakana, buzote",,,,,,,,, ,,,➊ is an Actinopterygii.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,soaıshoaı₁,,,,
@@ -3395,9 +3395,9 @@ kebira,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana,
 nivawa,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,,,🐄,,➊ is a cow.,,,,,,,,,,,,,vaca ∈N·F,,,vache ∈N·F,,,,,,,,,,,,,,,behi ∈N,,,,,,,,,,
 siyece,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,➊ is a coyote.,,, ,,,,,,,coyote ∈N,,,,,,,,,,,,,,,,,,,,,,,,,,,shoıkune₁,,,,
 zaqidi,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,𐂂,,➊ is a deer (Cervidae).,,, ,,,,,,,deer ∈N,,,,,,,,,,,,,,,,,,,,,,,,,,,tuaqbosıu₁,,,,
-yobanu,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,🐕,,➊ is a dog (Canis lupus familiaris).,,, ,,,,,,,dog ∈N,犬₁ ∈N; 狗₁ ∈N,कुत्ता ∈NM,perro ∈N·M,كَلْب ∈NM,কুকুর ∈N; কুত্তা ∈N,chien ∈N·M,anjing ∈N,cachorro ∈NM; cão ∈NM,пёс ∈NM; соба́ка ∈NF,,,,mbwa ∈N·C9,Hund ∈N·M,,,,犬 ∈N,,köpek ∈N,txakurr ∈N,hundo ∈N,,,,,coaqluko₁; jıoluko₁,,,gour ∈VI,kóyu
+yobanu,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,🐕,,➊ is a dog (Canis lupus familiaris).,,, ,,,,,,,dog ∈N,犬₁ ∈N; 狗₁ ∈N·C隻·C條,कुत्ता ∈NM,perro ∈N·M,كَلْب ∈NM,কুকুর ∈N; কুত্তা ∈N,chien ∈N·M,anjing ∈N,cachorro ∈NM; cão ∈NM,пёс ∈NM; соба́ка ∈NF,,,,mbwa ∈N·C9,Hund ∈N·M,,,,犬 ∈N,,köpek ∈N,txakurr ∈N,hundo ∈N,,,,,coaqluko₁; jıoluko₁,,,gour ∈VI,kóyu
 defuyi,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,🐬,,➊ is a dolphin.,,, ,,,,,,,dolphin ∈N,海豚 ∈N; 海豬 ∈N,शिशुमार ∈NM; सूँस ∈NF; सूंस ∈NM,delfín ∈N·M,دَرْفِيل ∈NM; دُخَس ∈NM; دُلْفِين ∈NM,ডলফিন ∈N,dophin ∈N·M,lumba-lumba ∈N,delfim ∈NM; golfinho ∈NM,,,,,pomboo ∈N·C9,Delfin ∈N·M; Delphin ∈N·M,,,,イルカ ∈N,lumba-lumba ∈N,delfin ∈N; yunus ∈N,izurde ∈N,delfeno ∈N,,,,,,,,,
-fufuki,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,🐈,,➊ is a domestic cat (Felis catus).,,, ,,,,,,,cat ∈N,猫₁ ∈N,बिल्ली ∈NM,gato ∈N·M,قِطّ ∈NM,বিড়াল; বিলাই; বেড়াল,chat ∈N·M,kucing ∈N,gato ∈NM,ко́шка ∈NF; кот ∈NM,,,,paka ∈N·C9,Katz ∈N·F,,,,猫 ∈N,,kedi ∈N,katu ∈N,kato ∈N,,,,,kato₁ ∈predicate,,,,ƛúrı
+fufuki,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,🐈,,➊ is a domestic cat (Felis catus).,,, ,,,,,,,cat ∈N,猫₁ ∈N·C隻,बिल्ली ∈NM,gato ∈N·M,قِطّ ∈NM,বিড়াল; বিলাই; বেড়াল,chat ∈N·M,kucing ∈N,gato ∈NM,ко́шка ∈NF; кот ∈NM,,,,paka ∈N·C9,Katz ∈N·F,,,,猫 ∈N,,kedi ∈N,katu ∈N,kato ∈N,,,,,kato₁ ∈predicate,,,,ƛúrı
 cozabu,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,"➊ is a dwarf human, a unusually small human.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 nifuki,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,"➊ is a felid, a member of the Felidae family.",,, ,,,,,,,,,,,,,félin ∈N·M,,,,,,,,,,,,,,,,,,,,,,,,mian ∈VI,
 nerawa,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,➊ is a fox (Vulpes genus).,,, ,,,,,,,fox ∈N·C,,,,,,renard ∈N·M,,,,,,,,Fuchs ∈N·M,,,,狐 ∈N,,,,,,,,,hupı₁ ∈predicate,,,,
@@ -3408,7 +3408,7 @@ kemara,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana,
 biwuna,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,➊ is a harbour porpoise (Phocoena phocoena).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pokesao₁,,,,
 sunemi,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,➊ is a hedgehog.,,, ,,,,,,,hedgehog ∈N,,,,,,hérisson ∈N·M·H,,,,,,,,,,,,,,,,,,,,,gere₁,,,,
 vofufe,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,➊ is a hippopotamus.,,, ,,,,,,,,,,,,,hippopotame ∈N·M,,,,,,,,,,,,,,,,,,,,,hıe'eku₁; hıeheku₁,,,,
-qibawe,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,🐎 𐂃,,➊ is a horse (Equus ferus caballus).,,, ,,,,,,,horse ∈N·C,馬 ∈N,अश्व ∈NM; घोड़ा ∈NM,caballo ∈N,,,cheval ∈N·M,kuda ∈N,,,,,,farasi ∈N·C9,Pferd ∈N·N,,,,馬 ∈N,,at ∈N,zaldi ∈N,ĉevalo ∈N,,xirkaba,,xirkaba ∈V,kebo₁ ∈predicate,,,,yáʼı
+qibawe,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,🐎 𐂃,,➊ is a horse (Equus ferus caballus).,,, ,,,,,,,horse ∈N·C,馬₁ ∈N·C匹,अश्व ∈NM; घोड़ा ∈NM,caballo ∈N,,,cheval ∈N·M,kuda ∈N,,,,,,farasi ∈N·C9,Pferd ∈N·N,,,,馬 ∈N,,at ∈N,zaldi ∈N,ĉevalo ∈N,,xirkaba,,xirkaba ∈V,kebo₁ ∈predicate,,,,yáʼı
 cececi,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,➊ is a house mouse.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,musenuı₁,,,,
 wayami,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,👤,,"➊ is a human, a human being.",,, ,,,,,,,human ∈N; human being ∈N,,,,,,humain ∈N·M; être humain ∈N·M,,,,,,,,Mensch ∈N·M,,,,,,,,,,remna ∈V,,remna ∈V,ocha₁ ∈predicate; req₁ ∈predicate,,,flan ∈VI,qánwe
 nulofa,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,➊ is a hyena (Hyaenidae taxonomic family).,,, ,,,,,,,hyena ∈N·C,鬣狗 ∈N,तरच्छ ∈NM; लकड़बग्घा ∈NM,hiena ∈N·F,ضَبُع ∈NF,হায়েনা ∈N,hyène ∈N·F,dubuk ∈N,hiena ∈NF,,,,,fisi ∈N·C9,Hyäne ∈N·F,,,,ハイエナ ∈N; 鬣犬 ∈N,,sırtlan ∈N,hiena ∈NA,,,,,.impisi ∈V,suhulıqsıu₁,,,,
@@ -3584,7 +3584,7 @@ loteyo,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,, ,,,➊ is a
 zeguza,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,, ,,,"➊ is a squash, marrow, pumpkin or gourd, fruit of a plant of the Cucurbita genus.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,huku₁; hukushu₁,,,,
 seruwi,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,, ,🍅 ,,➊ is a tomato (fruit).,,, ,,,,,,,tomato₂ ∈N,,,,,,tomate ∈N·F,,,,,,,,,,,,,,domates ∈N,,,,,,,tama₁ ∈predicate,,,,rópo
 walaji,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,,,,,➊ is a watermelon.,,,,,,,,,,watermelon ∈N·C,,,sandía ∈N·F,,,pastèque ∈N·F,,,,,,,,,,,,,,,,,,,,,,,,,
-nahala,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,, ,🍎 ,,➊ is an apple.,,, ,,,,,,,apple ∈N,苹果 ∈N,सेब ∈NM; सेव ∈NM,manzana ∈N·F,تُفَّاح ∈NMU,আপেল ∈N; সেব ∈N,pomme ∈N·F,apel ∈N,maçã ∈NF,я́блоко ∈NN,,,,tofaa ∈N·C5,Apfel ∈N·M,,,,リンゴ ∈N,,elma ∈N,sagar ∈N,pomo ∈N,,,,,shamu₁ ∈predicate,,,meon ∈VI,nóko
+nahala,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,, ,🍎 ,,➊ is an apple.,,, ,,,,,,,apple ∈N,蘋果₁ ∈N·C個,सेब ∈NM; सेव ∈NM,manzana ∈N·F,تُفَّاح ∈NMU,আপেল ∈N; সেব ∈N,pomme ∈N·F,apel ∈N,maçã ∈NF,я́блоко ∈NN,,,,tofaa ∈N·C5,Apfel ∈N·M,,,,リンゴ ∈N,,elma ∈N,sagar ∈N,pomo ∈N,,,,,shamu₁ ∈predicate,,,meon ∈VI,nóko
 dohaja,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,,,,,➊ is an avocado.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ceyawa,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,,,,,➊ is an orange (fruit).,,,,,,,,,,,,,,,,orange₁ ∈N·F,,,,,,,,,,,,,,,,,,,,najnimre ∈V,,,,,
 jarati,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,, ,,,"➊ is grain, cereal.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,guı₁ ∈predicate,,,,
@@ -4471,7 +4471,7 @@ mipezo,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ is expert at satisfying property ➋.,,, ,
 yodato,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ is extremely ➋; ➊ has property ➋ to an extreme extent.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,soqjuı₁,,,,
 requgu,,,1,,,,,,,,,,,,,,,,,,,, ,,,"➊ is fair, just, equitable.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ugı₁,,,,
 ralaku,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ is false in world ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,jıaqbu₁,,,,
-ciboya,,,2,,,,,,,,,,,,,,,,,,,, ,,,"➊ is familiarity with, is acquitained with, has already interacted with or been exposed to ➋.",,, ,,,,,,,know₂ ∈V·DO,認識 ∈VT,,conocer ∈V·DO,,,connaître ∈V·DO,,,,,,,,kennen ∈V·DO,,,,,kilala,tanımak ∈V·DO,ezagutu ∈VT,koni ∈VT,,slabu  21,,slabu ∈V  21,raqdua₁; zao₁ ∈predicate,,,,nčáwa
+ciboya,,,2,,,,,,,,,,,,,,,,,,,, ,,,"➊ is familiarity with, is acquitained with, has already interacted with or been exposed to ➋.",,, ,,,,,,,know₂ ∈V·DO,認識 ∈V·DO,,conocer ∈V·DO,,,connaître ∈V·DO,,,,,,,,kennen ∈V·DO,,,,,kilala,tanımak ∈V·DO,ezagutu ∈VT,koni ∈VT,,slabu  21,,slabu ∈V  21,raqdua₁; zao₁ ∈predicate,,,,nčáwa
 pabali,,,1,,,,,,,,,,,,,,,,,,,, ,,,"➊ is famous, well-known.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zaomıa₁; zaopuı₁,,,,
 vujubi,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ is fastened to ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,chuoıcoe₁,,,,
 dofoqi,,,1,,,,,,,,,,,,,,,,,,,, ,,,"➊ is fat, overweight or obese.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,chuqsao₁; nulısao₁,,,,
@@ -4549,12 +4549,11 @@ dejove,,,1,,,,,,,,,,,,,,,,,,,, ,,,➊ is insectivorous.,,, ,,,,,,,insectivorous 
 vaquni,,,1,,,,,,,,,,,,,,,,,,,, ,,,"➊ is intelligent, smart.",,, ,,,,,,,clever ∈AN; intelligent ∈AN·gradable; smart ∈AN,,,,,,,,,,,,,,,,,,,,,,,,,,,moıjoe₁ ∈predicate,,,,
 waquya,,,1,,,,,,,,,,,,,,,,,,,, ,,,➊ is ironic.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 cebuni,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ is juice of things having property ➋.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zguhi ∈VT_P1,
-joveyo,,,1,,,,,,,,,,,,,,,,,,,, ,,,➊ is just about to be the case; ➊ is on the verge of being the case.,,, ,,,,,,,,將₂,,,,,,,,,,,,,,,,,,,,,,,,,,luıgıqjuı₁,,,,
 yajica,,,1,,,,,,,,,,,,,,,,,,,, ,,,➊ is kind.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,toıgı₁,,,,
 yatiji,,,1,,,,,,,,,,,,,,,,,,,, ,,,➊ is köfte. (Turkish meatballs),,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 piniwu,,,2,,,,,,,,,,,,,,,,,,,, ,,,"➊ is lacking property ➋, which is a bad thing.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,huıcıa₁ ∈predicate,,,,
 devore,,,1,,,,,,,,,,,,,,,,,,,, ,,,➊ is laughter.,,, ,,,,,,,laughter ∈N·C,,,,,,,,,,,,,,,,,,,,,,,,,,,hıaıse₁ ∈predicate,,,,
-qejate,,,,,,,,,,,,,,,,,,,,,,,,,,"➊ is lead (matter made of atoms of that element, with no or negligible amount of impurities).",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cnisa ∈V,,,,,
+qejate,,,1,,,,,,,,,,,,,,,,,,,,,,,"➊ is lead (matter made of atoms of that element, with no or negligible amount of impurities).",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cnisa ∈V,,,,,
 derafo,,,1,,,,,,,,,,,,,,,,,,,, ,,,➊ is left-handed.,,, ,,,,,,,left-handed ∈AN,,,,,,,,,,,,,,,,,,,,,,,,,,,lıomuqpoq₁,,,,
 resaye,,,2,,,,,,,,,,,,,,,,,,,, ,,,"➊ is legal, in accordance with rule or law ➋.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,juaodue₁ ∈predicate,,,,
 suzudo,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ is legal; ➊ is allowed by rule/law ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,juaodı₁,,,,
@@ -8101,6 +8100,7 @@ pubedi,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 pubomo,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 pubovo,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 pubucu,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+pucoyu,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 pudebu,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 pudipe,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 pudupi,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
