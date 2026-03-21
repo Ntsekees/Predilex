@@ -125,6 +125,7 @@ def proceed(predilex_full, languages):
 		lemma_i = index_of_field(lfields, "lemma")
 		discr_i = index_of_field(lfields, "discriminator")
 		type_i = index_of_field(lfields, "supertype")
+		morphotype_i = index_of_field(lfields, "morphotype")
 		traits_i = index_of_field(lfields, "features")
 		if traits_i is None:
 			traits_i = index_of_field(lfields, "traits")
@@ -169,6 +170,8 @@ def proceed(predilex_full, languages):
 					lemval += " ∈" + le[type_i]
 					if not traits_i is None:
 						ts = [s for s in le[traits_i].split(" ") if s != ""]
+						if not morphotype_i is None:
+							ts = [s for s in le[morphotype_i].split(" ") if s != ""] + ts
 						if len(ts) > 0:
 							lemval += "·" + "·".join(ts)
 				if framing != "":
