@@ -1559,7 +1559,7 @@ mahove,,,1,,,,,,perception,,,,,,,,,,,,,, ,,,"➊ is tired, exhausted, needing to
 ziqadi,,,1,,,,,,perception,,,,,,,,,,,,,, ,,,"➊ is visual, pertaining to the sense of sight, to vision.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,görsel ∈AN,,,,,,,kaq₁ ∈predicate,,,,
 zajuhu,,,2,,,,,,perception,,,,,,,,,,,,,, ,,,➊ is visually similar to ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kaqsıu₁,,,,
 nenura,,,2,,,,,,perception,,,,,,,,,,,,,, ,,,➊ listens to ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,huosı₁ ∈predicate,,,e tari pure ∈VT,
-gebuze,,,2,,,,,,perception,,,,,,,,,,,,,, ,,,➊ looks at ➋.,,, ,,,,,,,look ∈V·at,,,mirar ∈V·DO,,,regard- ∈V·DO,,,,,,,,,,,,見- ∈V·DO,,bak ∈V·DO,,,,catlu ∈VT,,catlu ∈VT,kaqsı₁ ∈predicate,,,spenu ∈VT,ƛʼícal
+gebuze,,,2,,,,,,perception,,,,,,,,,,,,,, ,,,➊ looks at ➋.,,, ,,,,,,,look ∈V·at,,,mir- ∈V·DO,,,regard- ∈V·DO,,,,,,,,,,,,見- ∈V·DO,,bak ∈V·DO,,,,catlu ∈VT,,catlu ∈VT,kaqsı₁ ∈predicate,,,spenu ∈VT,ƛʼícal
 bofelo,,,2,,,,,,perception,,,,,,,,,,,,,, ,,,➊ looks good to ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 nivero,,,2,,,,,,perception,,,,,,,,,,,,,, ,,,"➊ misses, fails to perceive or notice ➋.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 wipefo,,,3,,,,,,perception,,,,,,,,,,,,,, ,,,➊ pareidolically recognizes in visual perception of stimulus ➋ something satisfying property ➌.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2248,7 +2248,7 @@ pubazo,,,1,,,,,,artifact weapon,,,,,"sehive, pizufe",,,,,,,,,,,,➊ is a torpedo
 pizufe,,,1,,,,,,artifact weapon,,,,,"sehive, pizufe",,,,,,,,, ,,,➊ is a weapon.,,, ,,,,,,,weapon ∈N,,,,,,arme₁ ∈N·F,,,,,,,,,,,,,,silah ∈N,,,,,,,hıaochuo₁,,,,
 bonete,,,1,,,,,,artifact weapon,,,,,"sehive, pizufe",,,,,,,,, ,,,➊ is an arrow (pointed missile).,,, ,,,,,,,arrow₁ ∈N·C,,,,,,flèche₁ ∈N·F,,,,,,,,,,,,,,ok ∈N,,,,,,,hıeqnuaobeaq₁,,,,
 fonotu,,,2,,,,,,involuntary_action,,,,,,,,,,,,,, ,,,➊ belches ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-buliki,,,2,,,,,,involuntary_action,,,,,,,,,,,,,,,,,➊ digests ➋.,,,,,,,,,,digest ∈V·DO,,,digerir ∈V·DO,,,digér- ∈V·DO,,,,,,,,,,,,,,sindir ∈V·DO,,,,,,,,,,,
+buliki,,,2,,,,,,involuntary_action,,,,,,,,,,,,,,,,,➊ digests ➋.,,,,,,,,,,digest ∈V·DO,,,diger- ∈V·DO,,,digér- ∈V·DO,,,,,,,,,,,,,,sindir ∈V·DO,,,,,,,,,,,
 gakufu,,,2,,,,,,involuntary_action,,,,,,,,,,,,,, ,,,➊ farts ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 leluje,,,1,,,,,,involuntary_action,,,,,,,,,,,,,, ,,,➊ hiccups.,,, ,,,,,,,hiccup ∈V,,,,,,,,,,,,,,,,,,,,hıçkır ∈V,,,,,,.ipka ∈V,sedu₁,,,,
 wusime,,,2,,,,,,involuntary_action,,,,,,,,,,,,,,,,,➊ salivates ➋.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2815,7 +2815,7 @@ dorawo,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is a seed.,,, ,,,,,,,seed₁ ∈N,,
 wuduvu,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is a spermatozoid.,,, ,,,,,,,spermatozoid ∈N,,,,,,,,,,,,,,,,,,,,,,,,,,,naqpoaı₁,,,,
 puqoqo,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is a viroid.,,, ,,,,,,,viroid ∈N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 vobuzu,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is a vitamin.,,, ,,,,,,,vitamin ∈N,,,,,,,,,,,,,,,,,,,,vitamin ∈N,,,,,,,,,,,
-yogije,,,1,,,,,lf,biology,,,,,,,,,,,,,, ,,,➊ is alive.,,, ,,,,,,,alive ∈AN; live₂ ∈V,活 ∈VI; 生 ∈V·I; 生活 ∈V·I,जीना ∈VI,viviente ∈AN; vivir ∈V; vivo ∈AN,حَيّ ∈AN,,vivant ∈AN; vivre ∈V,hidup ∈VI,,жить ∈VI,,,,ishi ∈V,leben ∈VI,,,,暮ら-₁ ∈VI; 生き-₁ ∈VI,,yaşamak ∈V,bizi izan ∈VI,viva ∈AN; vivi ∈VI,,jmive/1 ∈V,,jmive ∈V,,,,vain ∈VI,cáı
+yogije,,,1,,,,,lf,biology,,,,,,,,,,,,,, ,,,➊ is alive.,,, ,,,,,,,alive ∈AN; live₂ ∈V,活 ∈VI; 生 ∈V·I; 生活 ∈V·I,जीना ∈VI,viviente ∈AN; viv- ∈V; vivo ∈AN,حَيّ ∈AN,,vivant ∈AN; vivre ∈V,hidup ∈VI,,жить ∈VI,,,,ishi ∈V,leben ∈VI,,,,暮ら-₁ ∈VI; 生き-₁ ∈VI,,yaşamak ∈V,bizi izan ∈VI,viva ∈AN; vivi ∈VI,,jmive/1 ∈V,,jmive ∈V,,,,vain ∈VI,cáı
 fuqilo,,,1,,,,,,biology,,,,,,,,,,,,,, ,🥚 蛋 卵,,➊ is an egg (possibly unfertilized).,,, ,,,,,,,egg ∈N,,,huevo ∈N·M,,,œuf ∈N·M,,,,,,,,Ei ∈N·N,,,,卵₁ ∈N,,,,,,,,,nıaıbepoaı₁; nıaıpoaı₁,,,cahil ∈VI,yó
 libobu,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is an egg cell or a spore.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,betoaı₁,,,,
 bezabu,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is an egg or a seed (possibly unfertilized).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bepoaı₁,,,,
@@ -3915,7 +3915,7 @@ legayi,,,2,,,,,,,,,,,,,,,,,,,,,,,➊ fishes prey having property ➋.,,,,,,,,,,f
 jubado,,,3,,,,,,,,,,,,,,,,,,,, ,,,"➊ fixes, repairs ➋ for function ➌.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cikre ∈V,,,,,
 nabaca,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ flies in gas or fluid ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 wobubo,,,3,,,,,,,,,,,,,,,,,,,, ,,,➊ flies to ➋ from ➌.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-zeduyu,,,1,,,,,,,,,,,,,,,,,,,, ,,,➊ flies.,,, ,,,,,,,fly₁ ∈VI,,,volar ∈V,,,voler ∈VI₁,,,,,,,,,,,,,,uç ∈V,,,,,,,rıolıaı₂,,,fuher ∈VI,
+zeduyu,,,1,,,,,,,,,,,,,,,,,,,, ,,,➊ flies.,,, ,,,,,,,fly₁ ∈VI,,,vol- ∈V,,,voler ∈VI₁,,,,,,,,,,,,,,uç ∈V,,,,,,,rıolıaı₂,,,fuher ∈VI,
 sovaru,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ floats on or in fluid ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,fulta,,fulta ∈V,,,,,
 bocizi,,,1,,,,,,,,,,,,,,,,,,,, ,,,➊ fluctuates in how much it is the case.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,jeaqdıa₁; nefurı₁,,,,
 simeli,,,2,,,,,,,,,,,,,,,,,,,, ,,,"➊ follows, goes after ➋.",,, ,,,,,,,follow₁ ∈V·DO,,,,,,,,,,,,,,,,,,,,,,,,,,,sıefa₁ ∈predicate,,,fnala ∈VT,
@@ -4816,7 +4816,7 @@ gezifi,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ judges / sits in judgement / issues verdic
 wevela,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ judges / sits in judgement / issues verdict ➋ (quote).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,juaokakuq₁,,,,
 zodahe,,,2,,,,,,,,,,,,,,,,,,,, ,,,"➊ justifies, warrants ➋; ➊ is a good, acceptable reason for ➋.",,, ,,,,,,,,,,,,,justifi- ∈V·DO,,,,,,,,,,,,,,,,,,,,,lurıaı₁,,,,
 bitewu,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ keeps ➋ company so they will not be lonely.,,, ,,,,,,,,,,,,,tenir compagnie ∈V·à,,,,,,,,,,,,,,,,,,,,,,,,,
-zicede,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ kills ➋.,,, ,,,,,,,kill ∈V·DO,,,matar ∈V·DO,,,tuer ∈V·DO,,,,,,,,,,,,殺-₁ ∈VT,,,,,,,,,muaqtua₁ ∈predicate,,,,
+zicede,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ kills ➋.,,, ,,,,,,,kill ∈V·DO,,,mat- ∈V·DO,,,tuer ∈V·DO,,,,,,,,,,,,殺-₁ ∈VT,,,,,,,,,muaqtua₁ ∈predicate,,,,
 zelipu,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ knits ➋.,,, ,,,,,,,,,,,,,tricoter ∈V·DO,,,,,,,,,,,,,,,,,,,,,nıgu₁,,,,
 dovora,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ lacks ➋; ➊ is ➋-less.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bocıa₁,,,,
 bejuya,,,2,,,,,,,,,,,,,,,,,,,, ,,,"➊ lacks, misses part ➋.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,paqcıa₁ ∈predicate,,,,
