@@ -57,7 +57,7 @@ becuca,,,2,x 1,✓,,,,basic,,,,,,,,,,,,,, ,,,➊ has the property opposite to pr
 wiyeru,,,2,,✓,,,,basic,,,,,,,,,,,,,, ,,,➊ is a Davidsonian event instantiating proposition ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 wogika,,,2,,✓,,,,basic,,,,,,,,,,,,,, ,,,"➊ is a concrete spatiotemporal entity, a chunk of spacetime, instantiating, reifying abstract proposition ➋.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nundumu ∈VT,,nundumu ∈VT·fu'ivla,guo₁ ∈predicate,,,ski ∈VT_P0,
 jukivu,,,1,,✓,,,,basic,,,,,,,,,,,,,, ,,is_a_thingamajig,➊ is a thingamajig (a thing which the speaker doesn't know how to name or describe).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,comco’e ∈VI,,comco'e ∈VI·lujvo,haohao₁,,,,
-fukepa,a,,2,,✗,,,,basic,,,,,,,,,,,,,, ,,,"➊ is a type, a kind of ➋.",,, ,,,,,,,be₃ ∈COP; kind ∈N·of; type ∈N·of,,,,,,,,,,,,,,,,,,,,,,,,klesi ∈VT,,klesi ∈VT·gismu,rıoq₁ ∈predicate,,,,
+fukepa,a,,2,,✗,,,,basic,,,,,,,,,,,,,, ,,,"➊ is a type, a kind of ➋.",,, ,,,,,,,be₃ ∈COP; kind ∈N·of; type ∈N·of,,तरह₁ ∈N·F; प्रकार₁ ∈N·M,,,,,,,,,,,,,,,,,,,,,,klesi ∈VT,,klesi ∈VT·gismu,rıoq₁ ∈predicate,,,,
 gavuyu,,,2,x 1,✓,c,,,basic,,,,,,,,,,,,,, ,,,➊ is named after property ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ıqmı₁,,,za ∈PRT,
 ciceqe,,,3,,,,,,basic,,,,,,,,,ciceqe,,,,, ,,,➊ is similar to ➋ (not necessarily visually) in what it is in relation ➌ with.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.imsa ∈VT,,.imsa ∈VT·fu'ivla,,,,,
 nepuqa,b,,2,,,,,,basic,,,,,,,,,nepuqa,,,,, ,,,➊ is similar to ➋ (not necessarily visually).,,, ,,,,,,,similar ∈AN·to,,,,,,similaire ∈AN·à,,,,,,,,,,,,,,,,,,,,,sıu₁ ∈predicate,,,,
@@ -77,7 +77,7 @@ tebadi,,,1,,,,,,basic subjective,,,,,,,,,,,,,, ,,,➊ seems to be the case to th
 zogido,,,2,,,,,,basic subjective,,,,,,,,,,,,,,,,,➊ seems to have property ➋ to the evaluator in 🅲.,,,,,,,,,,seem ∈V·to+INF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 pucuqi,,,2,,,,,,mereology,,,,,,,,,,,,,, ,,,➊ and ➋ are in mereological overlap.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 muyeto,,,2,,,,,,mereology,,,,,,,,,,,,,, ,,,➊ and ➋ are in mereological underlap.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-deludo,,,2,,,d d,,,mereology,,,dibere,,,,,,,,,,, ,,has_proper_part,➊ has proper part ➋.,,, ,,,,,,,with₈ ∈P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cnue ∈VT  21,
+deludo,,,2,,,d d,,,mereology,,,dibere,,,,,,,,,,, ,,has_proper_part,➊ has proper part ➋.,,, ,,,,,,,part ∈N·of  21; with₈ ∈P,,भाग₁ ∈N·M  21,,,,,,,,,,,,,,,,,,,,,,,,,,,,cnue ∈VT  21,
 kesiga,,,2,,,,,,mereology,,,,,,,,,,,,,, ,,,➊ is a proper spatiotemporal part of ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 cutuwa,,,2,,,,,,mereology,,,,,,,,,,,,,, ,,,➊ is an aggregate of things having property ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,same₁,,,,
 lohiqo,a,,2,,,,,,mereology,,,,,,,,,,,,,, ,,,"➊ is an aggregate of things, and these things collectively satisfy the property ➋.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lıme₁,,,,
@@ -121,7 +121,7 @@ ribizi,,,2,,,,,,logic,,,,,,,,,,,,,, ,,,"The proposition ""what satisfies the pro
 mozako,,,2,0 0,,,,,logic,,,,,,,,,,,,,, ,,,What satisfies the property ➊ depends on what satisfies the property ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 jecudi,,,1,,,,,,logic,,,,,,,,,,,,,, ,,,all propositions among ➊ are true.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,van ∈VI,
 kowasu,,,2,,,,,,logic,,,,,,,,,,,,,, ,,,all twosomes among ➊ have property ➋.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tconi ∈VT_P1,
-nawulu,,,3,,,,,,logic,,,,,,,,,,,𝜆➊ 𝜆➋ 𝜆➌ ∀α α ≼ ➊ ⇒ [α ≼ ➋ ∨ α ≼ ➌],,, ,,,among ➊ there's ➋ and ➌ and nothing else.,,,,,,,,,,and₁ ∈NCOO; together with ∈NCOO,和₁ ∈NCOO,,y₁ ∈NCOO,,,et₁ ∈NCOO,,,,,,,,und₁ ∈NCOO,,,,,,,eta₁ ∈NCOO,,,jo’u ∈NCOO,,jo'u ∈FCOO·cmavo,róı₁ ∈plural coordinator,,,,
+nawulu,,,3,,,,,,logic,,,,,,,,,,,𝜆➊ 𝜆➋ 𝜆➌ ∀α α ≼ ➊ ⇒ [α ≼ ➋ ∨ α ≼ ➌],,, ,,,among ➊ there's ➋ and ➌ and nothing else.,,,,,,,,,,and₁ ∈NCOO; together with ∈NCOO,和₁ ∈NCOO,और₁ ∈Coo; तथा₁ ∈Coo,y₁ ∈NCOO,,,et₁ ∈NCOO,,,,,,,,und₁ ∈NCOO,,,,,,,eta₁ ∈NCOO,,,jo’u ∈NCOO,,jo'u ∈FCOO·cmavo,róı₁ ∈plural coordinator,,,,
 tacono,,,2,,,,,,logic,,,,,,,,,,,,,, ,,,"among ➊, exactly ➋ (number) propositions are true.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,von ∈VT,
 yimavi,,,1,,,,,,logic,,,,,,,,,,,,,, ,,,exactly one proposition among ➊ is true.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,von ∈VUA,
 jubowa,,,2,x x,,,,,logic,,,,,,,,,,,𝜆➊ 𝜆➋ ∄α α ≼ ➊ ∧ α ≼ ➋,,, ,,,nothing is both among ➊ and among ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -177,14 +177,14 @@ tunupo,,,1,ℙ,,,,,logic,,,,,,,,,,,𝜆➊ ∃α α ≥ 2 ∧ zukaga α [𝜆β 
 kirove,,,3,x x 2,,,,,logic,,,,,,,,,,,,,, ,,,"➊ is exclusively with some of ➋ in relation ➌ (whenever the former is in that relation with something, it is with some of the latter).",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 qapafo,,,3,x x 2,,,,,logic,,,,,,,,,,,,,, ,,,"➊ is exclusively with ➋ in relation ➌ (whenever the former is in that relation with something, it is with all of the latters collectively).",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 loyoke,,,2,0 0,,,,,logic,,,,,,,,,,,𝜆P 𝜆A ¬∃ϕ ϕ ∈ A ⇒ P ϕ,,, ,,,➊ is false under the logical system ➋ (axioms).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-maruhe,,,1,0,,,,,logic,,,,,,,,,,,𝜆➊ ¬➊,,, ,¬,,"➊ is false, isn't the case.",,, ,,,,,,,-n't ∈Affix; false₁ ∈AN·nongradable; no ∈ANSW; not ∈POLAR; untrue₁ ∈AN,不₁ ∈Polar; 假 ∈AN,झूठा ∈AN,fals- ∈AN; no ∈POLAR,,,fau- ∈AN·@-x-sse·★F-s; ne … pas ∈POLAR,,,,,,,,,,,,,,yalış ∈AN,faltsu ∈AN,,,iitfa ∈V; tolfatci,,,,,,bi ∈PRT; zi ∈PRT,há
+maruhe,,,1,0,,,,,logic,,,,,,,,,,,𝜆➊ ¬➊,,, ,¬,,"➊ is false, isn't the case.",,, ,,,,,,,-n't ∈Affix; false₁ ∈AN·nongradable; no ∈ANSW; not ∈POLAR; untrue₁ ∈AN,不₁ ∈Polar; 假 ∈AN,झूठा ∈AN; नहीं ∈Prt,fals- ∈AN; no ∈POLAR,,,fau- ∈AN·@-x-sse·★F-s; ne … pas ∈POLAR,,,,,,,,,,,,,,yalış ∈AN,faltsu ∈AN,,,iitfa ∈V; tolfatci,,,,,,bi ∈PRT; zi ∈PRT,há
 tunije,,,4,x x ℕ 2,,,,,logic,,,,,,,,,,,,,, ,,,"➊ is in relation R with ➋ to the ➌th degree of transitive composition, with R being the relation ➍; in other words, the relation between them is the relation R transitively composed with itself N times.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ki’inmoi,,ki'inmoi ∈V·fu'ivla,,,,,
 fihofi,,,2,x 2,,,,,logic,,,,,,,,,,,𝜆➊ 𝜆➋ ∀α ➋ ➊ α,,, ,,,➊ is in relation ➋ with everything.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 jicipe,,,2,x 2,,,,,logic,,,,,,,,,,,𝜆➊ 𝜆➋ ∄α ➋ ➊ α,,, ,,,➊ is in relation ➋ with nothing.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sıacuoı₁,,,,
 nuwube,,,2,x 2,,,,,logic,,,,,,,,,,,𝜆➊ 𝜆➋ ∃α ➋ ➊ α,,, ,,,➊ is in relation ➋ with something.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 tenaho,,,2,x ℙ,,,,,logic,,,,,,,,,,,𝜆➊ 𝜆➋ rikihe [∃α bubeyi ➋ α] [gisiwu ➊],,, ,,,➊ is involved in predicate ➋; the latter being true of some argument structure entails something about the former.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ctu'au,,ctu'au ∈V·fu'ivla,,,,,
 yeyepa,a,,2,x x,,,,,logic,,,,,,,,,,,𝜆➊ 𝜆➋ ¬[∀➌ pohuti ➊ ➌ ⇔ pohuti ➋ ➌],,, ,≠,,➊ is not the same thing as ➋.,,, ,,,,,,,different ∈AN·from₁^other,,,,,,,,,,,,,,,,,,,,,,,,nardu’o ∈VT,,,,,,,
-gisiwu,,,1,x,,c,,,logic,,,,,,,,,,,𝜆➊ ➊=➊ ║ 𝜆➊ ∃P P ➊,,, ,,,"➊ is something, anything, a thing.",,, ,,,,,,,be₁ ∈V·dummy_there; thing₁ ∈N,,,,,,chose₁ ∈N·F,,,,,,,,,,,,もの₁ ∈N,,,,,,dzai’i ∈VI,,dzai'i ∈VI·fu'ivla,raı₁ ∈predicate,,,mai ∈VI,ñáı
+gisiwu,,,1,x,,c,,,logic,,,,,,,,,,,𝜆➊ ➊=➊ ║ 𝜆➊ ∃P P ➊,,, ,,,"➊ is something, anything, a thing.",,, ,,,,,,,be₁ ∈V·dummy_there; thing₁ ∈N,,बात₅ ∈N·F; वाला₁ ∈N,,,,chose₁ ∈N·F,,,,,,,,,,,,もの₁ ∈N,,,,,,dzai’i ∈VI,,dzai'i ∈VI·fu'ivla,raı₁ ∈predicate,,,mai ∈VI,ñáı
 susiku,,,2,x 2,,,,,logic,,,,,,,,,,,𝜆➊ 𝜆r ∃➋ r ➊ ➋,,, ,,,➊ is such that something is in relation ➋ with the former.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 lowuli,,,2,1 1,,,,,logic,,,,,,,,,,,𝜆➊ 𝜆➋ wokifa ➊ ∧ ➊ = ➋,,, ,,,➊ is the property ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cuaq₁ ∈predicate,,,,
 terupo,,,3,0 ℙ 🄻,,,,,logic,,,,,,,,,,,𝜆➊ 𝜆➋ 𝜆➌ seduyu ➊ [bubeyi ➋ ➌],,, ,,,➊ is the proposition of predicate ➋ applied to argument structure ➌ (sequence).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bridi ∈VD,,bridi ∈VD·gismu; selbri ∈V·lujvo  213,,,,,
@@ -219,7 +219,7 @@ cubala,,,2,0 0,,d d,,,logic conjunction,,,,,,,,,,,𝜆➊ 𝜆➋ ➊ ⇒ ➋,,,
 talage,a,,2,0 0,,d d,,,logic conjunction,,,,,,,,,,,𝜆➊ 𝜆➋ ¬[¬➊ ∨ ¬➋],,, ,∧,,➊ and ➋ are both the case.,,, ,,,,,,,and₂ ∈COO,,,y₂ ∈COO,,,et ∈COO,,,,,,,,und₂ ∈COO,,,,,,ve ∈COO,eta₂ ∈COO,kaj ∈COO,,.e ∈COO; gi’e ∈COO; je ∈COO; zilkanxe ∈VT,,.e ∈COO·cmavo; gi'e ∈COO·cmavo; je ∈COO·cmavo; zilkanxe ∈VT·lujvo,rú₁ ∈conjunction; toru₁,,,,ʼáı
 qolevo,,,2,0 0,,d d,,,logic conjunction,,,,,,,,,,,𝜆➊ 𝜆➋ ➊ ⤄ ➋,,, ,↮ ⤄ ⊻ ⩛,,➊ and ➋ have different truth values; ➊ xor ➋ is the case.,,, ,,,,,,,xor ∈COO,,,,,,,,,,,,,,,,,,,,yada ∈COO,,,,jetfrica ∈VT,,jetfrica ∈VT·lujvo,maheo₁,,,,
 tuyafu,a,,2,0 0,,d d,,,logic conjunction,,,,,,,,,,,𝜆➊ 𝜆➋ ➊ ⇔ ➋,,, ,↔ ⇔,,➊ and ➋ have the same truth value; ➊ iff ➋ is the case.,,, ,,,,,,,if and only if ∈SUBR; iff ∈COO,,,,,,,,,,,,,,,,,,,,ancak ve ancak ∈COO,,,,jetydu’i ∈VT,,jetydu'i ∈VT·lujvo,majeq₁,,,,
-buvune,a,,2,0 0,,d d,,,logic conjunction,,,,,,,,,,,,,, ,,,"➊ is true, but ➋ is true as well.",,, ,,,,,,,but₂ ∈COO; however ∈AV,,,pero ∈COO,,,mais ∈COO,,,,,,,,,,,,,,ama,baina ∈COO,,,,,,joıkeo₁; tokeo₁,,,,
+buvune,a,,2,0 0,,d d,,,logic conjunction,,,,,,,,,,,,,, ,,,"➊ is true, but ➋ is true as well.",,, ,,,,,,,but₂ ∈COO; however ∈AV,,लेकिन₁ ∈Conj,pero ∈COO,,,mais ∈COO,,,,,,,,,,,,,,ama,baina ∈COO,,,,,,joıkeo₁; tokeo₁,,,,
 zarowi,,,2,0 0,,c c,,,logic conjunction,,,,,,,,,,,𝜆➊ 𝜆➋ ¬[¬➊ ∧ ¬➋],,, ,∨,,"➊ or ➋ is the case, or both are the case.",,, ,,,,,,,or₁ ∈COO,或₁ ∈COO,,o ∈COO,,,ou ∈COO,,,,,,,,,,,,,,veya ∈COO,,aŭ ∈COO,,.a ∈COO; gi’a ∈COO; ja ∈COO; zilvlina ∈VT,,.a ∈NCOO·cmavo; gi'a ∈COO·cmavo; ja ∈COO·cmavo; zilvlina ∈VT·lujvo,rá₁ ∈conjunction; tora₁,,,vle,ʼék
 gazogi,,,2,,,,,,logic entailment,,,,,,,,,,,,,, ,,,Propositions or predicates ➊ and ➋ are equivalent.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,vini ∈VT_P0,
 cipase,,,2,,,,,,logic entailment,,,,,,,,,,,,,, ,,,The proposition ➊ is an exaggeration of how much ➋ is the case.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,duılu₁,,,,
@@ -665,7 +665,7 @@ wukiru,,,1,,,,,,language natural_language,,,,,,,,,,,,,, ,,,"➊ is the Sino-Tibe
 noraji,,,1,,,,,,linguistics,,,,,,,,,,,,,, ,,,"➊ is a constructed language (conlang), an artificial language.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,e tsae ban ∈VI,
 toqore,,,2,,,,,,linguistics,,,,,,,,,,,,,, ,,,➊ is a content word in language ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 kimini,,,1,,,,,,linguistics,,,,,,,,,,,,,, ,,,➊ is a language family.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,dil ailesi ∈N,,,,,,,,,,,
-lasofe,,,1,,,,,,linguistics,,,,,,,,,,,,,, ,,,➊ is a language.,,, ,,,,,,,language ∈N·C,,,,,,langage ∈N·M; langue₂ ∈N·F,,,,,,,,,,,,,,dil ∈N,hizkuntza ∈N,,,.angu ∈VI; bangu ∈VI,,.angu ∈V·fu'ivla·1; bangu ∈VI·gismu,zu₁ ∈predicate,,,ban ∈VI,ná
+lasofe,,,1,,,,,,linguistics,,,,,,,,,,,,,, ,,,➊ is a language.,,, ,,,,,,,language ∈N·C,,भाषा₁ ∈N·F,,,,langage ∈N·M; langue₂ ∈N·F,,,,,,,,,,,,,,dil ∈N,hizkuntza ∈N,,,.angu ∈VI; bangu ∈VI,,.angu ∈V·fu'ivla·1; bangu ∈VI·gismu,zu₁ ∈predicate,,,ban ∈VI,ná
 dejesa,,,2,,,,,,linguistics,,,,,,,,,,,,,, ,,,➊ is a relex of language ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,toatuqjeq₁,,,,
 hadego,,,2,,,,,,linguistics,,,,,,,,,,,,,, ,,,"➊ is a semantic grammar of language ➋, a set of rules for extracting meaning from the meaningful expressions of that language.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 vuwuto,,,1,,,,,,linguistics,,,,,,,,,,,,,, ,,,➊ is a written language.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kaıtoaq₁,,,,
@@ -722,7 +722,7 @@ niwiku,,,1,,,,,,deixis,,,,,,,,,,,,,, ,,,"➊ belongs to our current domain of di
 gikalo,,,1,,,,,,deixis,,,,,,,,,,,,,, ,,,➊ has a certain property (known to the speaker).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,hao₁ ∈predicate,,,e me gi ∈VI,
 bebofi,,,1,,,,,,deixis,,,,,,,,,,,,,, ,,,➊ has you-know-which property (whose identity is clear from context to both me and you).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nu₁ ∈predicate,,,,
 dagufu,,,1,,,,,,deixis,,,,,,,,,,,,,, ,,,➊ is His/Her/Their Highness/Majesty.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,neoqsoq₁,,,,
-zewubo,,,1,,,,,,deixis,,,,,,,,,,,,,, ,,,"➊ is here, this place where I am when communicating this message (a relatively small area of indeterminate boundaries within which I am when saying this very word)..",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nıgoa₁; nırıaq₁,,,,
+zewubo,,,1,,,,,,deixis,,,,,,,,,,,,,, ,,,"➊ is here, this place where I am when communicating this message (a relatively small area of indeterminate boundaries within which I am when saying this very word)..",,, ,,,,,,,here ∈ADV,,यहाँ₁ ∈AV,,,,,,,,,,,,,,,,,,,,,,,,,nıgoa₁; nırıaq₁,,,,
 yasetu,,,1,,,,,,deixis,,,,,,,,,,,,,, ,,,"➊ is in our universe of discourse, among the things relevant to our communication.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 hefura,,,1,,,,,,deixis,,,,,,,,,,,,,, ,,,➊ is near from me and you.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 rigore,,,1,,,,,,deixis,,,,,,,,,,,,,, ,,,➊ is near from me.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -759,7 +759,7 @@ hemipi,,,1,1,,,,,deixis discourse_participants,,,,,,,,,,,,,, ,,,I have property 
 yadalu,,,1,,,,,,deixis discourse_participants,,,,,,,,,,,,,, ,,,➊ are you who are several.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,súna₁ ∈pronoun,,,,
 foqaqi,,,2,,,,,,deixis discourse_participants,,,,,,,,,,,,,, ,,,➊ is in relation ➋ with me.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gojı₁,,,,
 ritasu,,,2,,,,,,deixis discourse_participants,,,,,,,,,,,,,, ,,,➊ is in relation ➋ with you.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gosuq₁,,,,
-lukayu,a,,1,,,c,,,deixis discourse_participants,,,,,,,,,,,,,, ,我 私,,"➊ is me; ➊ is or are the ones performing this speech act, the speaker(s) of this utterance.",,, ,,,,,,,I ∈S_PRO; me ∈OBL_PRO,我₁ ∈N,,yo ∈SubjPro,,,je ∈PRO,,,,,,,,,,,,,,,,,,mi ∈PRO; mibypre,mi ∈PRO,mi ∈PRO·cmavo; mibypre ∈V·lujvo,jí₁ ∈pronoun,,ni ∈PRO,mi ∈VI,ní
+lukayu,a,,1,,,c,,,deixis discourse_participants,,,,,,,,,,,,,, ,我 私,,"➊ is me; ➊ is or are the ones performing this speech act, the speaker(s) of this utterance.",,, ,,,,,,,I ∈S_PRO; me ∈OBL_PRO,我₁ ∈N,में ∈Pro,yo ∈SubjPro,,,je ∈PRO,,,,,,,,,,,,,,,,,,mi ∈PRO; mibypre,mi ∈PRO,mi ∈PRO·cmavo; mibypre ∈V·lujvo,jí₁ ∈pronoun,,ni ∈PRO,mi ∈VI,ní
 yilawu,a,,1,,,c,,,deixis discourse_participants,,,,,,,,,,,,,, ,你,,"➊ is or are you, the intended addressee(s) of this speech act, of this utterance.",,, ,,,,,,,you₁ ∈PRO,,,,,,,,,,,,,,,,,,,,,,,,do ∈PRO; doipre,tu ∈PRO,do ∈PRO·cmavo,,,vo ∈PRO,mo ∈VI,kí
 qumuse,,,1,,,,,,deixis discourse_participants,,,,,,,,,,,,,, ,,,"➊ is us (me and the related others, excluding you).",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,mi’a ∈PRO,,mi'a ∈PRO·cmavo,jıhao₁; íme₁ ∈pronoun,,,,
 teleyo,a,,1,,,,,,deixis discourse_participants,,,,,,,,,,,,,, ,,,➊ is us (the speaker and the addressee(s)).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,mi’o ∈PRO,,mi'o ∈PRO·cmavo,úmo₁ ∈pronoun,,,,ŋkí
@@ -826,7 +826,7 @@ qehuyi,,,1,,,,,,aspect,,,,,,,,,,,,,, ,,,➊ has taken place a short time ago.,�
 joveyo,,,1,0,,,,,aspect,,,,,,,,,,,,,, ,,,"➊ is about to be the case, is on the verge of being the case.",near prospective aspect,, ,,,,,,,,將₂,,,,,,,,,,,,,,,,,,,,,,,pu’ozi ∈ASP,,,luıgıqjuı₁,,,,
 covadi,,,1,,,,,,aspect,,,,,,,,,,,,,, ,,,➊ is already the case.,,, ,,,,,,,,已₁,,,,,,,,,,,,,,,,,,,,,,,,,,haı₁ ∈aspect,,,,
 kuyoni,,,1,0,,,,,aspect,,,,,,,,,,,,,, ,,,"➊ is going to happen, the current situation will unfold into it happening of no external force prevents it.",prospective aspect,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pu’o ∈ASP,,pu'o ∈ASP·cmavo,,,,,
-zuyufa,,,1,c,,,,,aspect,,,,,,,,,,,,,, ,,,"➊ is ongoing, in the middle of taking place; it is a process a nonfinal stage of which is taking place (without implying that the process will actually complete).",progressive aspect,, ,,,,,,,,着₁ ∈ASP,,,,,,,,,,,,,,,,,,,,,,,ca’o ∈ASP,,ca'o ∈ASP·cmavo,chum₁ ∈aspect,,,,
+zuyufa,,,1,c,,,,,aspect,,,,,,,,,,,,,, ,,,"➊ is ongoing, in the middle of taking place; it is a process a nonfinal stage of which is taking place (without implying that the process will actually complete).",progressive aspect,, ,,,,,,,-ing₂ ∈Suffix·V→Ptcp; ongoing₁ ∈AN,着₁ ∈ASP,रह-₁ ∈V,,,,,,,,,,,,,,,,,,,,,,ca’o ∈ASP,,ca'o ∈ASP·cmavo,chum₁ ∈aspect,,,,
 citiku,,,1,0,,c,,,aspect,,,,,,,,,,,,,, ,,,➊ is repeatedly the case.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 tojiha,a,,1,,,,,,aspect,,,,,,,,,,,,,, ,,,➊ is still the case.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,za’o ∈ASP,,za'o ∈ASP·cmavo,hoaı₁ ∈aspect,,,,
 rakupo,,,1,,,,,,aspect,,,,,,,,,,,,,, ,,,➊ is the case only then (later than expected).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,haıgıq₁,,,,
@@ -1186,7 +1186,7 @@ vatuli,,,3,,,,,,amount statistical_evaluation with_greatness_property median_bas
 miziso,,,3,,,,,,amount statistical_evaluation with_greatness_property median_based,,,,,,,,,,,,,, ,,,"➊, relatively to the median among population ➋, has property ➌ to a very small extent.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 habaqe,,,3,,,,,,amount statistical_evaluation with_greatness_property median_based adjectival_amount,,,,,,,,,,,,,, ,,,"➊, relatively to the median among ➋, has property ➌ to a great extent.", the former being one of them.,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 fukeka,,,3,,,,,,amount statistical_evaluation with_greatness_property median_based adjectival_amount,,,,,,,,,,,,,, ,,,"➊, relatively to the median among ➋, has property ➌ to a small extent.", the former being one of them.,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-soturu,,,3,,,,,,amount statistical_evaluation with_greatness_property median_based adjectival_amount,,,,,,,,,,,,,, ,,,"➊, relatively to the median among ➋, has property ➌ to a very great extent.", the former being one of them.,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+soturu,,,3,,,,,,amount statistical_evaluation with_greatness_property median_based adjectival_amount,,,,,,,,,,,,,, ,,,"➊, relatively to the median among ➋, has property ➌ to a very great extent.", the former being one of them.,, ,,,,,,,very ∈AM,,बड़ा₁ ∈AM; बहुत₄ ∈AV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 guheto,,,3,,,,,,amount statistical_evaluation with_greatness_property median_based adjectival_amount,,,,,,,,,,,,,, ,,,"➊, relatively to the median among ➋, has property ➌ to a very small extent.", the former being one of them.,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 luzazu,,,3,,,,,,amount statistical_evaluation with_greatness_property median_based adjectival_amount,,,,,,,,,,,,,, ,,,"➊, relatively to the median among ➋, has property ➌ to an average extent.", the former being one of them.,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 doneca,,,3,,,,,,amount statistical_evaluation with_greatness_property standard_deviation_based,,,,,,,,,,,,,, ,,,"➊, relatively to the mean among ➋, has property ➌ to a great extent (≥ 1 standard deviation).",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1327,11 +1327,11 @@ hibiya,,,1,,,,,,substance,,,,,,,,,,,,,, ,🧬,,➊ is DNA.,,, ,,,,,,,,,,,,,ADN�
 ficopu,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is RNA.,,, ,,,,,,,,,,,,,ARN₁ ∈N·M,,,,,,,,,,,,,,,,,,,,,shımıedaosaı₁,,,,
 vopuri,,,1,s,,,,,substance,,,,,,,,,,,,,, ,,,➊ is a medicine (substance).,,, ,,,,,,,,,,,,,médicament ∈N·M,,,,,,,,,,,,,,,,,,,,,goısaı₁,,,,
 nadude,,,2,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is a substance or unbounded repetition of the pattern of satisfying property ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-zawefe,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is air.,,, ,,,,,,,air ∈NU,,,,,,air₁ ∈N·M,,,,,,,,,,,,,,hava ∈N,,,,,,,rıo₁ ∈predicate,,,,θwé
+zawefe,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is air.,,, ,,,,,,,air ∈N·U,,,,,,air₁ ∈N·M,,,,,,,,,,,,,,hava ∈N,,,,,,,rıo₁ ∈predicate,,,,θwé
 gomadu,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is alcohol.,,, ,,,,,,,alcohol ∈N·U,,,,,,alcool₁ ∈N·M,,,,,,,,,,,,,,alkol ∈N,,,,,,,bıaonao₁; hoaqnao₁,,,,
 jepigi,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is amber (fossil resin).,,, ,,,,,,,amber ∈N·U,,,,,,ambre ∈N·M,,,,,,,,,,,,,,,,,,,,,nıusıaıpıo₁,,,,
 qazeya,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is anise/aniseed/anix.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-zonoba,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is beeswax.,,,,,,,,,,beeswax ∈N·U,蜂蠟 ∈N; 蜜蠟 ∈N,मधुमोम ∈NM; मोम ∈NM,cera de abeja ∈N·F,,,cire d’abeille ∈N·F,,,,,,,,Bienenwachs ∈N·N,,,,蜜蠟 ∈N,,balmumu ∈N,,,,,,,apıpaku₁,,,,
+zonoba,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is beeswax.,,,,,,,,,,beeswax ∈N·U,蜂蠟 ∈N; 蜜蠟 ∈N,मधुमोम ∈N·M; मोम ∈N·M,cera de abeja ∈N·F,,,cire d’abeille ∈N·F,,,,,,,,Bienenwachs ∈N·N,,,,蜜蠟 ∈N,,balmumu ∈N,,,,,,,apıpaku₁,,,,
 tamoya,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is bone (material).,,, ,,,,,,,,骨質 ∈N; 骨頭 ∈N,,hueso₂ ∈N·M,,,os₂ ∈N·M,lilin lebah ∈N; malam ∈N,,,,,,mfupa₂ ∈N·C3,,,,,,,kemik₂ ∈N,hezur₂ ∈N,,,,,,,,,,
 cipiqa,,,1,,,,,,substance,,,,,,,,,,,,,,,,,➊ is cardboard.,,,,,,,,,,cardboard ∈NU,,,,,,carton ∈N·M·U,,,,,,,,,,,,,,karton ∈N; mukavva ∈N,,,,,,,,,,,
 narode,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is cement.,,, ,,,,,,,cement ∈NU,,,,,,ciment ∈N·M,,,,,,,,,,,,,,çimento ∈N,,,,,,,cemeq₁; pıocoesaı₁,,,,
@@ -1363,7 +1363,7 @@ wekawo,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is rubber.,,, ,,,,,,,rubber ∈NU
 tebivi,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is rust (from any metal).,,, ,,,,,,,rust ∈NU,,,,,,rouille ∈N·F,,,,,,,,,,,,,,pas ∈N,,,,,,,gupuloha₁,,,,
 mucume,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is sap.,,, ,,,,,,,sap ∈N·U,,,,,,sève ∈N·F,,,,,,,,,,,,,,özsu ∈N,,,,,,,nıusıaı₁,,,,
 selala,,,1,,,,,substance,substance,,,,,,,,,,,,,,,,,➊ is seawater.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,xasyjau ∈V·lujvo,,,,,
-seliwa,,,1,,,,,substance,substance,,,,,,,,,,,,,, ,,,➊ is water (in any physical state).,,, ,,,,,,,water ∈N·U,水₁ ∈N,पानी ∈NM,agua ∈N·M,مَاء ∈NM,জল ∈N; পানি ∈N; বারি ∈N,eau ∈N·F,air ∈N,água ∈NF,вода́ ∈NF,,,,maji ∈N·C6,Wasser ∈N·N,,,,水₁ ∈N,tubig,su ∈N,ur ∈N·WeakR,,,djacu,,djacu ∈V·gismu,nao₁ ∈predicate,,,jeon ∈VI,ʎı̋
+seliwa,,,1,,,,,substance,substance,,,,,,,,,,,,,, ,,,➊ is water (in any physical state).,,, ,,,,,,,water ∈N·U,水₁ ∈N,पानी ∈N·M,agua ∈N·M,مَاء ∈NM,জল ∈N; পানি ∈N; বারি ∈N,eau ∈N·F,air ∈N,água ∈NF,вода́ ∈NF,,,,maji ∈N·C6,Wasser ∈N·N,,,,水₁ ∈N,tubig,su ∈N,ur ∈N·WeakR,,,djacu,,djacu ∈V·gismu,nao₁ ∈predicate,,,jeon ∈VI,ʎı̋
 wapube,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is wax.,,, ,,,,,,,wax ∈N·U,,,,,,cire ∈N·F,,,,,,,,,,,,,,mum ∈N,,,,,,,paku₁,,,,
 nenoda,,,1,,,,,,substance beverage alcoholic_beverage,,,,,,,,,,,,,, ,,,➊ is wine (an alcoholic beverage made by fermenting the juice of grapes).,,, ,,,,,,,wine ∈NU,,,,,,vin ∈N·M,,,,,,,,,,,,,,şarap ∈N,,,,,,,,,,,
 virana,,,1,,,,,,substance chemical_element,,,,,,,,,,,,,, ,,,"➊ is aluminium (matter made of atoms of that element, with no or negligible amount of impurities).",,, ,,,,,,,aluminium ∈N·U,,,,,,aluminium ∈N·M,,,,,,,,,,,,,,,,,,,,,pıoloha₁; tanoloha₁,,,,
@@ -1403,7 +1403,7 @@ zucaco,,,1,,,,,,substance chemical_element,,,,,,,,,,,,,, ,,,"➊ is silver (matt
 lejufi,,,1,,,,,,substance chemical_element,,,,,,,,,,,,,, ,,,"➊ is sodium (matter made of atoms of that element, with no or negligible amount of impurities).",,, ,,,,,,,sodium ∈NU,,,,,,,,,,,,,,,,,,,,sodyum ∈N,,,,,,sodnysodna ∈V·lujvo,,,,,
 bidevo,,,1,,,,,,substance chemical_element,,,,,,,,,,,,,, ,,,"➊ is sulfur (matter made of atoms of that element, with no or negligible amount of impurities).",,, ,,,,,,,sulfur ∈NU,,,,,,,,,,,,,,,,,,,,kükürt ∈N,,,,,,,,,,,
 darome,,,1,,,,,,substance chemical_element,,,,,,,,,,,,,, ,,,"➊ is titanium (matter made of atoms of that element, with no or negligible amount of impurities).",,, ,,,,,,,titanium ∈NU,,,,,,,,,,,,,,,,,,,,titanyum ∈N,,,,jinmrtitani ∈VI,,jinmrtitani ∈VI·fu'ivla,taıtenıam₁; tıtanıum₁,,,,
-cebate,,,1,,,,,,substance chemical_element,,,,,,,,,,,,,, ,,,"➊ is vanadium (matter made of atoms of that element, with no or negligible amount of impurities).",,, ,,,,,,,vanadium ∈NU,,,,,,,,,,,,,,,,,,,,vanadyum ∈N,,,,,,,,,,,
+cebate,,,1,,,,,,substance chemical_element,,,,,,,,,,,,,, ,,,"➊ is vanadium (matter made of atoms of that element, with no or negligible amount of impurities).",,, ,,,,,,,vanadium ∈N·U,,,,,,,,,,,,,,,,,,,,vanadyum ∈N,,,,,,,,,,,
 socuqi,,,1,,,,,,substance chemical_element,,,,,,,,,,,,,, ,,,"➊ is zinc (matter made of atoms of that element, with no or negligible amount of impurities).",,, ,,,,,,,zinc ∈NU,,,,,,,,,,,,,,,,,,,,çinko ∈N,,,,,,,,,,,
 getika,,,1,,,,,,substance mineral,,,,,,,,,,,,,,,,,➊ is granite.,,, ,,,,,,,granite ∈NU,,,,,,granite ∈N·M,,,,,,,,,,,,,,granit ∈N,,,,,,,,,,,
 napufe,,,1,,,,,,substance secretion,,,,,,,,,,,,,, ,,,➊ is bile.,,, ,,,,,,,bile ∈NU; gall ∈NU,,,,,,,,,,,,,,,,,,,,safra ∈N; öd ∈N,,,,,,,gelı₁; rıqnao₁,,,,
@@ -1414,13 +1414,13 @@ diqece,,,1,,,,,,substance secretion,,,,,,,,,,,,,, ,,,➊ is mucus.,,, ,,,,,,,muc
 vikepa,,,1,,,,,,substance secretion,,,,,,,,,,,,,, ,,,➊ is nasal mucus.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 gekoto,,,1,,,,,,substance secretion,,,,,,,,,,,,,, ,,,➊ is saliva.,,, ,,,,,,,saliva ∈NU,,,,,,,,,,,,,,,,,,,,salya ∈N; tükürük ∈N,,,,,,,buqnao₁,,,,
 rujuji,,,1,,,,,,substance secretion,,,,,,,,,,,,,, ,,,➊ is tear (substance).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-qigiwu,,,1,,,,,,substance secretion,,,,,,,,,,,,,, ,,,➊ is urine.,,, ,,,,,,,pee ∈NU; piss ∈NU; urine ∈NU,,,,,,,,,,,,,,,,,,,,idrar ∈N; çiş ∈N,,,,,,,pı₁ ∈predicate,,,,łı̋ʼ
+qigiwu,,,1,,,,,,substance secretion,,,,,,,,,,,,,, ,,,➊ is urine.,,, ,,,,,,,pee ∈NU; piss ∈NU; urine ∈N·U,,,,,,,,,,,,,,,,,,,,idrar ∈N; çiş ∈N,,,,,,,pı₁ ∈predicate,,,,łı̋ʼ
 peqivo,,,1,,,,,,material,,,,,,,,,,,,,, ,,,➊ is cotton (material).,,, ,,,,,,,cotton ∈NU,,,,,,,,,,,,,,,,,,,,pamuk ∈N,,,,mapni ∈VI,,mapni ∈VI·gismu,kapasasaı₁; kapasaı₁,,,,
 cicuva,,,1,,,,,,material,,,,,,,,,,,,,, ,,,➊ is sand.,,, ,,,,,,,sand ∈N·U,,,,,,,,,,,,,,,,,,,,kum ∈N,,,,canre ∈VI,,canre ∈VI·gismu,neaq₁,,,,šác
 lirihe,,,1,,,,,,material,,,,,,,,,,,,,, ,,,➊ is silk.,,, ,,,,,,,silk ∈NU,,,,,,,,,,,,,,,,,,,,ipek ∈N,,,,,,,sırı₁,,,,
 ladata,,,1,,,,,,material,,,,,,,,,,,,,, ,,,➊ is snow.,,, ,,,,,,,snow ∈NU,,,,,,,,,,,,,,,,,,,,kar ∈N,,,,snime ∈VI,,snime ∈VI·gismu,nıao₁ ∈predicate,,,,cʼáo
 zorace,,,1,,,,,,material,,,,,,,,,,,,,, ,,,➊ is soil.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,toprak ∈N,,,,dertu ∈VI,,dertu ∈VI·gismu,guaqsaı₁,,,pubdel ∈VI,
-vetejo,,,1,,,,,,material,,,,,,,,,,,,,, ,,,➊ is velvet.,,, ,,,,,,,velvet ∈NU,,,,,,,,,,,,,,,,,,,,,,,,,,,hue'o₁; huelo₁,,,,
+vetejo,,,1,,,,,,material,,,,,,,,,,,,,, ,,,➊ is velvet.,,, ,,,,,,,velvet ∈N·U,,,,,,,,,,,,,,,,,,,,,,,,,,,hue'o₁; huelo₁,,,,
 gacafe,,,1,,,,,,material,,,,,,,,,,,,,, ,,,➊ is wool.,,, ,,,,,,,wool ∈NU,,,,,,,,,,,,,,,,,,,,yün ∈N,,,,sunla ∈VI,,sunla ∈VI·gismu,hobıkıaq₁; puaokıaq₁,,,,
 zisawi,,,1,,,,,,material alloy,,,,,,,,,,,,,,,,,➊ is brass.,,,,,,,,,,brass ∈NU,,,,,,laiton ∈N·M,,,,,,,,,,,,,,,,,,lastu ∈VI,,lastu ∈VI·gismu,mesıq₁,,,,
 biyomo,,,1,,,,,,material alloy,,,,,,,,,,,,,,,,,➊ is bronze.,,,,,,,,,,bronze ∈NU,,,,,,bronze ∈N·M,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1572,7 +1572,7 @@ zunime,,,2,,,,,,perception,,,,,,,,,,,,,, ,,,➊ perceives that ➋ is the case.,
 niroju,,,2,,,,,,perception,,,,,,,,,,,,,, ,,,➊ perceives ➋ (qualia) through metacognition.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 yesumu,,,2,,,,,,perception,,,,,,,,,,,,,, ,,,➊ perceives ➋ through echolocation.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,dumvi’a,,,nuoqgaı₁,,,,
 zizopa,,,2,,,,,,perception,,,,,,,,,,,,,, ,,,➊ sees light ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-zapiyo,,,2,,,,,,perception,,,,,,,,,,,,,, ,,,➊ sees source of visual stimulus ➋ (physical entity).,,, ,,,,,,,see₁ ∈V·DO,,,ver₁ ∈V·DO,,,voir₁ ∈V·DO,,,,,,,,,,,,,,,ikusi₁ ∈PtcpT,,,,,viska ∈V·gismu,,,vit ∈VT,viru ∈VT,cál
+zapiyo,,,2,,,,,,perception,,,,,,,,,,,,,, ,,,➊ sees source of visual stimulus ➋ (physical entity).,,, ,,,,,,,see₁ ∈V·DO,,देख- ∈V,ver₁ ∈V·DO,,,voir₁ ∈V·DO,,,,,,,,,,,,,,,ikusi₁ ∈PtcpT,,,,,viska ∈V·gismu,,,vit ∈VT,viru ∈VT,cál
 kiwonu,,,2,,,,,,perception,,,,,,,,,,,,,, ,,,➊ sees that ➋ is the case; ➊ gets information ➋ (proposition) from their/his/her/its current visual perception.,,, ,,,,,,,see₃ ∈V·DO,,,,,,,,,,,,,,,,,,,,,,,,,,dumvi'a ∈V·lujvo,kaqlagaı₁,,,,
 hivese,,,1,,,,,,perception,,,,,,,,,,,,,, ,,,➊ sees the red color.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kıalıe₁,,,,
 didana,,,3,,,,,,perception,,,,,,,,,,,,,, ,,,➊ sees view ➋ (visual quale) from eye ➌.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2013,7 +2013,7 @@ nedamo,,,1,,,,,,artifact,,,,,sehive,,,,,,,,, ,,,➊ is a bucket.,,, ,,,,,,,bucke
 wogovo,,,1,s,,,,,artifact,,,,,sehive,,,,,,,,, ,,,➊ is a bus stop.,,, ,,,,,,,bus stop ∈N,,,,,,arrêt de bus ∈N·M,,,,,,,,,,,,,,,,,,,,,tuchaoce₁ ∈predicate,,,,
 pujuho,,,1,,,,,,artifact,,,,,sehive,,,,,,,,, ,,,➊ is a button control.,,, ,,,,,,,button₂ ∈N,,,,,,bouton₂ ∈N·M,,,,,,,,,,,,,,düğme ∈N,,,,,,,caqhupapaq₁,,,,
 pegefo,,,1,,,,,,artifact,,,,,sehive,,,,,,,,, ,,,➊ is a cable.,,, ,,,,,,,cable ∈N,,,,,,cable ∈N·M,,,,,,,,,,,,,,kablo ∈N,,,,,,,lohamechuoı₁,,,,
-mobupa,,,1,,,,,,artifact,,,,,sehive,,,,,,,,,,,,➊ is a candle.,,,,,,,,,,candle ∈N,蠟燭 ∈N,मोमबत्ती ∈NF; शमा ∈NF,candela ∈N·F; vela ∈N·F,,,bougie ∈N·F,lilin ∈N,,,,,,mshumaa ∈N·C3,Kerze ∈N·F,,,,蝋燭 ∈N,,mum ∈N,,,,,,,,,,,
+mobupa,,,1,,,,,,artifact,,,,,sehive,,,,,,,,,,,,➊ is a candle.,,,,,,,,,,candle ∈N,蠟燭 ∈N,मोमबत्ती ∈N·F; शमा ∈N·F,candela ∈N·F; vela ∈N·F,,,bougie ∈N·F,lilin ∈N,,,,,,mshumaa ∈N·C3,Kerze ∈N·F,,,,蝋燭 ∈N,,mum ∈N,,,,,,,,,,,
 teruki,,,1,,,,,,artifact,,,,,sehive,,,,,,,,, ,,,➊ is a card.,,, ,,,,,,,card ∈N,,,,,,carte₂ ∈N·F·C,,,,,,,,,,,,,,kart ∈N,,,,karda ∈VI,,karda ∈VI·gismu,kata₁,,,,
 tikamu,,,1,,,,,,artifact,,,,,sehive,,,,,,,,, ,,,➊ is a casserole.,,, ,,,,,,,casserole ∈N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 foqale,,,1,,,,,,artifact,,,,,sehive,,,,,,,,, ,,,"➊ is a chain, a linear series of interconnected rings or links.",,, ,,,,,,,chain₁ ∈N,,,,,,chaine₁ ∈N·F·C,,,,,,,,,,,,,,zincir ∈N,,,,,,,cırı₁; toeqchuoı₁; tıoqchue₁,,,,
@@ -2150,23 +2150,23 @@ wowube,,,1,s,,,,,artifact container,,,,,"sehive, mipihu",,,,,,,,, ,,,➊ is a wa
 yivubu,,,1,s,,,,,artifact dwelling,,,,,sehive,,,,,,,,, ,,,➊ is a teepee.,,, ,,,,,,,teepee ∈N,,,,,,tipi ∈N·M,,,,,,,,,,,,,,,,,,,,,,,,,
 fuyaki,,,1,s,,,,,artifact dwelling,,,,,sehive,"yifune, yivubu",,,,,,,, ,,,➊ is a tent.,,, ,,,,,,,tent ∈N,,,,,,tente ∈N·F,,,,,,,,,,,,,,çadır ∈N,,,,,,,boejıo₁,,,,
 yifune,,,1,s,,,,,artifact dwelling,,,,,sehive,,,,,,,,, ,,,➊ is a yurt.,,, ,,,,,,,yurt ∈N,,,,,,yourte ∈N·F,,,,,,,,,,,,,,yurt ∈N,,,,,,,,,,,
-dufiqa,,,1,s,,,,,artifact furniture,,,,,sehive,,,,,,,,, ,,,➊ is a bed (item of furniture).,,, ,Q42177,,,,,,bed₁ ∈N,床 ∈N,पलंग ∈NM; बिस्तर ∈NM,cama ∈N·F; lecho ∈N·M,,পালং ∈N; বিছানা ∈N,couche ∈N·F; lit ∈N·M,ranjang ∈N; tempat tidur ∈N,cama ∈NF; leito ∈NM,,,,gado ∈NM,kitanda ∈N·C7,Bett ∈N·N,,,పక్క ∈N,ベッド₁ ∈N; 寝床₁ ∈N,higaan; kama,yatak ∈N,ohe ∈N,lito ∈N,,ckana ∈VI,,ckana ∈VI·gismu,nuofua₁ ∈predicate,,,tsir ∈VI,
+dufiqa,,,1,s,,,,,artifact furniture,,,,,sehive,,,,,,,,, ,,,➊ is a bed (item of furniture).,,, ,Q42177,,,,,,bed₁ ∈N,床 ∈N,पलंग ∈N·M; बिस्तर ∈N·M,cama ∈N·F; lecho ∈N·M,,পালং ∈N; বিছানা ∈N,couche ∈N·F; lit ∈N·M,ranjang ∈N; tempat tidur ∈N,cama ∈NF; leito ∈NM,,,,gado ∈NM,kitanda ∈N·C7,Bett ∈N·N,,,పక్క ∈N,ベッド₁ ∈N; 寝床₁ ∈N,higaan; kama,yatak ∈N,ohe ∈N,lito ∈N,,ckana ∈VI,,ckana ∈VI·gismu,nuofua₁ ∈predicate,,,tsir ∈VI,
 mejoqu,,,1,s,,,,,artifact furniture,,,,,sehive,,,,,,,,, ,,,➊ is a bench.,,, ,,,,,,,bench ∈N,,,,,,banc ∈N·M,,,,,,,,,,,,,,bank ∈N,,,,,,,neatuıfua₁; tuıtoq₁ ∈predicate,,,,
-zunoko,,,1,s,,,,,artifact furniture,,,,,sehive,,,,,,,,, ,,,"➊ is a chair, a seat.",,,,,,,,,,chair ∈N,,आसंद ∈NM; कुरसी ∈NF,asiento ∈N·M; silla ∈N·F,,,chaise ∈N,kursi ∈N,cadeira ∈NF,,,,,kiti ∈N·C7,Stuhl ∈N·M,,,,椅子₁ ∈N,silya; upuan,iskemle ∈N; koltuk ∈N; sandalye ∈N,aulki ∈N; katedra ∈N,seĝo ∈N,,stizu,,stizu ∈V·gismu,tuıfua₁ ∈predicate,,,,stíncʰwao
+zunoko,,,1,s,,,,,artifact furniture,,,,,sehive,,,,,,,,, ,,,"➊ is a chair, a seat.",,,,,,,,,,chair ∈N,,आसंद ∈N·M; कुरसी ∈N·F,asiento ∈N·M; silla ∈N·F,,,chaise ∈N,kursi ∈N,cadeira ∈NF,,,,,kiti ∈N·C7,Stuhl ∈N·M,,,,椅子₁ ∈N,silya; upuan,iskemle ∈N; koltuk ∈N; sandalye ∈N,aulki ∈N; katedra ∈N,seĝo ∈N,,stizu,,stizu ∈V·gismu,tuıfua₁ ∈predicate,,,,stíncʰwao
 zayeqa,,,1,s,,,,,artifact furniture,,,,,sehive,,,,,,,,, ,,,➊ is a hammock.,,,,,,,,,,hammock ∈N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 wogahi,,,1,s,,,,,artifact furniture,,,,,sehive,,,,,,,,, ,,,"➊ is a love seat, a two-person sofa.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gusofa₁,,,,
 higefo,,,1,s,,,,,artifact furniture,,,,,sehive,,,,,,,,, ,,,➊ is a pouf seat.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 poyemi,,,1,s,,,,,artifact furniture,,,,,sehive,,,,,,,,, ,,,➊ is a sectional sofa.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,mesofa₁,,,,
 giroye,,,1,s,,,,,artifact furniture,,,,,sehive,,,,,,,,, ,,,➊ is a sofa.,,, ,,,,,,,sofa ∈N,,,,,,canapé ∈N·M,,,,,,,,,,,,,,,,,,sfofa,,sfofa ∈V·gismu,sofa₁,,,,
-tagowu,,,1,s,,,,,artifact furniture,,,,,sehive,,,,,,,,, ,,,➊ is a stove (heater).,,,,,,,,,,stove ∈N,火爐 ∈N; 爐 ∈N,चूल्हा ∈NM,calentador ∈N·M; estufa ∈N·F,,,poêle ∈N·M·C,kompor ∈N; tungku ∈N,,пе́чка ∈NF; печь ∈NF,,,,,Ofen ∈N·M,,,,ストーブ₁ ∈N; 暖炉₁ ∈N,katan,soba ∈N,estufa ∈N,stovo ∈N,,,,,hoalo₁,,,,
-yohaye,,,1,s,,,,,artifact furniture,,,,,sehive,,,,,,,,, ,,,➊ is a table.,,, ,,,,,,,table₁ ∈N,桌子 ∈N,मेज़ ∈NF,meza ∈N·F,,,table ∈N·F,meja ∈N,mesa ∈NF,стол ∈NM,,,,meza ∈N·C9,Tisch ∈N·M,,,బల్ల ∈N; మేజా ∈N,テーブル₁ ∈N; 机₁ ∈N,mesa,masa ∈N,mahai ∈N,tablo ∈N,,jubme ∈VI,,jubme ∈VI·gismu,toqfua₁ ∈predicate,,,kcaor ∈VI,
+tagowu,,,1,s,,,,,artifact furniture,,,,,sehive,,,,,,,,, ,,,➊ is a stove (heater).,,,,,,,,,,stove ∈N,火爐 ∈N; 爐 ∈N,चूल्हा ∈N·M,calentador ∈N·M; estufa ∈N·F,,,poêle ∈N·M·C,kompor ∈N; tungku ∈N,,пе́чка ∈NF; печь ∈NF,,,,,Ofen ∈N·M,,,,ストーブ₁ ∈N; 暖炉₁ ∈N,katan,soba ∈N,estufa ∈N,stovo ∈N,,,,,hoalo₁,,,,
+yohaye,,,1,s,,,,,artifact furniture,,,,,sehive,,,,,,,,, ,,,➊ is a table.,,, ,,,,,,,table₁ ∈N,桌子 ∈N,मेज़ ∈N·F,meza ∈N·F,,,table ∈N·F,meja ∈N,mesa ∈NF,стол ∈NM,,,,meza ∈N·C9,Tisch ∈N·M,,,బల్ల ∈N; మేజా ∈N,テーブル₁ ∈N; 机₁ ∈N,mesa,masa ∈N,mahai ∈N,tablo ∈N,,jubme ∈VI,,jubme ∈VI·gismu,toqfua₁ ∈predicate,,,kcaor ∈VI,
 ribuda,,,1,s,,,,,artifact furniture,,,,,sehive,,,,,,,,, ,,,"➊ is a wood-burner, a wood stove.",,, ,,,,,,,,,,,,,poêle à bois ∈N·M·C,,,,,,,,,,,,,,,,,,,,,loefua₁,,,,
 zonela,,,1,s,,,,,artifact machine,,,,,"sehive, zabuqo",,,,,,,,, ,,,"➊ is a cellphone, a mobile phone (wireless phone).",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nuıfoq₁; ꝡemuoıhajıaıhoa₁,,,,
 sogofa,,,1,s,,,,,artifact machine,,,,,"sehive, zabuqo",,,,,,,,, ,,,➊ is a chainsaw.,,, ,,,,,,,chainsaw ∈N,,,,,,tronçonneuse ∈N·F,,,,,,,,,,,,,,,,,,,,,toechuekea₁; toecırıkea₁,,,,
 wicijo,,,1,s,,,,,artifact machine,,,,,"sehive, zabuqo",,,,,,,,, ,,,➊ is a chronometer.,,,,,,,,,,chronometer ∈N,,,,,,chronomètre ∈N·M,,,,,,,,,,,,,,,,,,,,,,,,e skan sonul ∈VI,
 birila,,,1,s,,,,,artifact machine,,,,,"sehive, zabuqo",,,,,,,,, ,,,➊ is a clock or watch.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,saat ∈N,,,,,,,,,,e jero sonul ∈VI,
 busizu,,,1,s,,,,,artifact machine,,,,,"sehive, zabuqo",,,,,,,,, ,,,➊ is a clock.,,, ,,,,,,,clock ∈N,,,,,,,,,,,,,,,,,,,,saat ∈N,,,,,,,daqkea₁ ∈predicate,,,,
-futeyu,,,1,s,,,,,artifact machine,,,,,"sehive, zabuqo",,,,,,,,, ,,,➊ is a computer.,,, ,,,,,,,computer ∈N,電腦 ∈N,कंप्यूटर ∈NM; संगणक ∈NM,,,,ordinateur ∈N·M,komputer ∈N,,,,,,kompyuta ∈N·C9; tarakilishi ∈N·C9,Computer ∈N·M; Rechner ∈N·M,,,కంప్యూటర్ ∈N; గణనయంత్రం ∈N,コンピュータ₁ ∈N; 電脳 ∈N,,bilgisayar ∈N,ordenagailu ∈N,komputilo ∈N,,skami ∈VI,,skami ∈VI·gismu,jıoqkea₁ ∈predicate; koqpıuta₁,,,skal ∈VI,
+futeyu,,,1,s,,,,,artifact machine,,,,,"sehive, zabuqo",,,,,,,,, ,,,➊ is a computer.,,, ,,,,,,,computer ∈N,電腦 ∈N,कंप्यूटर ∈N·M; संगणक ∈N·M,,,,ordinateur ∈N·M,komputer ∈N,,,,,,kompyuta ∈N·C9; tarakilishi ∈N·C9,Computer ∈N·M; Rechner ∈N·M,,,కంప్యూటర్ ∈N; గణనయంత్రం ∈N,コンピュータ₁ ∈N; 電脳 ∈N,,bilgisayar ∈N,ordenagailu ∈N,komputilo ∈N,,skami ∈VI,,skami ∈VI·gismu,jıoqkea₁ ∈predicate; koqpıuta₁,,,skal ∈VI,
 suhifu,,,1,s,,,,,artifact machine,,,,,"sehive, zabuqo",,,,,,,,, ,,,"➊ is a fan, a ventilator.",,,,,,,,,,fan ∈N·C; ventilator ∈N,,,,,,ventilateur ∈N·M,,,,,,,,,,,,,,ventilatör ∈N,,,,,,,,,,,
 segeco,,,1,s,,,,,artifact machine,,,,,"sehive, zabuqo",,,,,,,,, ,,,➊ is a film camera.,,, ,,,,,,,,,,,,,caméra ∈N·F,,,,,,,,,,,,,,,,,,,,,kaqgaıkea₁; kıqkea₁,,,,
 cezibi,,,1,s,,,,,artifact machine,,,,,"sehive, zabuqo",,,,,,,,, ,,,➊ is a freezer.,,, ,,,,,,,freezer ∈N,,,,,,congélateur ∈N·M,,,,,,,,,,,,,,dondurucu ∈N,,,,,,,chuaıkea₁ ∈predicate,,,,
@@ -2589,7 +2589,7 @@ kahozi,,,1,,,,,,body_part,,,,,rupiwa howice,,,,,,,,, ,,,➊ is a hair growing on
 sereki,,,1,,,,,,body_part,,,,,rupiwa,,,,,,,,, ,,,➊ is a hand knuckle.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 zinifi,,,1,,,,,,body_part,,,,,rupiwa,,,,,,,,, ,,,➊ is a hand palm or foot sole.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,dapa₁; palaq₁,,,,
 legota,,,1,,,,,,body_part,,,,,rupiwa,,,,,,,,, ,,,➊ is a hand palm.,,, ,,,,,,,,,,,,,paume ∈N·F,,,,,,,,,,,,,,avuç ∈N; ay ∈N,,,,xanbe’u; xanyni’a,,xanbe'u ∈V·lujvo; <{ruruni} xanyni'a ∈V·lujvo,muqdapa₁,,,,
-tehihi,,,1,,,,,,body_part,,,,,rupiwa,,,,,,,,, ,,,➊ is a hand.,,, ,,,,,,,hand ∈N·C,,,mano ∈N·F,,,main ∈N·F,,,,,,,,,,,,手₁ ∈N,,el ∈N,esku ∈N,,,,,<{ruruni} xance ∈V·gismu,muq₁ ∈predicate,,,kenen ∈VI,ntáı
+tehihi,,,1,,,,,,body_part,,,,,rupiwa,,,,,,,,, ,,,➊ is a hand.,,, ,,,,,,,hand ∈N·C,,हाथ₁ ∈N·M,mano ∈N·F,,,main ∈N·F,,,,,,,,,,,,手₁ ∈N,,el ∈N,esku ∈N,,,,,<{ruruni} xance ∈V·gismu,muq₁ ∈predicate,,,kenen ∈VI,ntáı
 zejeti,,,1,,,,,,body_part,,,,,rupiwa,,,,,,,,, ,,,➊ is a head (body part).,,, ,,,,,,,head ∈N·C,,,cabeza ∈N·F,,,tête ∈N·F,,,,,,,,,,,,,,baş ∈N; kafa ∈N,buru ∈N,,,,,<{ruruni} stedu ∈V·gismu,joqhua₁ ∈predicate,,,kirun ∈VI,
 maqawo,,,1,,,,,,body_part,,,,,rupiwa,,,,,,,,, ,,,➊ is a hind leg.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zlior ∈VI,qán
 hujoki,,,1,,,,,,body_part,,,,,rupiwa,,,,,,,,, ,,,➊ is a hip or a shoulder.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,shıo₁ ∈predicate,,,,
@@ -2811,11 +2811,11 @@ vikebo,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is a knuckle-walker.,,, ,,,,,,,,,,,
 moyewe,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is a larva (juvenile form preceding metamorphosis into adult form).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,duaq₁ ∈predicate,,,,
 leyahu,,,1,s,,,,,biology,,,,,,,,,,,,,, ,,,➊ is a membrane.,,, ,,,,,,,membrane ∈N·C,,,,,,membrane ∈N·F,,,,,,,,,,,,,,zar ∈N,,,,,,,,,,,
 vozenu,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is a prion (infectious protein).,,, ,,,,,,,prion ∈N,,,,,,prion ∈N·M,,,,,,,,,,,,,,,,,,,,,,,,,
-dorawo,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is a seed.,,, ,,,,,,,seed₁ ∈N,,बीज ∈NM,semilla ∈N·F; simiente₃ ∈N·F,,,graine ∈N·F,biji₁ ∈N,,,,,,mbegu₁ ∈N·C9,Saat ∈N·F; Samen ∈N·M,,,,種 ∈N,,tane₃ ∈N; tohum ∈N,,,,,,,nıubepoaı₁; nıupoaı₁,,,,yónƛe
+dorawo,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is a seed.,,, ,,,,,,,seed₁ ∈N,,बीज ∈N·M,semilla ∈N·F; simiente₃ ∈N·F,,,graine ∈N·F,biji₁ ∈N,,,,,,mbegu₁ ∈N·C9,Saat ∈N·F; Samen ∈N·M,,,,種 ∈N,,tane₃ ∈N; tohum ∈N,,,,,,,nıubepoaı₁; nıupoaı₁,,,,yónƛe
 wuduvu,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is a spermatozoid.,,, ,,,,,,,spermatozoid ∈N,,,,,,,,,,,,,,,,,,,,,,,,,,,naqpoaı₁,,,,
 puqoqo,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is a viroid.,,, ,,,,,,,viroid ∈N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 vobuzu,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is a vitamin.,,, ,,,,,,,vitamin ∈N,,,,,,,,,,,,,,,,,,,,vitamin ∈N,,,,,,,,,,,
-yogije,,,1,,,,,lf,biology,,,,,,,,,,,,,, ,,,➊ is alive.,,, ,,,,,,,alive ∈AN; live₂ ∈V,活 ∈VI; 生 ∈V·I; 生活 ∈V·I,जीना ∈VI,viviente ∈AN; viv- ∈V·@-ir; vivo ∈AN,حَيّ ∈AN,,vivant ∈AN; vivre ∈V,hidup ∈VI,,жить ∈VI,,,,ishi ∈V,leben ∈VI,,,,暮ら-₁ ∈VI·@-su; 生き-₁ ∈VI·@-iru,,yaşamak ∈V,bizi izan ∈VI,viva ∈AN; vivi ∈VI,,jmive/1 ∈V,,jmive ∈V·gismu,,,,vain ∈VI,cáı
+yogije,,,1,,,,,lf,biology,,,,,,,,,,,,,, ,,,➊ is alive.,,, ,,,,,,,alive ∈AN; live₂ ∈V,活 ∈VI; 生 ∈V·I; 生活 ∈V·I,जी- ∈V·I,viviente ∈AN; viv- ∈V·@-ir; vivo ∈AN,حَيّ ∈AN,,vivant ∈AN; vivre ∈V,hidup ∈VI,,жить ∈VI,,,,ishi ∈V,leben ∈VI,,,,暮ら-₁ ∈VI·@-su; 生き-₁ ∈VI·@-iru,,yaşamak ∈V,bizi izan ∈VI,viva ∈AN; vivi ∈VI,,jmive/1 ∈V,,jmive ∈V·gismu,,,,vain ∈VI,cáı
 fuqilo,,,1,,,,,,biology,,,,,,,,,,,,,, ,🥚 蛋 卵,,➊ is an egg (possibly unfertilized).,,, ,,,,,,,egg ∈N,,,huevo ∈N·M,,,œuf ∈N·M,,,,,,,,Ei ∈N·N,,,,卵₁ ∈N,,,,,,,,,nıaıbepoaı₁; nıaıpoaı₁,,,cahil ∈VI,yó
 libobu,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is an egg cell or a spore.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,betoaı₁,,,,
 bezabu,,,1,,,,,,biology,,,,,,,,,,,,,, ,,,➊ is an egg or a seed (possibly unfertilized).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bepoaı₁,,,,
@@ -3286,7 +3286,7 @@ niroro,,,1,s,,d,,,lifeform animal arthropod crustacean,,,,,"zayuru, ziwayu, heku
 sojiji,,,1,s,,d,,,lifeform animal arthropod insect,,,,,"zayuru, ziwayu, hekuwe, hodezu",,,,,,,,, ,,,➊ is a European hornet (Vespa crabro).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,karasere₁; kenobosa₁; tuaqbosa₁,,,,
 tumiqa,,,1,s,,d,,,lifeform animal arthropod insect,,,,,"zayuru, ziwayu, hekuwe, hodezu",,,,,,,,, ,,,➊ is a bedbug (Cimex genus).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ckacivla ∈V·lujvo,kımı₁,,,,
 vovalo,,,1,s,,d,,,lifeform animal arthropod insect,,,,,"zayuru, ziwayu, hekuwe, hodezu",,,,,,,,, ,,,"➊ is a bee, wasp or hornet (non-ant Apocrita hymenopter).",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bifce ∈VI,,bifce ∈VI·gismu,,,,,
-zayami,,,1,s,,d,,,lifeform animal arthropod insect,,,,,"zayuru, ziwayu, hekuwe, hodezu",,,,,,,,, ,🐝,,➊ is a bee.,,, ,,,,,,,bee ∈N,,मधुमक्खी ∈NF,abeja ∈N·F,,,abeille₁ ∈N·F,lebah ∈N; tawon ∈N,,пчела́ ∈NF,,,,nyuki ∈N·C9,Biene ∈N·F,,,,蜂 ∈N,,arı ∈N,erle ∈N,,,bifcapi,,.apsi ∈V·fu'ivla; rulbifce ∈V·lujvo,apı₁,,,,néš
+zayami,,,1,s,,d,,,lifeform animal arthropod insect,,,,,"zayuru, ziwayu, hekuwe, hodezu",,,,,,,,, ,🐝,,➊ is a bee.,,, ,,,,,,,bee ∈N,,मधुमक्खी ∈N·F,abeja ∈N·F,,,abeille₁ ∈N·F,lebah ∈N; tawon ∈N,,пчела́ ∈NF,,,,nyuki ∈N·C9,Biene ∈N·F,,,,蜂 ∈N,,arı ∈N,erle ∈N,,,bifcapi,,.apsi ∈V·fu'ivla; rulbifce ∈V·lujvo,apı₁,,,,néš
 pagaso,,,1,s,,d,,,lifeform animal arthropod insect,,,,,"zayuru, ziwayu, hekuwe, hodezu",,,,,,,,, ,,,"➊ is a bloodsucking fly of genus Tabanus, including horseflies, gadflies and breezeflies.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sfataba,,sfataba ∈V·fu'ivla,tabanu₁,,,,
 qabivi,,,1,s,,d,,,lifeform animal arthropod insect,,,,,"zayuru, ziwayu, hekuwe, hodezu",,,,,,,,, ,,,➊ is a box tree moth or caterpillar (species Cydalima perspectalis).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,peokaqkudalımo₁; peokaqraq₁; peokaqsıraq₁,,,,
 wafisa,,,1,s,,d,,,lifeform animal arthropod insect,,,,,"zayuru, ziwayu, hekuwe, hodezu",,,,,,,,, ,,,➊ is a bush cricket of genus Ephippiger.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ekufuqheaq₁,,,,
@@ -3384,7 +3384,7 @@ mukome,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana,
 qihesa,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,➊ belongs to the Viverra taxonomic genus.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bebere₁,,,,
 pufiho,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,➊ is a European rabbit (Oryctolagus cuniculus).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,konı₁; konıq₁,,,,
 suyapu,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,➊ is a baleen whale.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kıaqketea₁; luaokıaqketea₁,,,,
-bajasu,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,🐻,,➊ is a bear.,,, ,,,,,,,bear ∈N,熊₁ ∈N,भालू ∈NM; भालो ∈NM,oso ∈N·M,,,ours ∈N·M,beruang ∈N,,,,,,dubu ∈N·C5,Bär ∈N·M,,,,熊₁ ∈N,oso,ayı ∈N,hartz ∈N,urso ∈N,,,,cribe ∈V·gismu,hako₁,,,,
+bajasu,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,🐻,,➊ is a bear.,,, ,,,,,,,bear ∈N,熊₁ ∈N,भालू ∈N·M; भालो ∈N·M,oso ∈N·M,,,ours ∈N·M,beruang ∈N,,,,,,dubu ∈N·C5,Bär ∈N·M,,,,熊₁ ∈N,oso,ayı ∈N,hartz ∈N,urso ∈N,,,,cribe ∈V·gismu,hako₁,,,,
 pupapa,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,,,,,➊ is a bonobo.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,jbonobo ∈V·fu'ivla; smanrbonobo ∈V·fu'ivla,,,,,
 cizawi,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,➊ is a bottlenose dolphin (Tursiops taxonomic genus).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tusıokaq₁,,,,
 bifoye,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,➊ is a capybara.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,naosuhu₁,,,,
@@ -3395,9 +3395,9 @@ kebira,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana,
 nivawa,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,,,🐄,,➊ is a cow.,,,,,,,,,,,,,vaca ∈N·F,,,vache ∈N·F,,,,,,,,,,,,,,,behi ∈N,,,,,,,,,,
 siyece,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,➊ is a coyote.,,, ,,,,,,,coyote ∈N,,,,,,,,,,,,,,,,,,,,,,,,,,,shoıkune₁,,,,
 zaqidi,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,𐂂,,➊ is a deer (Cervidae).,,, ,,,,,,,deer ∈N,,,,,,,,,,,,,,,,,,,,,,,,,,,tuaqbosıu₁,,,,
-yobanu,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,🐕,,➊ is a dog (Canis lupus familiaris).,,, ,,,,,,,dog ∈N,犬₁ ∈N; 狗₁ ∈N·C隻·C條,कुत्ता ∈NM,perro ∈N·M,كَلْب ∈NM,কুকুর ∈N; কুত্তা ∈N,chien ∈N·M,anjing ∈N,cachorro ∈NM; cão ∈NM,пёс ∈NM; соба́ка ∈NF,,,,mbwa ∈N·C9,Hund ∈N·M,,,,犬₁ ∈N,,köpek ∈N,txakurr ∈N,hundo ∈N,,,,,coaqluko₁; jıoluko₁,,,gour ∈VI,kóyu
-defuyi,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,🐬,,➊ is a dolphin.,,, ,,,,,,,dolphin ∈N,海豚 ∈N; 海豬 ∈N,शिशुमार ∈NM; सूँस ∈NF; सूंस ∈NM,delfín ∈N·M,دَرْفِيل ∈NM; دُخَس ∈NM; دُلْفِين ∈NM,ডলফিন ∈N,dophin ∈N·M,lumba-lumba ∈N,delfim ∈NM; golfinho ∈NM,,,,,pomboo ∈N·C9,Delfin ∈N·M; Delphin ∈N·M,,,,イルカ₁ ∈N,lumba-lumba ∈N,delfin ∈N; yunus ∈N,izurde ∈N,delfeno ∈N,,,,,,,,,
-fufuki,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,🐈,,➊ is a domestic cat (Felis catus).,,, ,,,,,,,cat ∈N,猫₁ ∈N·C隻,बिल्ली ∈NM,gato ∈N·M,قِطّ ∈NM,বিড়াল; বিলাই; বেড়াল,chat ∈N·M,kucing ∈N,gato ∈NM,ко́шка ∈NF; кот ∈NM,,,,paka ∈N·C9,Katz ∈N·F,,,,猫₁ ∈N,,kedi ∈N,katu ∈N,kato ∈N,,,,,kato₁ ∈predicate,,,,ƛúrı
+yobanu,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,🐕,,➊ is a dog (Canis lupus familiaris).,,, ,,,,,,,dog ∈N,犬₁ ∈N; 狗₁ ∈N·C隻·C條,कुत्ता ∈N·M,perro ∈N·M,كَلْب ∈NM,কুকুর ∈N; কুত্তা ∈N,chien ∈N·M,anjing ∈N,cachorro ∈NM; cão ∈NM,пёс ∈NM; соба́ка ∈NF,,,,mbwa ∈N·C9,Hund ∈N·M,,,,犬₁ ∈N,,köpek ∈N,txakurr ∈N,hundo ∈N,,,,,coaqluko₁; jıoluko₁,,,gour ∈VI,kóyu
+defuyi,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,🐬,,➊ is a dolphin.,,, ,,,,,,,dolphin ∈N,海豚 ∈N; 海豬 ∈N,शिशुमार ∈N·M; सूँस ∈N·F; सूंस ∈N·M,delfín ∈N·M,دَرْفِيل ∈NM; دُخَس ∈NM; دُلْفِين ∈NM,ডলফিন ∈N,dophin ∈N·M,lumba-lumba ∈N,delfim ∈NM; golfinho ∈NM,,,,,pomboo ∈N·C9,Delfin ∈N·M; Delphin ∈N·M,,,,イルカ₁ ∈N,lumba-lumba ∈N,delfin ∈N; yunus ∈N,izurde ∈N,delfeno ∈N,,,,,,,,,
+fufuki,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,🐈,,➊ is a domestic cat (Felis catus).,,, ,,,,,,,cat ∈N,猫₁ ∈N·C隻,बिल्ली ∈N·M,gato ∈N·M,قِطّ ∈NM,বিড়াল; বিলাই; বেড়াল,chat ∈N·M,kucing ∈N,gato ∈NM,ко́шка ∈NF; кот ∈NM,,,,paka ∈N·C9,Katz ∈N·F,,,,猫₁ ∈N,,kedi ∈N,katu ∈N,kato ∈N,,,,,kato₁ ∈predicate,,,,ƛúrı
 cozabu,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,"➊ is a dwarf human, a unusually small human.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 nifuki,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,"➊ is a felid, a member of the Felidae family.",,, ,,,,,,,,,,,,,félin ∈N·M,,,,,,,,,,,,,,,,,,,,,,,,mian ∈VI,
 nerawa,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,➊ is a fox (Vulpes genus).,,, ,,,,,,,fox ∈N·C,,,,,,renard ∈N·M,,,,,,,,Fuchs ∈N·M,,,,狐₁ ∈N,,,,,,,,,hupı₁ ∈predicate,,,,
@@ -3408,16 +3408,16 @@ kemara,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana,
 biwuna,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,➊ is a harbour porpoise (Phocoena phocoena).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pokesao₁,,,,
 sunemi,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,➊ is a hedgehog.,,, ,,,,,,,hedgehog ∈N,,,,,,hérisson ∈N·M·H,,,,,,,,,,,,,,,,,,,,,gere₁,,,,
 vofufe,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,➊ is a hippopotamus.,,, ,,,,,,,,,,,,,hippopotame ∈N·M,,,,,,,,,,,,,,,,,,,,,hıe'eku₁; hıeheku₁,,,,
-qibawe,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,🐎 𐂃,,➊ is a horse (Equus ferus caballus).,,, ,,,,,,,horse ∈N·C,馬₁ ∈N·C匹,अश्व ∈NM; घोड़ा ∈NM,caballo ∈N,,,cheval ∈N·M,kuda ∈N,,,,,,farasi ∈N·C9,Pferd ∈N·N,,,,馬 ∈N,,at ∈N,zaldi ∈N,ĉevalo ∈N,,xirkaba,,xirkaba ∈V·fu'ivla,kebo₁ ∈predicate,,,,yáʼı
+qibawe,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,🐎 𐂃,,➊ is a horse (Equus ferus caballus).,,, ,,,,,,,horse ∈N·C,馬₁ ∈N·C匹,अश्व₁ ∈N·M; घोड़ा ∈N·M,caballo ∈N,,,cheval ∈N·M,kuda ∈N,,,,,,farasi ∈N·C9,Pferd ∈N·N,,,,馬 ∈N,,at ∈N,zaldi ∈N,ĉevalo ∈N,,xirkaba,,xirkaba ∈V·fu'ivla,kebo₁ ∈predicate,,,,yáʼı
 cececi,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,➊ is a house mouse.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,musenuı₁,,,,
 wayami,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,👤,,"➊ is a human, a human being.",,, ,,,,,,,human ∈N; human being ∈N,,,,,,humain ∈N·M; être humain ∈N·M,,,,,,,,Mensch ∈N·M,,,,,,,,,,remna ∈V,,remna ∈V·gismu,ocha₁ ∈predicate; req₁ ∈predicate,,,flan ∈VI,qánwe
-nulofa,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,➊ is a hyena (Hyaenidae taxonomic family).,,, ,,,,,,,hyena ∈N·C,鬣狗 ∈N,तरच्छ ∈NM; लकड़बग्घा ∈NM,hiena ∈N·F,ضَبُع ∈NF,হায়েনা ∈N,hyène ∈N·F,dubuk ∈N,hiena ∈NF,,,,,fisi ∈N·C9,Hyäne ∈N·F,,,,ハイエナ₁ ∈N; 鬣犬 ∈N,,sırtlan ∈N,hiena ∈NA,,,,,.impisi ∈V·fu'ivla,suhulıqsıu₁,,,,
+nulofa,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,➊ is a hyena (Hyaenidae taxonomic family).,,, ,,,,,,,hyena ∈N·C,鬣狗 ∈N,तरच्छ ∈N·M; लकड़बग्घा ∈N·M,hiena ∈N·F,ضَبُع ∈NF,হায়েনা ∈N,hyène ∈N·F,dubuk ∈N,hiena ∈NF,,,,,fisi ∈N·C9,Hyäne ∈N·F,,,,ハイエナ₁ ∈N; 鬣犬 ∈N,,sırtlan ∈N,hiena ∈NA,,,,,.impisi ∈V·fu'ivla,suhulıqsıu₁,,,,
 qahule,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,➊ is a jaguar (Panthera onca).,,, ,,,,,,,jaguar ∈N·C,,,,,,,,,,,,,,,,,,,,,,,,,,,hoqsa₁; loqsa₁,,,,
 zuziva,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,🦘,,➊ is a kangaroo.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,saopue₁,,,,
 pikato,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,,,,,➊ is a koala.,,,,,,,,,,koala ∈N·C,,,,,,koala ∈N·M,,,,,,,,,,,,,,,,,,,,,,,,,
 guvucu,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,➊ is a lemur.,,, ,,,,,,,lemur ∈N,,,,,,,,,,,,,,,,,,,,lemur ∈N,,,,,,lormani ∈V·fu'ivla,lemuresıu₁,,,,
 lafeqe,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,🐆,,➊ is a leopard.,,, ,,,,,,,leopard ∈N,,,,,,léopard ∈N·M,,,,,,,,,,,,,,leopar ∈N,,,,,,,,,,,
-rewocu,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,,,,,➊ is a lion.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+rewocu,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,,,,,➊ is a lion.,,,,,,,,,,,,सिंह₁ ∈N·M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 garahi,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,➊ is a llama.,,, ,,,,,,,llama ∈N·C,,,llama ∈N·F,,,,,,,,,,,,,,,,,lama ∈N,,,,,,kumtrlama ∈V·fu'ivla,lama₁,,,,
 gabeji,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,,,,,➊ is a mammoth.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,xantrmamontu ∈V·fu'ivla,,,,,
 favoni,,,1,s,,d,,,lifeform animal vertebrate mammal,,,,,"zayuru, ziwayu, lakana, wohuti",,,,,,,,, ,,,➊ is a marsupial.,,, ,,,,,,,marsupial ∈N·C,,,,,,,,,,,,,,,,,,,,,,,,,,,ceabo₁; ceanıaı₁,,,,
@@ -3506,7 +3506,7 @@ caluqu,,,1,s,,d,,,lifeform animal vertebrate squamate,,,,,"zayuru, ziwayu, lakan
 kukago,,,1,s,,d,,,lifeform animal vertebrate squamate,,,,,"zayuru, ziwayu, lakana",,,,,,,,, ,,,➊ is a chameleon (Chamaeleonidae family).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,guaqlabı'aı₁; guaqlabısıu₁,,,,
 fimote,,,1,s,,d,,,lifeform animal vertebrate squamate,,,,,"zayuru, ziwayu, lakana",,,,,,,,, ,,,➊ is a true chameleon (Chamaeleo genus).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,guaqlabı₁,,,,
 piqago,,,1,s,,d,,,lifeform animal vertebrate squamate snake,,,,,"zayuru, ziwayu, lakana",,,,,,,,, ,,,➊ is a rattlesnake of Crotalus genus.,,, ,,,,,,,,,,,,,crotale ∈N·M,,,,,,,,,,,,,,,,,,krotalo,,krotalo ∈V·fu'ivla,korotaloq₁,,,,
-kisudo,,,1,s,,d,,,lifeform animal vertebrate squamate snake,,,,,"zayuru, ziwayu, lakana",,,,,,,,, ,🐍,,➊ is a snake.,,, ,,,,,,,snake ∈N,蛇 ∈N; 長蟲 ∈N,नाग ∈NM; सर्प ∈NM; साँप ∈NM,serpiente ∈N·M,,,serpent ∈N·M,ular ∈N,,,,,,nyoka ∈N·C9,Schlange ∈N·F,,,,蛇 ∈N,,yılan ∈N,suge ∈N,,,,,since ∈V·gismu,sepe₁; sepo₁,,,,θı̋lïʼ
+kisudo,,,1,s,,d,,,lifeform animal vertebrate squamate snake,,,,,"zayuru, ziwayu, lakana",,,,,,,,, ,🐍,,➊ is a snake.,,, ,,,,,,,snake ∈N,蛇 ∈N; 長蟲 ∈N,नाग ∈N·M; सर्प ∈N·M; साँप ∈N·M,serpiente ∈N·M,,,serpent ∈N·M,ular ∈N,,,,,,nyoka ∈N·C9,Schlange ∈N·F,,,,蛇 ∈N,,yılan ∈N,suge ∈N,,,,,since ∈V·gismu,sepe₁; sepo₁,,,,θı̋lïʼ
 hugoko,,,1,s,,d,,,lifeform animal vertebrate squamate snake,,,,,"zayuru, ziwayu, lakana",,,,,,,,, ,,,➊ is a water moccasin.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,fiptulsince,,fiptulsince ∈V·lujvo,cıetuo₁,,,,
 wavamo,,,1,s,,d,,,lifeform animal vertebrate testudinata,,,,,"zayuru, ziwayu, lakana",,,,,,,,,,,,➊ is a sea turtle.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,xastorka ∈V·lujvo; xasycakrespa ∈V·lujvo,,,,,
 ruqume,,,1,s,,d,,,lifeform animal vertebrate testudinata,,,,,"zayuru, ziwayu, lakana",,,,,,,,, ,🐢,,"➊ is a testudine: turtle, tortoise or terrapin (Testudines taxonomic order).",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tetabo₁,,,spoul ∈VI,
@@ -3542,7 +3542,7 @@ lafimu,,,1,s,,d,,,lifeform plant,,,,,"zayuru, dayilu",,,,,,,,,,,,➊ is a common
 wuyece,,,1,s,,d,,,lifeform plant,,,,,"zayuru, dayilu",,,,,,,,, ,,,➊ is a common beet.,,, ,,,,,,,,,,,,,betterave ∈N·F,,,,,,,,,,,,,,,,,,,,,faıbeta₁,,,,
 zizazi,,,1,s,,d,,,lifeform plant,,,,,"zayuru, dayilu",,,,,,,,, ,,,➊ is a cranberry berry.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,choıpoaızeo₁,,,,
 zeliso,,,1,s,,d,,,lifeform plant,,,,,"zayuru, dayilu",,,,,,,,, ,,,➊ is a flower plant.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-zagari,,,1,s,,d,,,lifeform plant,,,,,"zayuru, dayilu",,,,,,,,,,,,➊ is a garden lettuce (Lactuca sativa).,,,,,,,,,,garden lettuce ∈N,萵苣 ∈N,लेटिष ∈N; सलाद पत्ता ∈N,lechuga cultivada ∈N·F,,,laitue cultivée ∈N·F,selada ∈N,,,,,,saladi ∈N·C9,Gardensalat ∈N·N,,,,レタス₁ ∈N,,marul ∈N,uraza ∈N,,,,,,,,,,
+zagari,,,1,s,,d,,,lifeform plant,,,,,"zayuru, dayilu",,,,,,,,,,,,➊ is a garden lettuce (Lactuca sativa).,,,,,,,,,,garden lettuce ∈N,萵苣 ∈N,लेटिष ∈N; सलाद पत्ता ∈N·M,lechuga cultivada ∈N·F,,,laitue cultivée ∈N·F,selada ∈N,,,,,,saladi ∈N·C9,Gardensalat ∈N·N,,,,レタス₁ ∈N,,marul ∈N,uraza ∈N,,,,,,,,,,
 nabuyu,,,1,s,,d,,,lifeform plant,,,,,"zayuru, dayilu",,,,,,,,, ,,,➊ is a garlic clove.,,,,,,,,,,,,,,,,gousse d’aïl ∈N·F,,,,,,,,,,,,,,,,,,,,,,,,e cnue meloan ∈VI,
 cubaqi,,,1,s,,d,,,lifeform plant,,,,,"zayuru, dayilu",,,,,,,,, ,,,➊ is a garlic head.,,,,,,,,,,,,,,,,tête d’aïl ∈N·F,,,,,,,,,,,,,,,,,,,,,,,,meloan ∈VI,
 filame,,,1,s,,d,,,lifeform plant,,,,,"zayuru, dayilu",,,,,,,,, ,,,➊ is a grapevine.,,, ,,,,,,,,,,,,,vigne ∈N·F,,,,,,,,,,,,,,,,,,,,,be'ıtı₁; bıtı₁,,,,
@@ -3584,7 +3584,7 @@ loteyo,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,, ,,,➊ is a
 zeguza,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,, ,,,"➊ is a squash, marrow, pumpkin or gourd, fruit of a plant of the Cucurbita genus.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,huku₁; hukushu₁,,,,
 seruwi,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,, ,🍅 ,,➊ is a tomato (fruit).,,, ,,,,,,,tomato₂ ∈N,,,,,,tomate ∈N·F,,,,,,,,,,,,,,domates ∈N,,,,,,,tama₁ ∈predicate,,,,rópo
 walaji,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,,,,,➊ is a watermelon.,,,,,,,,,,watermelon ∈N·C,,,sandía ∈N·F,,,pastèque ∈N·F,,,,,,,,,,,,,,,,,,,,,,,,,
-nahala,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,, ,🍎 ,,➊ is an apple.,,, ,,,,,,,apple ∈N,蘋果₁ ∈N·C個,सेब ∈NM; सेव ∈NM,manzana ∈N·F,تُفَّاح ∈NMU,আপেল ∈N; সেব ∈N,pomme ∈N·F,apel ∈N,maçã ∈NF,я́блоко ∈NN,,,,tofaa ∈N·C5,Apfel ∈N·M,,,,リンゴ₁ ∈N; 林檎₁ ∈N,,elma ∈N,sagar ∈N,pomo ∈N,,,,,shamu₁ ∈predicate,,,meon ∈VI,nóko
+nahala,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,, ,🍎 ,,➊ is an apple.,,, ,,,,,,,apple ∈N,蘋果₁ ∈N·C個,सेब ∈N·M; सेव ∈N·M,manzana ∈N·F,تُفَّاح ∈NMU,আপেল ∈N; সেব ∈N,pomme ∈N·F,apel ∈N,maçã ∈NF,я́блоко ∈NN,,,,tofaa ∈N·C5,Apfel ∈N·M,,,,リンゴ₁ ∈N; 林檎₁ ∈N,,elma ∈N,sagar ∈N,pomo ∈N,,,,,shamu₁ ∈predicate,,,meon ∈VI,nóko
 dohaja,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,,,,,➊ is an avocado.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ceyawa,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,,,,,➊ is an orange (fruit).,,,,,,,,,,,,,,,,orange₁ ∈N·F,,,,,,,,,,,,,,,,,,,,najnimre ∈V·lujvo,,,,,
 jarati,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,, ,,,"➊ is grain, cereal.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,guı₁ ∈predicate,,,,
@@ -3600,7 +3600,7 @@ qabipa,,,1,s,,d,,,lifeform plant tree,,,,,"zayuru, dayilu",,,,,,,,, ,,,➊ is a 
 yigona,,,1,s,,d,,,lifeform plant tree,,,,,"zayuru, dayilu",,,,,,,,, ,,,➊ is a sweet orange tree (Citrus sinensis).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,juqguokedoro₁; juqguokero₁,,,,
 qivivo,,,1,s,,d,,,lifeform plant tree,,,,,"zayuru, dayilu",,,,,,,,, ,,,➊ is a tree belonging to the taxonomic genus Prunus.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,purune₁; puruq₁,,,,
 legena,,,1,s,,d,,,lifeform plant tree,,,,,"zayuru, dayilu",,,,,,,,, ,,,➊ is a tree or shrub of the Citrus genus.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kedoro₁; kero₁,,,,
-tiliva,,,1,s,,d,,,lifeform plant tree,,,,,"zayuru, dayilu, tiliva",,,,,,,,, ,🌳 ,,➊ is a woody tree (larger than a shrub).,,, ,,,,,,,tree₁ ∈N,樹 ∈N; 樹木 ∈N,पेड़ ∈NM; वृक्ष ∈NM,árbol ∈N·M,,,arbre₁ ∈N·M,pohon ∈N,,,,,,mti ∈N·C3,Baum ∈N·M,,,,木₁ ∈N,puno,ağaç ∈N,arbola ∈N; zuhaitz ∈N,,,,,,muao₁ ∈predicate,,,tcuin ∈VI,ƛʰáı
+tiliva,,,1,s,,d,,,lifeform plant tree,,,,,"zayuru, dayilu, tiliva",,,,,,,,, ,🌳 ,,➊ is a woody tree (larger than a shrub).,,, ,,,,,,,tree₁ ∈N,樹 ∈N; 樹木 ∈N,पेड़ ∈N·M; वृक्ष ∈N·M,árbol ∈N·M,,,arbre₁ ∈N·M,pohon ∈N,,,,,,mti ∈N·C3,Baum ∈N·M,,,,木₁ ∈N,puno,ağaç ∈N,arbola ∈N; zuhaitz ∈N,,,,,,muao₁ ∈predicate,,,tcuin ∈VI,ƛʰáı
 tepepi,,,1,s,,d,,,lifeform plant tree,,,,,"zayuru, dayilu, tiliva",,,,,,,,,,,,➊ is a woody tree or shrub.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 napuna,,,1,s,,d,,,lifeform plant tree,,,,,"zayuru, dayilu, tiliva",,,,,,,,, ,,,"➊ is an apartment, a flat.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,apartman ∈N,,,,,,,kuabue₁ ∈predicate,,,,
 qihugu,,,1,s,,d,,,lifeform plant tree,,,,,"zayuru, dayilu, tiliva",,,,,,,,, ,,,➊ is an apple tree (of the genus Malus).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,plisytricu ∈V·lujvo,meloq₁,,,,
@@ -3667,7 +3667,7 @@ femari,,,1,,,,,,unique country,,,,,,,,,,,,,, ,,,➊ is Egypt.,,,,,,,,,,Egypt ∈
 suqadi,,,1,s,,d,,,unique country,,,,,,,,,,,,,, ,,,➊ is England.,,, ,,,,,,,England ∈Name,,,,,,,,,,,,,,,,,,,,İngiltere ∈Name,,,,,,,Iqlaqgua₁,,,,
 deligi,,,1,,,,,,unique country,,,,,,,,,,,,,, ,,,➊ is France.,,,,,,,,,,France ∈Name,,,,,,,,,,,,,,,,,,,,Fransa ∈Name,,,,,,,,,,e ufranse stan ∈VI,
 gobite,,,1,,,,,,unique country,,,,,,,,,,,,,, ,,,➊ is Germany.,,,,,,,,,,Germany ∈Name,,,,,,,,,,,,,,,,,,,,Almanya ∈Name,,,,,,,,,,e udoitce stan ∈VI,
-daqida,,,1,s,,d,,,unique country,,,,,,,,,,,,,, ,,,➊ is India.,,, ,,,,,,,India ∈Name,,,,,,,,,,,,,,,,,,,,Hindistan ∈Name,,,,,,,Hıqdıagua₁,,,,
+daqida,,,1,s,,d,,,unique country,,,,,,,,,,,,,, ,,,➊ is India.,,, ,,,,,,,India ∈Name,,भारत₁ ∈N·M,,,,,,,,,,,,,,,,,,Hindistan ∈Name,,,,,,,Hıqdıagua₁,,,,
 dinozi,,,1,,,,,,unique country,,,,,,,,,,,,,, ,,,➊ is Italia.,,,,,,,,,,Italia ∈Name,,,,,,,,,,,,,,,,,,,,İtalya ∈N,,,,,,,,,,,
 vebata,,,1,,,,,,unique country,,,,,,,,,,,,,, ,,,➊ is Korea.,,,,,,,,,,Korea ∈Name,,,,,,,,,,,,,,,,,,,,Kore ∈N,,,,,,,,,,,
 jumeji,,,1,,,,,,unique country,,,,,,,,,,,,,, ,,,➊ is Mongolia.,,,,,,,,,,Mongolia ∈Name,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3957,7 +3957,7 @@ lojugu,,,1,,,,,,,,,,,,,,,,,,,, ,,,➊ has a tendency to disintegrate/crumble/fal
 giwewu,,,1,,,,,,,,,,,,,,,,,,,, ,,,➊ has a “aaaaw” reaction to irresistable cuteness.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nıodecua₁,,,,
 jotete,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ has an opportunity to satisfy property ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,jidge ∈VT,,jidge ∈VT·experimental·gismu,taodaı₁,,,,
 noyoba,,,1,,,,,,,,,,,,,,,,,,,, ,,,➊ has been asserted by a trustworthy source.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-nuluya,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ has been ➋ed (binary relation).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,te₁,,,,
+nuluya,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ has been ➋ed (binary relation).,,, ,,,,,,,-ed₂ ∈Suffix·V→Ptcp,,,,,,,,,,,,,,,,,,,,,,,,,,,te₁,,,,
 nepaka,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ has biological offspring ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,panzi ∈VT  21,,panzi ∈VT·gismu  21,"fu₁ ∈predicate [DO,S]",,,,
 gameke,,,2,,,,,,,,,,,,,,,,,,,, ,,,"➊ has character, personality trait ➋ (property).",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zerai ∈VT_P1,
 zuvamo,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ has characteristics typically associated with property ➋.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4062,7 +4062,7 @@ jitoke,,,1,s,,,,,,,,,,,,,,,,,,, ,,,➊ is a country.,,, ,,,,,,,country ∈N,,,pa
 zumuva,,,,,,,,,,,,,,,,,,,,,,,,,,"➊ is a courgette (small, young squash fruit of the Cucurbita pepo variety).",,,,,,,,,,courgette ∈N  @UK; zucchini  @US,西葫蘆 ∈N,,,,,courgette ∈N·F,,,,,,,,,,,,,,,,,,,,,,,,,
 waqavo,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ is a cultural/shared/collective/conventional knowledge of people/society ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cıaolu₁,,,,
 ginako,,,1,,,,,,,,,,,,,,,,,,,, ,,,➊ is a dawn or dusk.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,rıao₁ ∈predicate,,,,
-hoqeno,,,1,,,,,,,,,,,,,,,,,,,, ,,,➊ is a daytime.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,donri ∈VI,,donri ∈VI·gismu,dıo₁ ∈predicate,,,,
+hoqeno,,,1,,,,,,,,,,,,,,,,,,,, ,,,➊ is a daytime.,,, ,,,,,,,,,दिन₃ ∈N·M,,,,,,,,,,,,,,,,,,,,,,donri ∈VI,,donri ∈VI·gismu,dıo₁ ∈predicate,,,,
 hubaja,,,2,,,,,,,,,,,,,,,,,,,, ,,,"➊ is a dead remain of living being ➋ (specific instance, not generic).",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 racize,,,2,x 1,,,,,,,,,,,,,,,,,,, ,,,➊ is a dead remain of what used to have property ➋ when alive.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 wizopi,,,,,,,,,,,,,,,,,,,,,,,,,,➊ is a defensive needle body part.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,<{ruruni} jespezli ∈V·lujvo,,,,,
