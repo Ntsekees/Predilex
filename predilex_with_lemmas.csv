@@ -2589,7 +2589,7 @@ kahozi,,,1,,,,,,body_part,,,,,rupiwa howice,,,,,,,,, ,,,➊ is a hair growing on
 sereki,,,1,,,,,,body_part,,,,,rupiwa,,,,,,,,, ,,,➊ is a hand knuckle.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 zinifi,,,1,,,,,,body_part,,,,,rupiwa,,,,,,,,, ,,,➊ is a hand palm or foot sole.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,dapa₁; palaq₁,,,,
 legota,,,1,,,,,,body_part,,,,,rupiwa,,,,,,,,, ,,,➊ is a hand palm.,,, ,,,,,,,,,,,,,,paume ∈N·F,,,,,,,,,,,,,,avuç ∈N; ay ∈N,,,,xanbe’u; xanyni’a,,xanbe'u ∈V·lujvo; <{ruruni} xanyni'a ∈V·lujvo,muqdapa₁,,,,
-tehihi,,,1,,,,,,body_part,,,,,rupiwa,,,,,,,,, ,,,➊ is a hand.,,, ,,,,,,,hand ∈N·C,,हाथ₁ ∈N·M,mano ∈N·F,,,,main ∈N·F,tangan ∈N,,,,,,,,,,,手₁ ∈N,,el ∈N,esku ∈N,,,,,<{ruruni} xance ∈V·gismu,muq₁ ∈predicate,,,kenen ∈VI,ntáı
+tehihi,,,1,,,,,,body_part,,,,,rupiwa,,,,,,,,, ,,,➊ is a hand.,,, ,,,,,,,hand ∈N·C,,हाथ₁ ∈N·M,mano ∈N·F,,,,main ∈N·F,tangan ∈N,mão ∈N·F·C,,,,,,,,,,手₁ ∈N,,el ∈N,esku ∈N,,,,,<{ruruni} xance ∈V·gismu,muq₁ ∈predicate,,,kenen ∈VI,ntáı
 zejeti,,,1,,,,,,body_part,,,,,rupiwa,,,,,,,,, ,,,➊ is a head (body part).,,, ,,,,,,,head ∈N·C,,,cabeza ∈N·F,,,,tête ∈N·F,,,,,,,,,,,,,,baş ∈N; kafa ∈N,buru ∈N,,,,,<{ruruni} stedu ∈V·gismu,joqhua₁ ∈predicate,,,kirun ∈VI,
 maqawo,,,1,,,,,,body_part,,,,,rupiwa,,,,,,,,, ,,,➊ is a hind leg.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zlior ∈VI,qán
 hujoki,,,1,,,,,,body_part,,,,,rupiwa,,,,,,,,, ,,,➊ is a hip or a shoulder.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,shıo₁ ∈predicate,,,,
@@ -3584,7 +3584,7 @@ loteyo,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,, ,,,➊ is a
 zeguza,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,, ,,,"➊ is a squash, marrow, pumpkin or gourd, fruit of a plant of the Cucurbita genus.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,huku₁; hukushu₁,,,,
 seruwi,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,, ,🍅 ,,➊ is a tomato (fruit).,,, ,,,,,,,tomato₂ ∈N,,,,,,,tomate ∈N·F,,,,,,,,,,,,,,domates ∈N,,,,,,,tama₁ ∈predicate,,,,rópo
 walaji,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,,,,,➊ is a watermelon.,,,,,,,,,,watermelon ∈N·C,,,sandía ∈N·F,,,,pastèque ∈N·F,,,,,,,,,,,,,,,,,,,,,,,,,
-nahala,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,, ,🍎 ,,➊ is an apple.,,, ,,,,,,,apple ∈N,蘋果₁ ∈N·C個,सेब ∈N·M; सेव ∈N·M,manzana ∈N·F,تُفَّاح ∈N·M·U,,আপেল₁ ∈N; সেব₁ ∈N,pomme ∈N·F,apel₁ ∈N,maçã ∈N·F,я́блоко ∈NN,,,,tofaa ∈N·C5,Apfel ∈N·M,,,,リンゴ₁ ∈N; 林檎₁ ∈N,,elma ∈N,sagar ∈N,pomo ∈N,,,,,shamu₁ ∈predicate,,,meon ∈VI,nóko
+nahala,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,, ,🍎 ,,➊ is an apple.,,, ,,,,,,,apple ∈N,蘋果₁ ∈N·C個,सेब ∈N·M; सेव ∈N·M,manzana ∈N·F,تُفَّاح ∈N·M·U,,আপেল₁ ∈N; সেব₁ ∈N,pomme ∈N·F,apel₁ ∈N,maçã ∈N·F·C,я́блоко ∈NN,,,,tofaa ∈N·C5,Apfel ∈N·M,,,,リンゴ₁ ∈N; 林檎₁ ∈N,,elma ∈N,sagar ∈N,pomo ∈N,,,,,shamu₁ ∈predicate,,,meon ∈VI,nóko
 dohaja,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,,,,,➊ is an avocado.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ceyawa,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,,,,,➊ is an orange (fruit).,,,,,,,,,,,,,,,,,orange₁ ∈N·F,,,,,,,,,,,,,,,,,,,,najnimre ∈V·lujvo,,,,,
 jarati,,,1,s,,d,,,lifeform plant fruit,,,,,"zayuru, dayilu",,,,,,,,, ,,,"➊ is grain, cereal.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,guı₁ ∈predicate,,,,
