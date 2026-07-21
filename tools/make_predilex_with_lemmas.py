@@ -41,7 +41,7 @@ NATLANG_MAP = {
 	"tgl": "Tagalog",
 #	"tam": "Tamil",
 	"tur": "Turkish",
-#	"lin": "Lingala,	
+#	"lin": "Lingala",
 #	"pes": "Persian",
 #  "apd": "Sudanese Arabic",
 #  "apc": "Levantine Arabic",
