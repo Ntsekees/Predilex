@@ -100,11 +100,16 @@ def edit_csv_from_path(
   t = []
   for row in r:
     t.append(row)
-  t = function(t)
+  try:
+    result = function(t)
+  except:
+    inputf.close()
+    outputf.close()
+    raise
   if outputf == inputf:
     outputf.seek(0)
   outputf.truncate()
-  w.writerows(t)
+  w.writerows(result)
   inputf.close()
   outputf.close()
 
