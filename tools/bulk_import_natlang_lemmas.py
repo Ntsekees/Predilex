@@ -81,8 +81,7 @@ def do_bulk_import(data):
 			lex_body = sorted(
 				lex_body,
 				key = lambda row: row[lex_header.index("Lemma")])
-			# return [lex_header] + lex_body
-			return lex
+			return [lex_header] + lex_body
 		try:
 			path = SELF_PATH + f"/../natlangs/{lang}.csv"
 			edit_csv_from_path(
