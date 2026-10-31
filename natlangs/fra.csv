@@ -1,4 +1,4 @@
-"Lemma","Discriminator","Oral Lemma","Oral Discriminator","Dialect","Supertype","Morphotype","Features","Sememe","Definition","Examples","Synonyms","Gloss","Frequency","Etymology","Etymological notes"
+"Lemma","Discriminator","Lemma: IPA","Discriminator: IPA","Dialect","Supertype","Morphotype","Features","Sememe","Definition","Examples","Synonyms","Gloss","Frequency","Etymology","Etymological notes"
 "ADN",1,"adeɛn",1,,"N",,"M","hibiya",,,,,,,
 "ARN",1,"aɛʁɛn",1,,"N",,"M","ficopu",,,,,,,
 "OK",1,"oke",1,,"INTJ",,,"wepuva",,,,,,,
@@ -129,6 +129,7 @@
 "carbone",,"kaʁbɔn",,,"N",,"M U","sicupe",,,,,,,
 "carcajou",,"kaʁkaʒu",,,"N",,"M C","sotali",,,,,,,
 "caress-",,"kaʁɛs-",,,"V","@-er","DO","gunoqo",,,,,,,
+"caresse",,"kaʁɛs",,,"N",,"F C",,,,,,,,
 "carnivore",,"kaʁnivɔʁ",,,"AN",,,"tuyevu",,,,,,,
 "carotte",,"kaʁɔt",,,"N",,"F C","morocu",,,,,,,
 "carte d’identité",,"kaʁt didɑ͂tite",,,"N",,"F C","zapazu",,,,,,,
@@ -827,10 +828,12 @@
 "vivant",,,,,"AN",,,"yogije",,,,,,,
 "vivre",,,,,"V",,,"viyoho",,,,,,,
 "vivre",,,,,"V",,,"yogije",,,,,,,
-"voir",1,,,,"V",,"DO","zapiyo",,,,,,,
+"voi-",1,"vwa",,,"V","-r","DO","liwate",,,,,,,
+"voi-",2,"vwa",,,"V","-r","DO","zapiyo",,,,,,,
 "voiture",,,,,"N",,"F","yolase",,,,,,,
 "volcan",,,,,"N",,"M","hotuna",,,,,,,
-"voler",,,,,"VI₁",,,"zeduyu",,,,,,,
+"vol-",1,,,,"V",,,"zeduyu",,,,,,,
+"vol-",2,,,,"V",,"DO",,,,,,,,
 "volet",1,,,,"N",,,"zijofu",,,,,,,
 "vomir",,,,,"V",,"DO","gawobo",,,,,,,
 "vrai",,"vʁɛ",,,"AN",,,"tunabe",,,,,,,
