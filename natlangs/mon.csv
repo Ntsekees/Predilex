@@ -1,2 +1,11 @@
-"Lemma" "Discriminator" "Lemma: Cyrillic" "Discriminator: Cyrillic" "Lemma: Latin" "Discriminator: Latin" "Dialect" "Supertype" "Morphotype" "Features" "Sememe" "Definition" "Examples" "Synonyms" "Gloss" "Frequency" "Etymology" "Etymological notes"
-"ᠰᠠᠯᠬᠢ" 1 "салхи" 1 "salxi" 1  "N"   "howahu" "wind"      
+Lemma,Discriminator,Lemma: Cyrillic,Discriminator: Cyrillic,Lemma: Latin,Discriminator: Latin,Dialect,Supertype,Morphotype,Features,Sememe,Definition,Examples,Synonyms,Gloss,Frequency,Etymology,Etymological notes
+буюу,1,bujuu,,,,,Coo,,,  zarowi,,,,,,,
+эсвэл,1,esvel,,,,,Coo,,,  zarowi,,,,,,,
+ᠢ,1,би,,bi,,,Pro,,,takiwa,,,,,,,
+ᠪᠠ,1,ба,,ba,,,NCoo,,,nawulu,,,,,,,
+ᠪᠠ,2,ба,,ba,,,Coo,,,talage,,,,,,,
+ᠰᠠᠯᠬᠢ,1,салхи,1,salxi,1,,N,,,howahu,wind
+▓▓,1,энд,,,,,AV,,,vagahi,,,,,,,
+▓▓,2,энд,,,,,N,,,zewubo,,,,,,,
+▓▓,1,Чи,,chi,,informal,Pro,,,yuvuha,,,,,,,
+▓▓,1,Та,,ta,,formal,Pro,,,yuvuha,,,,,,,
