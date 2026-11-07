@@ -45,7 +45,9 @@ def do_bulk_import(data):
 				lex = [lex]
 			lex_header, lex_body = lex[:1][0], lex[1:]
 			for lex_e in lex_body:
-				for ee in entries:
+				for i, ee in enumerate(entries):
+					if ee == []:
+						continue
 					if forall(
 						["Lemma", "Supertype", "Sememe"],
 						lambda key:
@@ -55,8 +57,11 @@ def do_bulk_import(data):
 						l = lex_e[lex_header.index("Lemma")]
 						st = lex_e[lex_header.index("Supertype")]
 						sem = lex_e[lex_header.index("Sememe")]
-						print(f"⚠⚠⚠ ⟨{l}, {st}, {sem}⟩ IS ALREADY IN THE LEXICON!")
+						print(f"⚠⚠⚠ ⟨{lang}, {l}, {st}, {sem}⟩ IS ALREADY IN THE LEXICON!")
+						entries[i] = []
 			for ee in entries:
+				if ee == []:
+					continue
 				lemmas = (ee[data_header.index("Lemma")]
 					.replace("  ", " ")
 					.replace(" /", "/")
@@ -74,16 +79,19 @@ def do_bulk_import(data):
 						val = ee[data_header.index(key)]
 						if not key in lex_header:
 							if val != "":
-								print(f"⚠⚠⚠ For language ⟪{lang}⟫, field ⟪{key}⟫ is missing!")
+								print(f"⚠⚠⚠ For language ⟪{lang}⟫, field ⟪{key}⟫ is missing! Orphane value: ⟪{val}⟫.")
 						else:
 							reformated[lex_header.index(key)] = val
-				lex += [reformated]
+				lex_body += [reformated]
 			lex_body = sorted(
 				lex_body,
 				key = lambda row: row[lex_header.index("Lemma")])
 			return [lex_header] + lex_body
 		try:
-			path = SELF_PATH + f"/../natlangs/{lang}.csv"
+			if lang == "epo":
+				path = SELF_PATH + f"/../conlangs/Esperanto.csv"
+			else:
+				path = SELF_PATH + f"/../natlangs/{lang}.csv"
 			edit_csv_from_path(
 				path,
 				lambda lex: edit(lex, langs[lang]),
