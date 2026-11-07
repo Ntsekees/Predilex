@@ -20,7 +20,7 @@ NATLANG_MAP = {
 	"cmn": "Mandarin",
 	"hin": "Hindi",
 	"spa": "Spanish",
-	"ara": "Standard Arabic",
+	"arb": "Standard Arabic",
 	"urd": "Urdu",
 	"ben": "Bengali",
 	"fra": "French",
