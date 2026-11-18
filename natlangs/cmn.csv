@@ -192,6 +192,7 @@ Lemma,Lemma: Simplified,Discriminator,Lemma: Pinyin,Discriminator: Pinyin,Dialec
 於,于,1,yú,1,,V,,,,,,,,,,,
 日本 ,日本 ,,rìběn ,,,,,,,,,,,,,,
 是,是,1,shì,,,V,,,nawika,,,,,,,,
+是,是,3,shì,,,COP,,,suyelu,,,,,,,,
 是否 ,是否 ,,shìfǒu ,,,Prt,,,,,,,,,,,
 時候 ,时候 ,,shíhòu ,,,N,,,,,,,,,,,
 時間 ,时间 ,,shíjiān ,,,N,,,,,,,,,,,
