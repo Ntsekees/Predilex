@@ -4,6 +4,8 @@ Lemma,Discriminator,Lemma: Latin,Discriminator: Latin,Dialect,Supertype,Morphoty
 а,2,a,,,Coo,,,talage,,,,,,,
 быть,1,,,,V,,impf,nawika,,,,,,,
 быть,3,,,,COP,,impf,suyelu,,,,,,,
+быть,4,,,,fukepa,,,,,,,,,,
+быть,5,,,,pohuti,,impf,,,,,,,,
 вещь,1,veščʹ,,,N,,FG,gisiwu,,,,,,,
 вода́,,,,,NF,,,seliwa ,,,,,,,
 вы,1,vy,,polite,Pro,,,yuvuha,,,,,,,
@@ -65,3 +67,4 @@ Lemma,Discriminator,Lemma: Latin,Discriminator: Latin,Dialect,Supertype,Morphoty
 я,1,ja,,,Pro,,Nom,takiwa,,,,,,,
 я́блоко,,,,,NN,,,nahala ,,,,,,,
 явля́ться,3,,,,COP,,impf,suyelu,,,,,,,
+явля́ться,4,,,,fukepa,,,,,,,,,,
