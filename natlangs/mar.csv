@@ -1,6 +1,8 @@
 Lemma,Discriminator,Dialect,Supertype,Morphotype,Features,Sememe,Definition,Examples,Synonyms,Gloss,Frequency,Etymology,Etymological notes
+अग्नि,1,,N,,MG,jaqare,,,,,,,
 कदाचित,1,,AV,,,wipiyo,,,,,,,
 काळ,1,,N,,MG,levege,,,,,,,
+चंद्र,1,,N,,,qateji,,,,,,,
 जल,1,,N,,,seliwa,,,,,,,
 जागा,1,,N,,FG,nohuwa,,,,,,,
 नाही,1,,Pol,,,maruhe,,,,,,,
@@ -11,4 +13,5 @@ Lemma,Discriminator,Dialect,Supertype,Morphotype,Features,Sememe,Definition,Exam
 भाग,1,,N,,,deludo 21,,,,,,,
 रंग,1,,N,,MG,piyiwu,,,,,,,
 वारा,1,,N,,,howahu,,,,,,,
+सूर्य,1,,N,,,qahowa,,,,,,,
 हवा,1,,N,,,zawefe,,,,,,,
