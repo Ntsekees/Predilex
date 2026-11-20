@@ -28,8 +28,12 @@ def do_bulk_import(data):
 	data_header, data_body = data[:1][0], data[1:]
 	data_body = sorted(data_body, key = lambda e: e[0])
 	langs = dict()
-	for e in data_body:
+	for i, e in enumerate(data_body):
 		lang = e[data_header.index("Language")]
+		if lang == "":
+			print(f"⚠ Empty language for the following entry at index #{i}:")
+			print(f"  {e}")
+			raise(Exception("FATAL ERROR!"))
 		if not lang in langs:
 			langs[lang] = []
 		langs[lang] += [e]
