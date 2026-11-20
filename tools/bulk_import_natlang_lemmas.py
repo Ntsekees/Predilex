@@ -87,6 +87,13 @@ def do_bulk_import(data):
 			lex_body = sorted(
 				lex_body,
 				key = lambda row: row[lex_header.index("Lemma")])
+			# Now checking for potential duplicates:
+			for i, e in enumerate(lex_body):
+				if i == 0:
+					continue
+				if e == lex_body[i - 1]:
+					lex_body[i - 1] = []
+			lex_body = [e for e in lex_body if e != []]
 			return [lex_header] + lex_body
 		try:
 			if lang == "epo":
