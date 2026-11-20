@@ -26,6 +26,7 @@ def do_bulk_import(data):
 		print(f"⚠⚠⚠ EMPTY BULK IMPORT FILE!")
 		return
 	data_header, data_body = data[:1][0], data[1:]
+	data_body = sorted(data_body, key = lambda e: e[0])
 	langs = dict()
 	for e in data_body:
 		lang = e[data_header.index("Language")]
