@@ -77,7 +77,7 @@ tebadi,,,1,,,,,,basic subjective,,,,,,,,,,,,,, ,,,➊ seems to be the case to th
 zogido,,,2,,,,,,basic subjective,,,,,,,,,,,,,,,,,➊ seems to have property ➋ to the evaluator in 🅲.,,,,,,,,,,seem ∈V·to+INF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 pucuqi,,,2,,,,,,mereology,,,,,,,,,,,,,, ,,,➊ and ➋ are in mereological overlap.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 muyeto,,,2,,,,,,mereology,,,,,,,,,,,,,, ,,,➊ and ➋ are in mereological underlap.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-deludo,,,2,,,d d,,,mereology,,,dibere,,,,,,,,,,, ,,has_proper_part,➊ has proper part ➋.,,, ,,,,,,,have₄ ∈V·DO; part ∈N·of  21; with₈ ∈P,,भाग₁ ∈N·M  21,,,,,avoir₄ ∈V·@INF·DO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cnue ∈VT  21,
+deludo,,,2,,,d d,,,mereology,,,dibere,,,,,,,,,,, ,,has_proper_part,➊ has proper part ➋.,,, ,,,,,,,have₄ ∈V·DO; part ∈N·of  21; with₈ ∈P,部分₁ ∈N·的  21,अंश₁ ∈N·MG  21; खंड₁ ∈N·MG  21; भाग₁ ∈N·M  21; हिस्सा₁ ∈N·MG  21,parte₁ ∈N·FG  21; pedazo₁ ∈N·MG  21; porción₁ ∈N·FG  21; trozo₁ ∈N·MG  21,جُزَء₁ ∈N·MG  21; جُزْء₁ ∈N·MG  21; قِسْم₁ ∈N·MG  21,حِصَّہ₁ ∈N·MG  21; قِسْمَت₁ ∈N·FG  21,অংশ₁ ∈N  21; খন্ড₁ ∈N  21,avoir₄ ∈V·@INF·DO; partie₁ ∈N·FG·de  21,bagian₁ ∈N  21,parte₁ ∈N·FG  21; pedaço₁ ∈N·MG  21,до́ля₁ ∈N·FG  21; часть₁ ∈N·FG  21,,جزء₁ ∈N·MG  21,kashi₁ ∈N  21,sehemu₁ ∈N·C9  21,Teil₁ ∈N·PL-e·MG  21,भाग₁ ∈N  21,phần₁ ∈N  21,భాగము₁ ∈N  21,一部₁ ∈N·の  21; 部分₁ ∈N·の  21,,ክፍል₁ ∈N  21; ድርሻ₁ ∈N  21,bahagi₁ ∈Cont  21; hati₁ ∈Cont  21; kahati₁ ∈Cont  21,கூறு₁ ∈N  21; பகுதி₁ ∈N  21; பாகம்₁ ∈N  21; பின்னம்₁ ∈N  21,kısım₁ ∈N  21; parça₁ ∈N  21,ndámbo₁ ∈N  21; ndámbu₁ ∈N  21,,,,bagéan₁ ∈N  21,,apá₁ ∈N  21,부분₁ ∈N  21; 일부₁ ∈N  21; 쪽₁ ∈N  21,ท่อน₁ ∈N  21; ส่วน₁ ∈N  21,część₁ ∈N·FG  21,del₁ ∈N·CG  21,rakʼi₁ ∈N  21,pehẽ₁ ∈N  21; pehẽngue₁ ∈N  21,ნაწილი₁ ∈N  21,ᠬᠡᠰᠡᠭ₁ ∈N  21,lain₁ ∈N  21,aggorneq₁ ∈N·POSS  21; ila₁ ∈N·POSS  21,pars₁ ∈N·FG  21,part-₁ ∈N·de  21,,,,,,,,cnue ∈VT  21,
 kesiga,,,2,,,,,,mereology,,,,,,,,,,,,,, ,,,➊ is a proper spatiotemporal part of ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 cutuwa,,,2,,,,,,mereology,,,,,,,,,,,,,, ,,,➊ is an aggregate of things having property ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,same₁,,,,
 lohiqo,a,,2,,,,,,mereology,,,,,,,,,,,,,, ,,,"➊ is an aggregate of things, and these things collectively satisfy the property ➋.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lıme₁,,,,
@@ -1373,7 +1373,7 @@ hibiya,,,1,,,,,,substance,,,,,,,,,,,,,, ,🧬,,➊ is DNA.,,, ,,,,,,,,,,,,,,ADN�
 ficopu,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is RNA.,,, ,,,,,,,,,,,,,,ARN₁ ∈N·M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,shımıedaosaı₁,,,,
 vopuri,,,1,s,,,,,substance,,,,,,,,,,,,,, ,,,➊ is a medicine (substance).,,, ,,,,,,,,,,,,,,médicament ∈N·M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,goısaı₁,,,,
 nadude,,,2,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is a substance or unbounded repetition of the pattern of satisfying property ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-zawefe,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is air.,,, ,,,,,,,air₁ ∈N·U,,,,,,বাতাস₁ ∈N; বায়ু₁ ∈N; হাওয়া₁ ∈N,air₁ ∈N·M,,,,,,,,,,,,,,,,,hava ∈N,,,,,,,,,,,,,,,,,,,,,,,,rıo₁ ∈predicate,,,,θwé
+zawefe,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is air.,,, ,,,,,,,air₁ ∈N·U,空气₁ ∈N,वायु₁ ∈N·FG; हवा₁ ∈N·FG,aire₁ ∈N·MG,هَوَاء₁ ∈N·MG,وایو₁ ∈N·FG; ہوا₁ ∈N·FG,বাতাস₁ ∈N; বায়ু₁ ∈N; হাওয়া₁ ∈N,air₁ ∈N·M,udara₁ ∈N,ar₁ ∈N·MG,во́здух₁ ∈N·MG; пове́трие₁ ∈N·NG,,هوا₁ ∈N·MG,iska₁ ∈N,hewa₁ ∈N·C9,Luft₁ ∈N·FG,हवा₁ ∈N,không khí₁ ∈N,గాలి₁ ∈N; వాయువు₁ ∈N,天空₁ ∈N; 空気₁ ∈N,,አየር₁ ∈N·MG,ere₁ ∈Cont; hangin₁ ∈Cont,காற்று₂ ∈N; வாயு₂ ∈N,hava ∈N,mopepe₁ ∈N,جَوّ₁ ∈N; هَوا₁ ∈N,,,,qilleensa₁ ∈N,afẹ́fẹ́₂ ∈N,공기₁ ∈N,อากาศ₁ ∈N,powietrze₁ ∈N·NG,atmosfär₁ ∈N·CG; luft₁ ∈N·CG,wayra₁ ∈N,yvytu₁ ∈N,ჰაერი₁ ∈N,ᠠᠭᠠᠷ₁ ∈N,aire₁ ∈N,sila₁ ∈N; silaannaq₁ ∈N,aer₁ ∈N·MG,aer-₁ ∈N,,,,,rıo₁ ∈predicate,,,,θwé
 gomadu,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is alcohol.,,, ,,,,,,,alcohol ∈N·U,,,,,,,alcool₁ ∈N·M,,,,,,,,,,,,,,,,,alkol ∈N,,,,,,,,,,,,,,,,,,,,,,,,bıaonao₁; hoaqnao₁,,,,
 jepigi,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is amber (fossil resin).,,, ,,,,,,,amber ∈N·U,,,,,,,ambre ∈N·M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nıusıaıpıo₁,,,,
 qazeya,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is anise/aniseed/anix.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1392,7 +1392,7 @@ wogutu,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is dough.,,, ,,,,,,,dough ∈N·U
 lubiki,,,1,,,,,,substance,,,mefaki,,,,,,,,,,, ,,,"➊ is excrement, shit, fecal matter (considered as a substance).",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 gudobu,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is glass (material).,,, ,,,,,,,,,,,,,,verre₁ ∈N·M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,shıa₁ ∈predicate,,,,
 wilawi,,,1,,,,,substance,substance,,,,,,,,,,,,,, ,,,➊ is honey.,,,,,,,,,,honey ∈N·U,蜂蜜 ∈N,,miel ∈N·F,,,,miel ∈N·M,madu₁ ∈N,,,,,,uki ∈N·C11,Honig ∈N·M,,,,蜂蜜 ∈N,,,,,bal ∈N,,,,,,,,,,,,,,,,ezti ∈N,,,,,,,,,,,,ñwéye
-lunice,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is ice (frozen water).,,, ,,,,,,,ice ∈N·U,,,,,,,glace ∈N·F,,,,,,,,,,,,,,,,,buz ∈N,,,,,,,,,,,,,,,,,,,,,,,,chuaınao₁ ∈predicate,,,,
+lunice,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is ice (frozen water).,,, ,,,,,,,ice ∈N·U,冰₁ ∈N,बर्फ़₁ ∈N·FG; हिम₁ ∈N·MG,hielo₁ ∈N·MG,بوز₁ ∈N; بوُز₁ ∈N; جَلِيد₁ ∈N·MG,بَرْف₁ ∈N·MG; جَلِید₁ ∈N·FG; یَخ₁ ∈N·MG,বরফ₁ ∈N,glace ∈N·F,air beku₁ ∈N; es₁ ∈N,gelo₁ ∈N·MG,лёд₁ ∈N·MG,,تلج₁ ∈N·MG; جليد₁ ∈N·MG,ƙanƙara₁ ∈N,barafu₁ ∈N,Eis₁ ∈N·NG,बर्फ₁ ∈N,băng₁ ∈N,మంచు₁ ∈N,アイス₁ ∈N; 氷₁ ∈N,,በረዶ₁ ∈N·MG,yelo₁ ∈N,பனி₁ ∈N; பனிக்கட்டி₁ ∈N,buz ∈N,galási₁ ∈N,,,,,cabbii₁ ∈N,yìnyín₁ ∈N,얼음₁ ∈N,น้ำแข็ง₁ ∈N,lód₁ ∈N·MG,is₁ ∈N·CG,chhullunka₁ ∈N; chullunku₁ ∈N; lasta₁ ∈N,yrypyʼa₁ ∈N,ყინული₁ ∈N,ᠰᠥ₁ ∈N,horma₁ ∈N; izotz₁ ∈N; karroin₁ ∈N,sermeq₁ ∈N; siku₁ ∈N,glaciēs₁ ∈N·FG,glacio₁ ∈N,,,,,chuaınao₁ ∈predicate,,,,
 hehujo,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,"➊ is iron rust, iron oxyde.",,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,furtirse,,,,,,,
 sikabu,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is liquid water.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 bibana,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is metal.,,, ,,,,,,,metal ∈N·U,,,,,,,métal ∈N·M,,,,,,,,,,,,,,,,,metal ∈N,,,,,,,,,,,,,,,,,,,,,jinme,,,loha₁,,,,tʰı̋l
@@ -1409,7 +1409,7 @@ wekawo,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is rubber.,,, ,,,,,,,rubber ∈NU
 tebivi,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is rust (from any metal).,,, ,,,,,,,rust ∈NU,,,,,,,rouille ∈N·F,,,,,,,,,,,,,,,,,pas ∈N,,,,,,,,,,,,,,,,,,,,,,,,gupuloha₁,,,,
 mucume,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is sap.,,, ,,,,,,,sap ∈N·U,,,,,,,sève ∈N·F,,,,,,,,,,,,,,,,,özsu ∈N,,,,,,,,,,,,,,,,,,,,,,,,nıusıaı₁,,,,
 selala,,,1,,,,,substance,substance,,,,,,,,,,,,,,,,,➊ is seawater.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-seliwa,,,1,,,,,substance,substance,,,,,,,,,,,,,, ,,,➊ is water (in any physical state).,,, ,,,,,,,water ∈N·U,水₁ ∈N,पानी ∈N·M,agua ∈N·M,مَاء ∈N·M,,জল₁ ∈N; পানি₁ ∈N; বারি₁ ∈N,eau ∈N·F,air₁ ∈N,água₁ ∈NF,вода́ ∈NF,,,,maji ∈N·C6,Wasser ∈N·N,,,,水₁ ∈N,,,tubig,,su ∈N,,,,,,,,,,,,unu; yaku,y,,,ur ∈N·WeakR,,,,,djacu,,,nao₁ ∈predicate,,,jeon ∈VI,ʎı̋
+seliwa,,,1,,,,,substance,substance,,,,,,,,,,,,,, ,,,➊ is water (in any physical state).,,, ,,,,,,,water ∈N·U,水₁ ∈N,आब₁ ∈N; उदक₁ ∈N·MG; जल₁ ∈N·MG; पाणी₁ ∈N·MG; पानी ∈N·M; पानी₁ ∈N·MG,agua ∈N·M; aguacha₁ ∈N·FG; linfa₁ ∈N·FG; wata₁ ∈N·FG,مَاء ∈N·M; مَاء₁ ∈N·MG,آب₁ ∈N·MG; جل₁ ∈N; پانی₁ ∈N·MG,জল₁ ∈N; পানি₁ ∈N; বারি₁ ∈N,aigue₁ ∈N; eau ∈N·F,air₁ ∈N,água₁ ∈NF,вода́ ∈NF,,امبو₁ ∈N; مية₁ ∈N·FG,ruwā₁ ∈N·MG,maji ∈N·C6,Wasser ∈N·N,जल₁ ∈N; पाणी₁ ∈N,nước₁ ∈N,జలము₁ ∈N; నీరు₁ ∈N,水₁ ∈N,,ውሃ₁ ∈N,tubig,தண்ணீர்₁ ∈N; நீர்₁ ∈N,su ∈N,mái₁ ∈N,,موية₁ ∈N,مَيّ₁ ∈N·MG,,bishaan₁ ∈N; biye₁ ∈N,omi₁ ∈N,물₁ ∈N,ชล₁ ∈N; น้ำ₁ ∈N,woda₁ ∈N·FG,vatten₁ ∈N·NG; vätur₁ ∈N,unu; yaku,y,წყალი₁ ∈N,ᠤ₁ ∈N,ur ∈N·WeakR,imeq₁ ∈N,aqua₁ ∈N·FG; lympha₁ ∈N·FG,akv-₁ ∈N,,djacu,,,nao₁ ∈predicate,,,jeon ∈VI,ʎı̋
 wapube,,,1,,,,,,substance,,,,,,,,,,,,,, ,,,➊ is wax.,,, ,,,,,,,wax ∈N·U,,,,,,,cire ∈N·F,,,,,,,,,,,,,,,,,mum ∈N,,,,,,,,,,,,,,,,ezko ∈N,,,,,,,,paku₁,,,,
 nenoda,,,1,,,,,,substance beverage alcoholic_beverage,,,,,,,,,,,,,, ,,,➊ is wine (an alcoholic beverage made by fermenting the juice of grapes).,,, ,,,,,,,wine ∈NU,,,,,,,vin ∈N·M,,,,,,,,,,,,,,,,,şarap ∈N,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 virana,,,1,,,,,,substance chemical_element,,,,,,,,,,,,,, ,,,"➊ is aluminium (matter made of atoms of that element, with no or negligible amount of impurities).",,, ,,,,,,,aluminium ∈N·U,,,,,,,aluminium ∈N·M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pıoloha₁; tanoloha₁,,,,
@@ -1464,7 +1464,7 @@ qigiwu,,,1,,,,,,substance secretion,,,,,,,,,,,,,, ,,,➊ is urine.,,, ,,,,,,,pee
 peqivo,,,1,,,,,,material,,,,,,,,,,,,,, ,,,➊ is cotton (material).,,, ,,,,,,,cotton ∈NU,,,,,,,,,,,,,,,,,,,,,,,,pamuk ∈N,,,,,,,,,,,,,,,,,,,,,mapni ∈VI,,,kapasasaı₁; kapasaı₁,,,,
 cicuva,,,1,,,,,,material,,,,,,,,,,,,,, ,,,➊ is sand.,,, ,,,,,,,sand ∈N·U,,,,,,,,,,,,,,,,,,,,,,,,kum ∈N,,,,,,,,,,,,,,,,,,,,,canre ∈VI,,,neaq₁,,,,šác
 lirihe,,,1,,,,,,material,,,,,,,,,,,,,, ,,,➊ is silk.,,, ,,,,,,,silk ∈NU,,,,,,,,,,,,,,,,,,,,,,,,ipek ∈N,,,,,,,,,,,,,,,,,,,,,,,,sırı₁,,,,
-ladata,,,1,,,,,,material,,,,,,,,,,,,,, ,,,➊ is snow.,,, ,,,,,,,snow ∈NU,,,,,,,,,,,,,,,,,,,,,,,,kar ∈N,,,,,,,,,,,,,,,,,,,,,snime ∈VI,,,nıao₁ ∈predicate,,,,cʼáo
+ladata,,,1,,,,,,material,,,,,,,,,,,,,, ,,,➊ is snow.,,, ,,,,,,,snow ∈NU,雪₁ ∈N,बर्फ़₂ ∈N·FG; हिमपात₁ ∈N,nieve₁ ∈N·FG,ثَلْج₁ ∈N·MG,بَرْف₁ ∈N·FG,বরফ₂ ∈N,neige₁ ∈N·FG,salju₁ ∈N,neve₁ ∈N·FG,снег₁ ∈N·MG,,تلج₁ ∈N·MG; ثلج₁ ∈N·MG,ƙànƙar̃ā₂ ∈N,theluji₁ ∈N·C9,Schnee₁ ∈N·MG,बर्फ₂ ∈N,tuyết₁ ∈N,మంచు₂ ∈N; హిమము₁ ∈N,雪₁ ∈N,,የበረዶ ብናኝ₁ ∈N,niyebe₁ ∈Cont,பனி₂ ∈N,kar ∈N; pük₁ ∈N,,,,,ꦱꦭ꧀ꦗꦸ; salju₁ ∈N,cabbii₂ ∈N,ìrì dídì₁ ∈N,눈₁ ∈N,หิมะ₁ ∈N,śnieg₁ ∈N·MG,snö₁ ∈N·CG,rahu₁ ∈N; rit'i₁ ∈N; riti₁ ∈N,,თოვლი₁ ∈N,,elur₁ ∈N,aput₁ ∈N,nix₁ ∈N·FG,neĝ-₁ ∈N,,snime ∈VI,,,nıao₁ ∈predicate,,,,cʼáo
 zorace,,,1,,,,,,material,,,,,,,,,,,,,, ,,,➊ is soil.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,toprak ∈N,,,,,,,,,,,,,,,,,,,,,dertu ∈VI,,,guaqsaı₁,,,pubdel ∈VI,
 vetejo,,,1,,,,,,material,,,,,,,,,,,,,, ,,,➊ is velvet.,,, ,,,,,,,velvet ∈N·U,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,hue'o₁; huelo₁,,,,
 gacafe,,,1,,,,,,material,,,,,,,,,,,,,, ,,,➊ is wool.,,, ,,,,,,,wool ∈N·U,,,,,,,,,,,,,,,,,,,,,,,,yün ∈N,,,,,,,,,,,,,,,,,,,,,sunla ∈VI,,,hobıkıaq₁; puaokıaq₁,,,,
@@ -3099,7 +3099,7 @@ vawede,,,1,,,,,,weather,,,,,,,,,,,,,, ,,,➊ is a storm.,,, ,,,,,,,storm ∈N,,,
 rekomo,,,1,,,,,,weather,,,,,,,,,,,,,, ,,,➊ is a tornado.,,, ,,,,,,,tornado ∈N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,vilcarbi’e ∈VI,,,rıobıu₁,,,,
 qeqoba,,,1,,,,,,weather,,,,,,,,,,,,,, ,,,➊ is a wind storm.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,feırıome₁,,,,
 halihu,,,1,,,,,,weather,,,,,,,,,,,,,, ,,,➊ is hail.,,, ,,,,,,,hail ∈N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,chuaıruq₁ ∈predicate,,,,
-howahu,,,1,,,,,,weather,,,,,,,,,,,,,, ,,,"➊ is wind, moving air.",,,,,,,,,,wind ∈N,風 ∈N,पवन ₁ ∈N·M; हवा ₁ ∈N·F,viento ∈N·M,رِيح  ∈N·F,,বাতাস₂ ∈N; বায়ু₂ ∈N; হাওয়া₂ ∈N,,angin₁ ∈N,vento ∈N·M,,,,,-pepo₁ ∈N·C11,,,,,風 ∈N,,,,,rüzgâr ∈N; yel ∈N,,,,,,,,,,,,wayra ∈N,yvytu ∈N,ქარი ∈N,ᠰᠠᠯᠬᠢ₁ ∈N,haize ∈N,anori ∈N,ventus,,,,,,,,,,hwéa
+howahu,,,1,,,,,,weather,,,,,,,,,,,,,, ,,,"➊ is wind, moving air.",,,,,,,,,,wind ∈N,風 ∈N,पवन ₁ ∈N·M; हवा ₁ ∈N·F,biruje₁ ∈N·MG; lessueste₁ ∈N·MG; ventarrón₁ ∈N·MG; viento ∈N·M,رِيح  ∈N·F,پَوَن₁ ∈N·MG; ہَوا₁ ∈N·FG,বাতাস₂ ∈N; বায়ু₂ ∈N; হাওয়া₂ ∈N,vent₁ ∈N·MG,angin₁ ∈N,vento ∈N·M,ве́тер₁ ∈N·MG,,رياح₁ ∈N·FG; ريح₁ ∈N·FG; هوا₁ ∈N·FG,iska₁ ∈N,-pepo₁ ∈N·C11,Wind₁ ∈N·MG,वारा₁ ∈N,gió₁ ∈N,తెమ్మెర₁ ∈N; పవనము₁ ∈N,風 ∈N,,ነፋስ₁ ∈N,hangin₁ ∈Cont,காற்று₁ ∈N,esin₁ ∈N; esinti₁ ∈N; rüzgâr ∈N; yel ∈N,mopepe₁ ∈N,باد₁ ∈N,,,angin₁ ∈N,bubbee₁ ∈N,afẹ́fẹ́₁ ∈N; ẹ̀fúfú₁ ∈N,바람₁ ∈N,ลม₁ ∈N,wiatr₁ ∈N·MG,blåst₁ ∈N·c; vind₁ ∈N·c,wayra ∈N,yvytu ∈N,ქარი ∈N,ᠰᠠᠯᠬᠢ₁ ∈N,haize ∈N,anori ∈N; sila₂ ∈N,ventus; ventus₁ ∈N·MG,vent-₁ ∈N,,,,,,,,,hwéa
 nirunu,,,1,,,,,,weather,,,,,,,,,,,,,, ,,,➊ rains.,,, ,,,,,,,rain ∈V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,meul ∈VI,ršı̋
 sewaza,,,1,,,,,,weather,,,,,,,,,,,,,, ,,,➊ snows.,,, ,,,,,,,snow ∈V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 huzade,,,0,,,,,,season,,,,,,,,,,,,,, ,,,"It is autumn, fall.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cluan ∈V0,
@@ -4017,6 +4017,7 @@ nuluya,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ has been ➋ed (binary relation).,,, ,,,,,
 nepaka,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ has biological offspring ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,panzi ∈VT  21,,,"fu₁ ∈predicate [DO,S]",,,,
 gameke,,,2,,,,,,,,,,,,,,,,,,,, ,,,"➊ has character, personality trait ➋ (property).",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,zerai ∈VT_P1,
 zuvamo,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ has characteristics typically associated with property ➋.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+tobuta,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ has component ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 penome,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ has cooked food ➋.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,e tian tsau ∈VT  21,
 sosivu,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ has culturally-acquired property ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cıaojeo₁,,,,
 geraqu,,,2,s s,,,,,,,,,,,,,,,,,,, ,,,➊ has dominant hand ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,joqmuq₁,,,,
@@ -4109,7 +4110,7 @@ qokojo,,,1,,,,,,,,,,,,,,,,,,,, ,,,➊ is a communication channel or chat room.,,
 pujama,,,1,,,,,,,,,,,,,,,,,,,, ,,,➊ is a community (group of interacting organisms).,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,toıme₂,,,,
 qaseve,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ is a community sharing culture ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cıaojeqme₁,,,,
 kucagi,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ is a companion/mate/comrade/associate/partner of ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,paıgaq₁,,,,
-zerivo,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ is a component of ➋.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,doepaq₁,,,,
+zerivo,,,,,,,,,,,,,,,,,,,,,,,,,,➊ is a component indended for ➋.,,,,,,,,,,part ∈N·for,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,doepaq₁,,,,
 tikiqi,,,1,,,,,,,,,,,,,,,,,,,,,,,➊ is a conifer.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 serese,,,2,,,,,,,,,,,,,,,,,,,, ,,,➊ is a conjecture/hypothesis explaining why ➋ is the case.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 luveqo,,,1,,,,,,,,,,,,,,,,,,,, ,,,➊ is a contentive phrase/expression.,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,doemıatoame₁,,,,
@@ -9085,7 +9086,6 @@ tiyihu,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 tizome,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 tizute,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 tobapa,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-tobuta,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 tocatu,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 tocawe,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 tocaza,,,,,,,,,,,,,,,,,,,,,,, ,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

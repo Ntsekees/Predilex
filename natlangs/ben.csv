@@ -1,5 +1,6 @@
 Lemma,Discriminator,Lemma: Latin,Discriminator: Latin,Dialect,Supertype,Morphotype,Features,Sememe,Definition,Examples,Synonyms,Gloss,Frequency,Etymology,Etymological,notes
  পিঁপড়া ,1,,,,N,,,yawifa,,,,,,,,
+অংশ,1,oṅśo,,,N,,,deludo 21,,,,,,,,
 অঙ্ক,1,oṅko,,,N,,,sakipe,,,,,,,,
 অথবা,1,othoba,,,Coo,,,  zarowi,,,,,,,,
 অথবা,2,othoba,,,Coo,,,,choice question,,,,,,,
@@ -45,6 +46,7 @@ Lemma,Discriminator,Lemma: Latin,Discriminator: Latin,Dialect,Supertype,Morphoty
 কিংবা,2,kiṅba,,,Coo,,,,choice question,,,,,,,
 কুকুর,1,,,,N,,,yobanu,,,,,,,,
 কুত্তা,1,,,,N,,,yobanu,,,,,,,,
+খন্ড,1,khonḍ,,,N,,,deludo 21,,,,,,,,
 ঘটা,1,ghoṭa,,,V,,,dosoko,,,,,,,,
 চিজ,1,,cij,,N,,,gisiwu,,,,,,,,
 জল,1,,,,N,,,seliwa,,,,,,,,
@@ -58,6 +60,8 @@ Lemma,Discriminator,Lemma: Latin,Discriminator: Latin,Dialect,Supertype,Morphoty
 নূর,1,nur,,,N,,,kayayu,,,,,,,,
 পানি,1,,,,N,,,seliwa,,,,,,,,
 পালং,1,,,,N,,,dufiqa,,,,,,,,
+বরফ,1,boroph,,,N,,,lunice,,,,,,,,
+বরফ,2,boroph,,,N,,,ladata,,,,,,,,
 বর্ণ,1,borno,,,N,,,piyiwu,,,,,,,,
 বস্তু,1,,bostu,,N,,,gisiwu,,,,,,,,
 বা,1,ba,,,Coo,,,  zarowi,,,,,,,,
